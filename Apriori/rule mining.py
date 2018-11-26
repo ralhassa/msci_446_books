@@ -5,13 +5,13 @@ import matplotlib.pyplot as plt
 import pandas as pd
 from apyori import apriori
 
-data = pd.read_csv('Goodreads_10k-list_apriori_classYES.csv', encoding='cp1252')
+data = pd.read_csv('Goodreads_10k-list_apriori.csv', encoding='cp1252')
 
 records = []
 for i in range(0, 500):
-    records.append([str(data.values[i, j]) for j in range(0, 3)])
+    records.append([str(data.values[i, j]) for j in range(0, 4)])
 
-association_rules = apriori(records, min_support=0.0001, min_confidence=0.6, min_lift=2, min_length=2)
+association_rules = apriori(records, min_support=0.001, min_confidence=0.6, min_lift=2, min_length=2)
 association_results = list(association_rules)
 print(len(association_results))
 count = len(association_results)
