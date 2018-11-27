@@ -4,8 +4,7 @@ import pandas as pd
 from apyori import apriori
 
 # data = pd.read_csv('Dataset_apriori_yes.csv', encoding="utf8")
-data = pd.read_csv('Dataset_apriori_no.csv', encoding="utf8")
-
+data = pd.read_csv('/Applications/MAMP/htdocs/msci_446_books/msci_446_books/Apriori/Dataset_apriori_no.csv', encoding="utf8")
 
 records = []
 # for i in range(0, 1139):
