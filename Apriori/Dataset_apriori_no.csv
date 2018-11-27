@@ -1,0 +1,8862 @@
+rounded_book_count,Genre,rounded_ratings_count,rounded_rating
+500,fantasy,1500000,4
+2000,young adult,1300000,4
+100,romance,1100000,4
+500,sci-fi,600000,4
+50,young adult,1000000,4
+200,young adult,900000,4
+200,drama,800000,4
+300,fantasy,800000,4
+200,young adult,800000,4
+80,young adult,700000,4
+200,mystery,600000,4
+100,young adult,700000,4
+200,young adult,500000,4
+100,young adult,700000,4
+100,NA,500000,4
+40,drama,500000,4
+60,comedy,500000,4
+50,comedy,500000,4
+100,drama,500000,4
+300,comedy,600000,4
+200,drama,600000,4
+100,drama,500000,4
+200,fantasy,600000,4
+80,sci-fi,500000,4
+200,sci-fi,500000,4
+100,NA,500000,4
+100,young adult,400000,4
+2000,romance,500000,3
+200,fantasy,600000,4
+300,fantasy,500000,4
+100,drama,500000,4
+20,NA,500000,4
+200,thriller,500000,4
+100,mystery,400000,4
+80,drama,400000,4
+100,fantasy,500000,4
+100,romance,400000,4
+100,fantasy,500000,4
+70,fantasy,500000,4
+70,fantasy,300000,4
+100,young adult,500000,4
+80,young adult,500000,4
+200,fantasy,400000,4
+100,romance,400000,4
+200,thriller,400000,4
+100,fantasy,400000,4
+90,fantasy,400000,5
+2000,crime,400000,4
+200,drama,400000,4
+200,drama,400000,4
+1000,NA,400000,4
+100,fantasy,500000,4
+100,fantasy,400000,4
+100,young adult,400000,4
+100,NA,400000,4
+100,fantasy,400000,4
+90,young adult,400000,4
+90,romance,400000,4
+70,NA,400000,4
+100,NA,300000,4
+1000,fantasy,400000,4
+90,fantasy,400000,4
+100,sci-fi,300000,4
+90,drama,300000,4
+100,romance,200000,4
+20,young adult,300000,4
+70,young adult,300000,4
+200,fantasy,400000,4
+100,mystery,300000,4
+100,mystery,300000,4
+100,mystery,200000,4
+100,thriller,300000,4
+80,young adult,300000,4
+100,mystery,200000,4
+100,young adult,400000,4
+300,NA,300000,4
+100,young adult,200000,4
+90,young adult,400000,4
+50,mystery,300000,4
+100,young adult,400000,4
+70,NA,300000,4
+300,mystery,300000,4
+100,young adult,300000,4
+400,NA,300000,4
+100,mystery,300000,4
+60,fantasy,300000,4
+90,romance,300000,5
+100,young adult,300000,4
+200,sci-fi,300000,4
+100,fantasy,300000,4
+30,young adult,300000,4
+100,fantasy,300000,4
+100,romance,300000,4
+100,mystery,300000,4
+100,fantasy,300000,4
+100,romance,300000,4
+20,comedy,300000,4
+70,drama,300000,4
+70,fantasy,300000,4
+100,sci-fi,300000,4
+200,fantasy,300000,4
+200,sci-fi,200000,4
+1000,sci-fi,300000,4
+70,young adult,200000,4
+50,drama,200000,4
+60,drama,300000,4
+100,fantasy,200000,5
+90,romance,300000,4
+100,fantasy,300000,4
+100,fantasy,300000,4
+100,romance,200000,4
+100,NA,200000,4
+100,young adult,300000,4
+70,young adult,200000,4
+100,fantasy,300000,4
+70,young adult,300000,4
+200,fantasy,300000,4
+80,young adult,300000,4
+90,young adult,300000,4
+80,young adult,200000,4
+100,NA,200000,4
+90,fantasy,300000,4
+300,sci-fi,300000,4
+80,romance,300000,4
+100,mystery,200000,4
+30,sci-fi,200000,4
+100,fantasy,200000,4
+100,mystery,200000,3
+50,comedy,200000,4
+200,young adult,300000,4
+80,young adult,300000,4
+200,horror,200000,4
+100,fantasy,300000,4
+30,comedy,300000,4
+40,fantasy,300000,4
+100,NA,200000,4
+200,fantasy,100000,4
+80,young adult,300000,4
+60,fantasy,200000,4
+80,fantasy,200000,4
+100,sci-fi,200000,4
+60,comedy,200000,4
+200,NA,200000,4
+90,young adult,200000,4
+90,drama,200000,4
+100,fantasy,200000,4
+90,young adult,200000,4
+70,drama,200000,4
+90,young adult,300000,4
+90,NA,200000,4
+90,young adult,200000,4
+80,fantasy,200000,4
+70,young adult,300000,4
+90,young adult,300000,4
+70,romance,200000,4
+100,fantasy,300000,4
+100,sci-fi,200000,4
+10,horror,200000,4
+2000,NA,200000,4
+80,mystery,200000,4
+60,NA,200000,4
+80,romance,200000,4
+100,romance,200000,4
+100,romance,200000,4
+1000,romance,200000,4
+80,NA,100000,4
+80,young adult,200000,4
+200,fantasy,200000,4
+100,mystery,200000,4
+70,young adult,200000,4
+80,young adult,200000,4
+100,romance,200000,4
+80,romance,200000,4
+80,fantasy,200000,5
+80,young adult,200000,4
+400,mystery,200000,4
+90,young adult,200000,4
+100,comedy,200000,4
+700,drama,200000,4
+70,fantasy,300000,4
+200,fantasy,200000,4
+200,sci-fi,200000,4
+70,romance,200000,4
+70,young adult,200000,4
+200,drama,200000,4
+60,drama,200000,4
+70,romance,200000,4
+200,sci-fi,200000,4
+100,drama,200000,4
+80,sci-fi,200000,4
+1000,mystery,200000,4
+100,fantasy,200000,4
+100,NA,200000,4
+80,young adult,200000,4
+40,fantasy,200000,4
+40,romance,200000,4
+100,fantasy,200000,4
+60,sci-fi,200000,4
+100,drama,200000,4
+80,fantasy,200000,5
+30,NA,200000,4
+100,romance,200000,4
+50,romance,200000,4
+40,fantasy,200000,4
+10,fantasy,200000,4
+80,romance,200000,4
+100,young adult,200000,4
+1000,romance,200000,4
+200,NA,200000,4
+80,mystery,200000,4
+100,NA,200000,4
+10,young adult,200000,4
+200,drama,200000,4
+100,thriller,200000,4
+2000,NA,200000,4
+40,fantasy,200000,4
+90,fantasy,200000,4
+50,drama,200000,4
+100,young adult,200000,4
+700,NA,100000,4
+40,young adult,200000,4
+70,young adult,200000,4
+100,sci-fi,200000,4
+200,NA,200000,4
+100,mystery,200000,4
+70,NA,100000,4
+100,mystery,200000,4
+40,horror,200000,4
+60,romance,200000,4
+90,young adult,100000,4
+60,NA,200000,4
+90,romance,200000,4
+70,fantasy,200000,4
+100,mystery,200000,4
+80,young adult,200000,4
+80,romance,200000,4
+80,fantasy,100000,4
+50,romance,200000,4
+80,young adult,200000,4
+100,fantasy,100000,4
+60,young adult,200000,4
+20,NA,100000,4
+80,fantasy,200000,4
+100,fantasy,200000,4
+60,fantasy,200000,4
+70,crime,100000,4
+100,drama,100000,3
+50,comedy,200000,4
+90,fantasy,200000,4
+80,fantasy,80000,4
+90,NA,200000,4
+80,mystery,200000,4
+50,romance,200000,4
+300,fantasy,200000,4
+60,young adult,200000,4
+100,young adult,200000,4
+200,NA,100000,4
+60,fantasy,200000,4
+50,young adult,100000,4
+100,sci-fi,100000,4
+90,romance,100000,4
+100,romance,200000,4
+100,young adult,200000,4
+90,fantasy,200000,4
+2000,romance,200000,4
+50,fantasy,100000,5
+90,fantasy,200000,4
+60,fantasy,200000,4
+90,romance,100000,4
+90,drama,100000,4
+70,fantasy,100000,4
+100,sci-fi,200000,4
+200,romance,100000,4
+1000,comedy,200000,4
+40,fantasy,200000,4
+100,NA,200000,4
+60,fantasy,200000,4
+200,NA,200000,4
+70,young adult,200000,4
+40,horror,100000,4
+70,fantasy,200000,4
+100,drama,100000,4
+50,romance,100000,4
+70,young adult,200000,4
+600,fantasy,100000,4
+80,young adult,200000,4
+200,sci-fi,200000,4
+80,young adult,200000,4
+300,fantasy,200000,4
+60,fantasy,100000,4
+20,comedy,100000,4
+300,fantasy,100000,4
+10,fantasy,200000,4
+50,young adult,200000,4
+30,NA,100000,4
+300,sci-fi,100000,4
+100,romance,100000,4
+900,horror,100000,4
+40,young adult,200000,4
+70,crime,100000,4
+2000,mystery,200000,4
+100,NA,100000,4
+80,young adult,200000,4
+70,fantasy,200000,4
+40,mystery,100000,4
+40,fairy-tales,100000,4
+70,NA,100000,4
+80,fantasy,200000,4
+80,young adult,200000,4
+90,romance,100000,4
+200,romance,100000,4
+10,fantasy,200000,4
+300,sci-fi,100000,4
+80,drama,100000,4
+100,sci-fi,100000,4
+200,young adult,200000,4
+0,romance,100000,4
+80,young adult,200000,4
+60,young adult,200000,4
+40,romance,100000,4
+100,fantasy,100000,4
+100,fantasy,100000,4
+80,fantasy,200000,4
+90,drama,100000,4
+60,young adult,100000,4
+60,young adult,200000,4
+100,crime,100000,4
+100,drama,100000,4
+80,NA,100000,4
+50,young adult,100000,4
+80,NA,100000,4
+80,NA,100000,4
+100,horror,100000,4
+100,fantasy,100000,4
+40,young adult,200000,4
+60,young adult,100000,4
+200,fantasy,100000,4
+80,romance,100000,4
+80,romance,100000,4
+80,romance,100000,4
+70,NA,100000,4
+80,romance,100000,4
+700,NA,90000,4
+100,young adult,200000,4
+60,fantasy,200000,5
+60,young adult,100000,4
+90,romance,100000,4
+40,crime,100000,4
+50,romance,100000,4
+60,NA,100000,4
+100,horror,100000,4
+60,romance,100000,4
+50,romance,100000,4
+100,mystery,100000,4
+100,horror,100000,4
+50,mystery,100000,4
+2000,sci-fi,100000,4
+60,romance,100000,4
+100,horror,100000,4
+100,romance,100000,4
+100,horror,100000,4
+2000,sci-fi,100000,4
+70,young adult,100000,4
+200,romance,100000,4
+200,drama,100000,4
+60,NA,100000,4
+60,young adult,100000,4
+100,romance,100000,4
+60,young adult,100000,4
+1000,drama,100000,4
+100,drama,100000,3
+100,romance,90000,4
+10,young adult,100000,5
+50,NA,100000,4
+20,comedy,100000,4
+80,fantasy,100000,4
+100,crime,100000,4
+70,fantasy,200000,4
+80,fantasy,100000,4
+100,sci-fi,100000,4
+90,young adult,100000,4
+100,drama,100000,4
+100,sci-fi,100000,4
+70,young adult,100000,4
+60,romance,100000,3
+100,sci-fi,80000,4
+50,fantasy,100000,4
+200,NA,100000,4
+0,comedy,100000,4
+70,fantasy,100000,4
+100,young adult,100000,4
+70,fantasy,100000,4
+60,drama,100000,4
+60,young adult,200000,4
+100,sci-fi,100000,4
+30,young adult,100000,4
+50,NA,100000,4
+0,fantasy,100000,4
+60,young adult,200000,4
+50,comedy,100000,4
+40,young adult,100000,4
+60,sci-fi,100000,4
+70,romance,100000,4
+100,drama,100000,4
+100,romance,100000,4
+70,fantasy,100000,4
+60,NA,100000,4
+300,mystery,100000,5
+1000,drama,100000,4
+60,NA,100000,4
+800,NA,100000,4
+50,young adult,200000,4
+70,NA,100000,4
+10,NA,100000,4
+40,romance,100000,4
+80,drama,100000,4
+20,comedy,100000,5
+70,young adult,100000,4
+500,romance,100000,4
+60,young adult,100000,4
+80,fantasy,100000,4
+20,young adult,100000,4
+40,comedy,100000,4
+100,sci-fi,100000,4
+80,NA,100000,4
+10,mystery,100000,4
+300,fantasy,100000,4
+100,horror,100000,4
+60,romance,100000,4
+40,NA,100000,4
+50,fantasy,100000,4
+300,young adult,100000,4
+70,comedy,100000,4
+60,fantasy,100000,4
+1000,drama,100000,4
+60,young adult,100000,4
+40,sci-fi,100000,4
+20,romance,100000,4
+80,mystery,100000,4
+50,romance,100000,4
+50,romance,100000,4
+60,young adult,100000,4
+0,NA,100000,4
+900,NA,100000,4
+90,romance,100000,4
+100,mystery,90000,4
+80,mystery,100000,4
+500,drama,100000,4
+50,romance,100000,4
+60,young adult,100000,4
+40,young adult,100000,4
+100,mystery,80000,4
+0,young adult,100000,4
+50,fantasy,100000,4
+90,drama,90000,4
+80,sci-fi,100000,4
+100,romance,100000,4
+50,romance,100000,4
+30,romance,80000,4
+40,NA,100000,4
+30,young adult,100000,4
+80,drama,100000,4
+90,mystery,100000,4
+80,NA,100000,4
+90,drama,50000,4
+900,drama,100000,4
+70,sci-fi,100000,4
+80,sci-fi,100000,4
+50,fantasy,100000,4
+50,young adult,100000,4
+60,romance,100000,4
+30,fantasy,70000,5
+100,fantasy,100000,4
+80,romance,100000,4
+100,romance,100000,4
+200,young adult,100000,4
+100,young adult,100000,4
+60,fantasy,100000,4
+400,horror,100000,4
+40,mystery,90000,4
+60,fantasy,100000,4
+500,NA,100000,4
+50,young adult,100000,4
+100,NA,100000,4
+30,young adult,70000,4
+70,horror,100000,4
+100,NA,100000,4
+30,fantasy,100000,4
+60,romance,100000,4
+100,sci-fi,100000,4
+60,fantasy,100000,4
+70,NA,90000,4
+40,young adult,90000,4
+100,fantasy,100000,4
+60,NA,90000,4
+200,sci-fi,90000,4
+100,NA,100000,4
+20,drama,100000,4
+100,mystery,100000,4
+500,sci-fi,100000,4
+50,romance,100000,4
+70,romance,100000,4
+70,romance,100000,4
+70,drama,100000,3
+70,fantasy,100000,4
+60,sci-fi,100000,4
+80,mystery,100000,4
+60,NA,100000,4
+100,horror,100000,4
+80,fantasy,100000,4
+100,fantasy,100000,4
+100,drama,100000,4
+90,NA,100000,4
+100,mystery,100000,4
+90,young adult,60000,4
+80,romance,90000,3
+100,romance,90000,4
+60,mystery,80000,3
+20,young adult,100000,4
+60,fantasy,100000,4
+70,comedy,90000,3
+60,NA,90000,4
+70,fantasy,100000,4
+200,drama,100000,4
+80,young adult,90000,4
+60,romance,100000,4
+50,mystery,90000,4
+90,romance,90000,4
+30,comedy,100000,4
+40,comedy,80000,4
+70,young adult,100000,4
+70,young adult,100000,4
+70,fantasy,70000,4
+50,drama,90000,4
+60,fantasy,90000,4
+70,young adult,100000,4
+60,thriller,50000,4
+80,romance,100000,4
+10,young adult,90000,4
+90,romance,90000,4
+100,comedy,90000,4
+80,fantasy,100000,4
+40,young adult,90000,4
+800,NA,90000,4
+700,romance,100000,4
+30,romance,100000,4
+100,thriller,90000,4
+40,romance,90000,4
+100,mystery,90000,4
+100,thriller,90000,4
+80,NA,80000,4
+60,fantasy,80000,4
+80,fantasy,100000,4
+70,NA,90000,4
+200,sci-fi,80000,4
+50,crime,90000,4
+0,fantasy,90000,4
+900,fantasy,90000,4
+60,sci-fi,100000,4
+60,mystery,80000,4
+50,fantasy,100000,4
+50,young adult,100000,4
+70,mystery,100000,4
+40,NA,70000,4
+800,fantasy,100000,4
+100,horror,100000,4
+40,fantasy,90000,4
+60,NA,90000,4
+40,romance,100000,4
+40,fantasy,90000,4
+50,young adult,90000,4
+80,young adult,60000,4
+40,young adult,80000,4
+70,mystery,100000,4
+400,romance,90000,4
+20,fantasy,100000,4
+70,young adult,100000,4
+70,fantasy,100000,4
+100,mystery,70000,3
+60,young adult,100000,4
+20,young adult,100000,4
+100,drama,80000,4
+90,NA,60000,4
+30,comedy,80000,4
+70,young adult,100000,4
+30,drama,80000,4
+30,comedy,90000,5
+80,mystery,100000,4
+90,mystery,90000,4
+90,NA,90000,4
+100,sci-fi,90000,4
+400,fantasy,80000,4
+100,mystery,90000,4
+70,romance,80000,4
+90,fantasy,80000,4
+200,sci-fi,90000,4
+90,fantasy,100000,4
+40,NA,80000,4
+50,fantasy,90000,4
+90,mystery,100000,4
+40,NA,80000,4
+60,romance,90000,4
+60,fantasy,100000,4
+50,mystery,90000,4
+30,fantasy,100000,4
+60,young adult,80000,4
+200,NA,70000,4
+50,fantasy,100000,4
+60,fantasy,100000,4
+80,NA,70000,4
+40,romance,80000,4
+100,mystery,80000,4
+80,young adult,90000,4
+90,horror,100000,3
+30,comedy,80000,4
+80,sci-fi,90000,4
+20,comedy,70000,4
+80,young adult,100000,4
+40,comedy,90000,4
+50,young adult,90000,4
+60,fantasy,100000,4
+40,romance,80000,4
+50,fantasy,100000,4
+200,fantasy,80000,4
+50,horror,80000,4
+100,mystery,80000,4
+200,mystery,90000,4
+30,young adult,90000,4
+40,NA,80000,4
+60,young adult,100000,4
+60,young adult,100000,4
+80,romance,90000,4
+80,mystery,70000,4
+50,young adult,100000,4
+60,mystery,100000,4
+60,NA,80000,4
+80,NA,90000,4
+70,fantasy,80000,4
+50,romance,80000,4
+100,sci-fi,70000,4
+50,drama,80000,3
+30,fantasy,100000,4
+100,NA,80000,4
+30,young adult,100000,4
+0,romance,70000,4
+100,mystery,70000,4
+50,crime,80000,4
+500,drama,80000,4
+20,romance,70000,3
+70,fantasy,100000,4
+80,young adult,90000,4
+100,fantasy,90000,4
+40,horror,80000,4
+100,mystery,80000,4
+90,mystery,60000,4
+60,young adult,100000,4
+500,young adult,80000,4
+30,young adult,90000,4
+20,comedy,70000,4
+50,NA,70000,4
+1000,NA,40000,4
+100,thriller,70000,4
+50,drama,90000,4
+40,comedy,70000,4
+60,romance,80000,4
+80,romance,80000,4
+100,fantasy,80000,4
+80,fantasy,80000,4
+20,young adult,80000,4
+40,romance,80000,4
+40,romance,80000,3
+10,young adult,100000,4
+1000,NA,70000,4
+40,crime,70000,4
+100,thriller,80000,4
+70,young adult,100000,4
+60,fantasy,90000,4
+900,fantasy,90000,4
+100,horror,70000,4
+60,young adult,100000,4
+0,horror,80000,4
+70,horror,70000,4
+20,romance,70000,3
+30,romance,90000,4
+50,fantasy,90000,4
+100,fantasy,100000,4
+0,fantasy,100000,4
+20,romance,100000,4
+40,romance,90000,4
+1000,NA,70000,4
+70,drama,70000,4
+100,fantasy,90000,4
+50,young adult,100000,4
+30,NA,90000,4
+0,sci-fi,70000,4
+50,romance,100000,4
+50,romance,80000,4
+50,drama,80000,4
+40,young adult,80000,4
+80,young adult,100000,4
+50,crime,40000,4
+50,mystery,100000,4
+60,fantasy,70000,4
+40,fantasy,80000,4
+100,fantasy,90000,4
+30,comedy,70000,4
+90,NA,70000,4
+30,drama,80000,4
+30,comedy,70000,4
+80,young adult,100000,4
+60,fantasy,70000,4
+40,romance,100000,4
+2000,fantasy,70000,4
+70,NA,70000,4
+40,young adult,100000,4
+50,young adult,100000,4
+70,romance,80000,4
+100,young adult,100000,4
+60,crime,80000,3
+30,fantasy,90000,4
+100,sci-fi,80000,4
+90,romance,40000,4
+50,mystery,90000,4
+80,mystery,80000,4
+30,fantasy,80000,4
+400,romance,80000,4
+50,young adult,80000,4
+10,romance,60000,4
+100,NA,70000,4
+100,NA,50000,4
+50,romance,80000,4
+90,sci-fi,80000,4
+50,young adult,80000,4
+80,young adult,80000,4
+40,mystery,70000,4
+70,fantasy,90000,4
+10,young adult,80000,4
+60,drama,70000,4
+20,sci-fi,80000,4
+50,fantasy,70000,4
+60,fantasy,90000,4
+40,young adult,100000,4
+100,fantasy,60000,4
+30,romance,60000,4
+600,young adult,80000,4
+100,thriller,80000,4
+60,drama,60000,4
+50,sci-fi,70000,4
+800,NA,80000,4
+40,young adult,80000,4
+20,young adult,80000,4
+40,fantasy,70000,4
+40,romance,100000,4
+50,romance,70000,4
+50,young adult,70000,4
+80,sci-fi,70000,4
+80,NA,30000,4
+80,young adult,100000,4
+70,mystery,90000,4
+40,young adult,100000,4
+40,fantasy,80000,4
+70,fantasy,70000,4
+50,romance,70000,4
+60,mystery,90000,4
+60,young adult,90000,4
+90,sci-fi,80000,4
+60,horror,70000,4
+100,romance,70000,4
+50,NA,60000,4
+300,mystery,60000,4
+10,mystery,70000,4
+20,crime,70000,4
+70,drama,60000,4
+90,fantasy,80000,4
+60,young adult,90000,4
+100,thriller,70000,4
+80,fantasy,70000,4
+100,thriller,80000,4
+100,horror,80000,4
+60,fantasy,70000,4
+100,NA,60000,4
+40,young adult,90000,4
+60,NA,70000,4
+50,fantasy,70000,4
+70,young adult,80000,4
+70,young adult,70000,4
+60,romance,100000,4
+100,young adult,80000,4
+70,fantasy,80000,4
+60,mystery,70000,4
+100,fantasy,70000,4
+100,sci-fi,70000,4
+60,sci-fi,70000,4
+30,young adult,90000,4
+50,NA,80000,4
+50,mystery,90000,4
+40,romance,70000,4
+70,thriller,70000,4
+100,romance,60000,4
+70,romance,60000,4
+40,comedy,80000,4
+60,fantasy,90000,4
+0,fantasy,80000,4
+50,romance,70000,4
+40,young adult,100000,4
+50,NA,70000,4
+50,fantasy,70000,4
+800,fantasy,80000,4
+60,romance,70000,4
+100,fantasy,60000,4
+40,fantasy,60000,4
+50,young adult,80000,4
+50,young adult,90000,4
+100,fantasy,90000,4
+20,mystery,80000,4
+100,thriller,70000,4
+70,young adult,90000,4
+60,young adult,80000,4
+50,romance,100000,4
+20,horror,70000,4
+40,mystery,90000,4
+80,NA,60000,4
+40,romance,100000,4
+100,thriller,70000,4
+60,young adult,90000,4
+80,fantasy,70000,4
+40,comedy,60000,4
+40,drama,70000,4
+60,young adult,90000,4
+90,NA,60000,4
+40,fantasy,80000,4
+60,mystery,90000,4
+70,thriller,60000,3
+60,comedy,70000,4
+40,young adult,100000,5
+60,NA,60000,4
+70,NA,60000,4
+80,mystery,70000,4
+80,sci-fi,60000,4
+70,NA,70000,4
+1000,NA,60000,4
+40,young adult,70000,4
+70,drama,70000,4
+40,mystery,70000,4
+100,comedy,60000,4
+100,mystery,70000,4
+50,fantasy,70000,4
+100,fantasy,90000,4
+30,young adult,80000,4
+60,mystery,70000,4
+50,NA,60000,4
+0,mystery,50000,4
+50,NA,70000,4
+80,NA,60000,4
+50,comedy,70000,4
+100,sci-fi,70000,4
+60,fantasy,70000,3
+70,fantasy,100000,4
+50,fantasy,100000,4
+300,fantasy,60000,4
+30,fantasy,80000,4
+60,sci-fi,60000,4
+60,fantasy,70000,4
+100,fantasy,80000,4
+60,NA,70000,4
+10,mystery,60000,4
+60,fantasy,70000,4
+80,horror,50000,4
+70,fantasy,80000,4
+70,young adult,90000,4
+20,fantasy,70000,4
+40,young adult,100000,4
+30,horror,80000,4
+10,young adult,70000,4
+70,fantasy,60000,4
+200,fantasy,70000,4
+60,fantasy,80000,4
+100,horror,70000,4
+100,mystery,70000,4
+60,fantasy,70000,4
+30,fantasy,80000,4
+10,drama,70000,4
+70,young adult,80000,4
+80,fantasy,70000,4
+50,young adult,70000,4
+40,young adult,50000,4
+90,NA,60000,4
+30,fantasy,70000,5
+0,mystery,60000,4
+100,mystery,70000,4
+80,young adult,80000,5
+0,fantasy,90000,4
+0,horror,60000,4
+90,NA,60000,4
+60,fantasy,50000,4
+40,drama,70000,4
+40,young adult,60000,4
+100,mystery,60000,4
+60,horror,60000,4
+50,mystery,80000,4
+80,young adult,80000,4
+20,comedy,60000,4
+30,fantasy,70000,4
+100,mystery,60000,4
+80,young adult,100000,4
+50,young adult,90000,4
+70,fantasy,70000,4
+50,fantasy,60000,4
+70,NA,70000,4
+10,fairy-tales,80000,4
+30,NA,70000,4
+80,sci-fi,70000,4
+60,romance,70000,4
+100,mystery,60000,4
+20,romance,50000,3
+100,crime,70000,4
+40,fantasy,70000,4
+60,young adult,70000,4
+90,romance,60000,4
+50,NA,90000,4
+40,young adult,90000,4
+90,romance,60000,3
+60,fantasy,70000,4
+20,fantasy,60000,4
+90,comedy,60000,3
+40,fantasy,60000,4
+100,horror,70000,4
+100,thriller,60000,4
+60,young adult,70000,4
+50,drama,60000,4
+80,horror,70000,4
+80,comedy,60000,4
+40,fantasy,60000,4
+90,romance,60000,3
+1000,NA,60000,4
+40,mystery,90000,4
+90,comedy,70000,4
+40,fantasy,90000,4
+40,NA,60000,4
+90,young adult,60000,4
+50,drama,60000,4
+40,NA,60000,4
+60,romance,30000,4
+40,fantasy,50000,4
+90,young adult,50000,4
+30,NA,50000,4
+60,NA,70000,4
+60,comedy,70000,4
+30,fantasy,70000,4
+10,fantasy,60000,4
+50,fantasy,80000,4
+40,drama,60000,4
+30,fantasy,70000,4
+80,romance,60000,4
+80,comedy,60000,4
+600,mystery,60000,4
+60,mystery,50000,4
+60,fantasy,70000,4
+90,drama,60000,4
+200,mystery,50000,4
+40,comedy,70000,4
+40,romance,80000,4
+50,romance,90000,4
+50,fantasy,60000,4
+10,romance,40000,4
+50,young adult,80000,4
+600,mystery,70000,4
+60,NA,70000,4
+40,fantasy,70000,4
+10,fantasy,90000,4
+20,romance,50000,4
+50,romance,80000,4
+70,sci-fi,60000,4
+900,fantasy,60000,4
+100,NA,60000,4
+40,fantasy,70000,4
+70,horror,40000,4
+100,sci-fi,60000,4
+60,NA,60000,4
+30,comedy,60000,4
+10,young adult,60000,4
+50,fantasy,50000,5
+50,drama,70000,4
+100,fantasy,60000,4
+60,romance,70000,4
+70,fantasy,90000,4
+30,comedy,50000,4
+60,young adult,60000,4
+100,NA,50000,4
+60,mystery,70000,4
+20,fantasy,70000,4
+60,fantasy,60000,4
+50,romance,80000,4
+90,NA,60000,4
+60,NA,60000,4
+100,NA,50000,4
+80,horror,60000,4
+300,drama,60000,4
+60,sci-fi,60000,4
+100,sci-fi,70000,4
+400,drama,70000,4
+90,romance,60000,4
+40,young adult,80000,4
+30,NA,80000,4
+60,fantasy,60000,4
+800,young adult,70000,3
+60,comedy,60000,4
+60,fantasy,60000,4
+20,fantasy,80000,4
+80,fantasy,70000,4
+50,drama,60000,4
+90,thriller,60000,4
+70,young adult,80000,4
+60,fantasy,60000,4
+80,drama,60000,4
+50,drama,40000,3
+50,fantasy,70000,4
+40,young adult,80000,4
+40,fantasy,80000,4
+40,romance,80000,4
+90,mystery,50000,4
+100,drama,50000,4
+100,fantasy,70000,4
+40,fantasy,60000,4
+50,romance,60000,3
+50,fantasy,70000,4
+60,young adult,80000,4
+40,young adult,80000,4
+60,thriller,60000,4
+50,fantasy,70000,4
+70,young adult,60000,4
+40,young adult,90000,4
+50,NA,60000,4
+40,young adult,60000,4
+60,young adult,80000,4
+70,fantasy,50000,4
+30,romance,70000,4
+80,mystery,70000,3
+30,drama,60000,4
+20,romance,80000,4
+0,young adult,70000,4
+50,NA,50000,4
+50,fantasy,70000,4
+100,mystery,60000,4
+100,sci-fi,60000,4
+80,romance,60000,4
+80,horror,60000,4
+60,NA,60000,4
+20,comedy,60000,4
+600,drama,70000,4
+50,drama,60000,4
+40,drama,70000,4
+80,young adult,90000,4
+40,NA,50000,4
+50,fantasy,70000,4
+90,horror,60000,4
+50,young adult,80000,4
+100,fantasy,70000,4
+80,thriller,60000,4
+60,fantasy,60000,4
+60,romance,70000,4
+100,NA,40000,4
+80,mystery,40000,4
+50,romance,60000,4
+100,thriller,60000,4
+100,NA,50000,4
+20,fantasy,70000,5
+80,fantasy,70000,4
+10,young adult,60000,4
+900,romance,70000,4
+40,mystery,80000,4
+100,mystery,60000,4
+40,young adult,80000,4
+20,young adult,50000,4
+50,young adult,80000,4
+80,romance,50000,4
+100,NA,50000,4
+40,young adult,70000,4
+60,NA,50000,4
+80,thriller,50000,4
+40,romance,60000,5
+60,NA,60000,4
+200,drama,50000,4
+80,NA,50000,4
+10,sci-fi,60000,4
+100,fantasy,60000,4
+30,fantasy,60000,4
+800,mystery,60000,4
+30,fantasy,70000,4
+70,fantasy,70000,4
+40,fantasy,70000,4
+30,fantasy,80000,4
+50,young adult,70000,4
+60,fantasy,60000,4
+50,young adult,70000,4
+60,mystery,60000,3
+90,drama,60000,4
+70,thriller,50000,4
+30,young adult,60000,4
+60,sci-fi,50000,4
+40,sci-fi,60000,4
+10,mystery,40000,4
+40,fantasy,60000,4
+100,young adult,60000,4
+40,young adult,80000,4
+60,young adult,70000,4
+40,fantasy,80000,4
+20,fantasy,60000,5
+60,romance,60000,3
+50,young adult,60000,4
+60,sci-fi,50000,4
+50,romance,60000,4
+70,crime,50000,4
+40,drama,50000,4
+100,fantasy,50000,3
+300,NA,60000,4
+40,fantasy,60000,4
+700,romance,60000,4
+30,young adult,70000,4
+50,fantasy,90000,4
+40,young adult,70000,4
+40,NA,50000,4
+50,young adult,50000,4
+40,NA,50000,4
+40,romance,40000,4
+0,fantasy,50000,4
+20,drama,60000,4
+90,sci-fi,50000,4
+90,sci-fi,50000,3
+50,young adult,60000,4
+600,NA,60000,4
+80,romance,60000,4
+700,romance,50000,3
+40,NA,20000,4
+200,NA,50000,4
+60,romance,60000,4
+30,fantasy,60000,4
+20,sci-fi,50000,4
+50,drama,50000,4
+70,fantasy,70000,4
+30,fantasy,60000,4
+700,young adult,60000,4
+70,fantasy,70000,4
+40,mystery,70000,4
+60,young adult,80000,4
+50,romance,30000,4
+20,fantasy,60000,4
+60,mystery,50000,4
+60,fantasy,50000,4
+30,romance,80000,4
+100,romance,50000,4
+100,NA,50000,4
+80,fantasy,60000,4
+50,romance,40000,3
+70,horror,50000,4
+80,NA,60000,4
+80,romance,60000,4
+70,mystery,60000,4
+70,romance,60000,4
+70,drama,60000,4
+60,young adult,70000,4
+10,horror,60000,4
+40,young adult,70000,4
+100,NA,50000,4
+100,fantasy,60000,4
+40,romance,50000,5
+50,young adult,70000,4
+3000,fantasy,30000,4
+70,fantasy,60000,4
+80,fantasy,60000,4
+40,fantasy,60000,4
+40,sci-fi,40000,4
+40,sci-fi,50000,3
+40,fantasy,50000,4
+100,mystery,60000,4
+100,mystery,50000,4
+80,NA,50000,4
+50,mystery,70000,4
+60,sci-fi,60000,4
+70,fantasy,80000,4
+50,young adult,60000,4
+30,young adult,40000,4
+40,fantasy,80000,4
+100,mystery,50000,4
+50,young adult,70000,4
+40,mystery,50000,4
+40,romance,40000,4
+200,NA,50000,4
+30,romance,50000,4
+30,young adult,70000,4
+10,fantasy,60000,5
+90,thriller,40000,4
+50,fantasy,50000,4
+80,romance,50000,4
+50,fantasy,50000,4
+10,fantasy,60000,4
+60,NA,50000,4
+30,mystery,50000,4
+80,mystery,60000,4
+70,fantasy,60000,4
+40,fantasy,60000,4
+50,fantasy,70000,4
+70,young adult,60000,4
+100,fantasy,60000,4
+30,romance,80000,4
+20,horror,50000,4
+600,romance,60000,4
+30,romance,70000,4
+50,young adult,70000,4
+30,fantasy,70000,4
+20,romance,90000,4
+20,NA,50000,4
+40,romance,40000,4
+70,fantasy,70000,4
+30,fantasy,70000,4
+20,fantasy,60000,4
+50,fantasy,80000,4
+300,horror,60000,4
+20,horror,60000,4
+50,mystery,50000,4
+10,romance,40000,4
+20,comedy,50000,5
+40,young adult,60000,4
+20,mystery,50000,4
+100,NA,50000,4
+30,drama,40000,2
+40,romance,40000,4
+80,NA,50000,4
+90,mystery,50000,4
+0,drama,20000,4
+50,young adult,70000,4
+200,sci-fi,50000,4
+100,fantasy,60000,4
+30,young adult,70000,4
+40,romance,40000,4
+10,young adult,60000,4
+60,drama,50000,4
+50,fantasy,70000,4
+40,sci-fi,50000,5
+40,fantasy,60000,4
+40,comedy,60000,4
+30,mystery,60000,4
+40,fantasy,50000,4
+50,romance,30000,4
+40,drama,50000,4
+50,young adult,50000,4
+40,sci-fi,50000,4
+50,romance,80000,4
+30,mystery,40000,4
+50,young adult,60000,4
+40,mystery,70000,4
+20,romance,40000,3
+100,fantasy,60000,4
+80,young adult,60000,4
+60,young adult,70000,4
+20,fantasy,50000,4
+70,young adult,70000,4
+60,suspense,50000,4
+100,mystery,50000,4
+30,romance,40000,4
+40,romance,30000,4
+200,fantasy,40000,4
+30,fantasy,50000,4
+70,sci-fi,50000,4
+70,thriller,50000,4
+30,NA,50000,4
+50,romance,70000,4
+60,romance,50000,4
+50,drama,50000,4
+50,young adult,50000,3
+50,NA,50000,4
+70,romance,60000,4
+90,sci-fi,40000,4
+40,fantasy,70000,4
+50,young adult,50000,4
+50,young adult,70000,4
+20,young adult,50000,4
+200,romance,30000,4
+70,drama,40000,4
+70,NA,40000,4
+30,comedy,50000,4
+50,fantasy,70000,4
+80,mystery,60000,4
+30,NA,60000,4
+60,young adult,70000,4
+70,sci-fi,50000,4
+50,fantasy,70000,4
+60,mystery,50000,4
+90,NA,40000,4
+30,romance,40000,3
+50,mystery,50000,4
+30,fantasy,70000,4
+30,thriller,40000,4
+40,mystery,50000,4
+60,mystery,50000,4
+60,mystery,50000,4
+20,drama,50000,4
+20,fantasy,50000,4
+80,thriller,40000,4
+200,NA,50000,4
+800,horror,50000,3
+40,romance,50000,3
+50,fantasy,50000,4
+60,sci-fi,50000,4
+100,drama,40000,4
+0,fantasy,50000,4
+700,drama,60000,4
+20,fantasy,50000,4
+500,drama,50000,4
+20,NA,50000,4
+30,fantasy,70000,4
+30,young adult,70000,4
+80,mystery,50000,4
+40,romance,60000,4
+60,romance,30000,3
+50,fantasy,50000,4
+50,young adult,50000,4
+50,sci-fi,30000,4
+50,drama,30000,4
+70,horror,50000,4
+80,thriller,50000,4
+40,young adult,50000,4
+10,fantasy,50000,4
+40,fantasy,40000,4
+40,young adult,70000,4
+60,drama,20000,4
+800,fantasy,50000,4
+70,mystery,60000,4
+50,romance,40000,4
+60,romance,50000,4
+100,sci-fi,50000,4
+100,fantasy,40000,4
+60,fantasy,60000,4
+60,young adult,60000,4
+100,fantasy,50000,4
+40,young adult,50000,4
+80,mystery,40000,4
+20,fantasy,50000,4
+60,horror,50000,4
+80,fantasy,50000,4
+30,fantasy,40000,4
+50,NA,50000,4
+70,drama,40000,4
+50,NA,30000,4
+60,fantasy,50000,4
+40,fantasy,70000,4
+10,romance,30000,4
+60,mystery,50000,4
+50,NA,20000,4
+100,sci-fi,50000,4
+100,fantasy,60000,4
+20,fantasy,50000,4
+80,horror,50000,4
+60,mystery,20000,4
+20,comedy,50000,4
+40,romance,50000,4
+50,fantasy,80000,4
+30,mystery,30000,4
+70,fantasy,60000,4
+40,fantasy,50000,4
+30,young adult,50000,4
+60,fantasy,80000,4
+400,romance,50000,4
+60,young adult,60000,4
+40,mystery,70000,4
+100,romance,40000,4
+50,romance,50000,4
+20,fantasy,70000,4
+60,fantasy,50000,4
+40,fantasy,60000,4
+60,romance,50000,4
+800,NA,40000,4
+50,fantasy,60000,4
+70,NA,40000,4
+30,young adult,70000,4
+70,thriller,50000,4
+300,NA,40000,4
+50,young adult,70000,4
+70,comedy,40000,4
+50,young adult,70000,4
+30,young adult,50000,4
+40,fantasy,50000,3
+100,sci-fi,50000,4
+30,romance,60000,4
+30,romance,70000,4
+60,fantasy,50000,4
+80,sci-fi,40000,4
+100,crime,40000,4
+20,horror,50000,4
+50,NA,40000,4
+50,fantasy,50000,4
+80,romance,40000,4
+50,sci-fi,50000,4
+90,NA,40000,4
+30,romance,70000,4
+60,fantasy,40000,4
+30,fantasy,70000,4
+40,NA,20000,4
+200,romance,50000,4
+30,drama,50000,4
+20,fantasy,50000,4
+400,drama,50000,4
+40,romance,40000,4
+100,NA,50000,4
+30,fantasy,50000,4
+30,fantasy,50000,4
+40,young adult,30000,4
+60,horror,50000,4
+60,comedy,40000,3
+90,mystery,50000,4
+80,drama,50000,4
+50,mystery,50000,4
+80,thriller,50000,4
+60,fantasy,60000,4
+90,mystery,40000,4
+30,mystery,60000,4
+20,NA,50000,4
+10,young adult,40000,4
+80,NA,60000,4
+200,NA,40000,4
+300,mystery,50000,4
+100,fantasy,40000,4
+40,fantasy,50000,3
+50,mystery,50000,4
+90,mystery,50000,4
+30,fantasy,40000,4
+30,fantasy,50000,4
+30,comedy,50000,3
+50,NA,50000,4
+30,drama,60000,4
+30,young adult,60000,4
+30,NA,60000,4
+30,romance,70000,4
+100,horror,50000,4
+60,NA,40000,4
+80,fantasy,50000,4
+40,comedy,50000,4
+100,sci-fi,50000,4
+30,romance,40000,3
+100,fantasy,50000,4
+80,mystery,40000,4
+70,young adult,50000,4
+10,young adult,50000,4
+40,horror,40000,4
+300,drama,40000,4
+80,NA,40000,4
+60,fantasy,50000,4
+90,mystery,40000,4
+70,fantasy,50000,4
+50,thriller,40000,4
+40,NA,50000,4
+70,mystery,40000,4
+70,mystery,40000,4
+60,fantasy,50000,4
+90,romance,40000,4
+20,mystery,40000,4
+30,young adult,50000,4
+40,romance,50000,4
+70,young adult,40000,4
+60,young adult,60000,4
+10,young adult,50000,4
+90,thriller,40000,4
+100,mystery,50000,4
+50,romance,50000,4
+300,fantasy,40000,4
+50,young adult,60000,4
+30,fantasy,60000,4
+100,drama,40000,4
+70,NA,70000,4
+20,fantasy,40000,5
+700,fantasy,30000,4
+60,romance,60000,4
+40,sci-fi,40000,4
+40,drama,50000,4
+40,romance,50000,4
+30,young adult,40000,4
+50,fantasy,60000,4
+70,romance,50000,4
+10,young adult,50000,4
+10,horror,40000,5
+40,mystery,40000,4
+20,fantasy,50000,4
+30,NA,40000,4
+300,young adult,40000,4
+80,sci-fi,40000,4
+10,romance,50000,4
+10,fantasy,30000,4
+20,fantasy,40000,5
+60,sci-fi,40000,4
+80,drama,40000,4
+30,young adult,70000,4
+50,fantasy,70000,4
+30,romance,60000,4
+200,romance,40000,4
+30,NA,50000,4
+90,fantasy,50000,4
+30,young adult,50000,4
+50,crime,50000,4
+40,young adult,60000,4
+60,mystery,40000,4
+40,drama,40000,4
+40,NA,40000,4
+40,fantasy,60000,4
+50,mystery,50000,4
+50,fantasy,40000,4
+80,fantasy,50000,4
+60,fantasy,50000,4
+70,thriller,40000,4
+20,young adult,50000,4
+100,fantasy,50000,4
+40,fantasy,50000,4
+50,drama,50000,4
+60,fantasy,30000,4
+500,drama,40000,4
+80,NA,30000,4
+40,NA,50000,4
+50,young adult,60000,4
+90,thriller,40000,4
+40,mystery,60000,4
+90,NA,60000,4
+10,sci-fi,40000,4
+30,romance,50000,4
+300,fantasy,50000,4
+30,fantasy,40000,4
+60,romance,40000,4
+60,fantasy,50000,4
+40,crime,40000,4
+100,mystery,50000,4
+0,fantasy,40000,4
+40,romance,60000,4
+40,fantasy,50000,4
+100,thriller,50000,3
+60,sci-fi,50000,4
+300,horror,40000,4
+30,fantasy,50000,4
+70,romance,50000,4
+40,fantasy,40000,4
+20,young adult,60000,4
+30,drama,40000,4
+80,NA,30000,4
+70,fantasy,50000,4
+70,romance,50000,4
+50,NA,50000,4
+40,fantasy,50000,4
+40,horror,40000,4
+60,fantasy,50000,4
+30,thriller,40000,4
+70,sci-fi,40000,4
+20,comedy,40000,4
+20,NA,50000,4
+10,NA,50000,4
+0,fantasy,50000,4
+600,comedy,40000,4
+40,romance,80000,4
+20,young adult,60000,4
+60,thriller,40000,4
+40,fairy-tales,50000,4
+20,young adult,50000,4
+20,romance,60000,4
+80,crime,50000,4
+30,romance,30000,4
+20,NA,50000,4
+200,sci-fi,40000,4
+50,drama,40000,4
+50,sci-fi,40000,4
+100,young adult,50000,4
+30,fantasy,40000,4
+80,romance,40000,3
+60,romance,80000,4
+80,young adult,50000,4
+100,sci-fi,50000,4
+60,fantasy,50000,4
+60,horror,50000,4
+30,mystery,50000,4
+60,fantasy,60000,4
+90,young adult,50000,4
+40,drama,40000,4
+100,NA,50000,4
+20,comedy,40000,4
+0,mystery,40000,4
+40,romance,60000,4
+800,romance,40000,4
+100,sci-fi,50000,4
+100,mystery,40000,4
+80,mystery,40000,4
+100,mystery,50000,4
+70,young adult,50000,4
+60,mystery,60000,4
+30,young adult,60000,4
+40,sci-fi,40000,4
+50,fantasy,40000,4
+40,NA,40000,4
+20,mystery,40000,4
+10,romance,40000,4
+40,fantasy,60000,4
+40,horror,40000,4
+70,NA,40000,4
+40,young adult,50000,4
+70,fantasy,50000,4
+30,NA,40000,4
+50,mystery,40000,4
+30,comedy,40000,4
+30,romance,40000,4
+40,romance,60000,4
+60,romance,60000,4
+60,fantasy,40000,4
+60,drama,40000,4
+60,sci-fi,40000,4
+10,mystery,40000,3
+20,fantasy,60000,5
+80,thriller,40000,4
+40,crime,20000,4
+20,crime,40000,4
+70,mystery,30000,4
+60,comedy,40000,4
+70,mystery,40000,4
+90,drama,40000,4
+40,NA,40000,4
+30,young adult,60000,4
+50,NA,40000,4
+80,NA,40000,5
+70,drama,50000,4
+200,mystery,40000,4
+40,fantasy,50000,4
+70,mystery,50000,4
+50,fantasy,50000,4
+40,NA,40000,4
+40,young adult,50000,4
+300,NA,40000,4
+30,fantasy,60000,4
+40,mystery,50000,4
+40,fantasy,40000,4
+70,fantasy,50000,4
+40,crime,30000,4
+20,thriller,50000,4
+30,fantasy,30000,4
+30,romance,60000,4
+30,romance,60000,4
+100,mystery,40000,4
+60,young adult,60000,4
+60,comedy,40000,4
+40,young adult,50000,4
+30,drama,40000,4
+40,young adult,60000,4
+50,young adult,60000,4
+80,NA,40000,3
+60,fantasy,50000,4
+400,romance,40000,4
+40,romance,70000,4
+40,NA,40000,4
+40,fairy-tales,50000,4
+10,NA,40000,4
+70,fantasy,50000,4
+10,drama,40000,4
+30,fantasy,60000,4
+30,young adult,60000,4
+80,NA,40000,4
+100,mystery,40000,4
+300,drama,40000,4
+20,NA,40000,4
+50,fantasy,40000,4
+30,horror,50000,4
+60,young adult,50000,4
+40,fantasy,60000,4
+600,romance,40000,4
+70,young adult,40000,4
+40,fantasy,60000,4
+30,romance,40000,4
+30,NA,30000,4
+100,fantasy,40000,4
+30,NA,40000,4
+60,young adult,50000,4
+40,sci-fi,40000,4
+30,fantasy,40000,4
+100,NA,40000,4
+60,young adult,50000,4
+50,sci-fi,40000,4
+60,romance,30000,4
+40,NA,40000,4
+50,young adult,60000,4
+80,NA,40000,4
+50,comedy,40000,4
+40,romance,40000,4
+70,thriller,30000,4
+50,sci-fi,40000,4
+60,fantasy,50000,4
+70,NA,40000,4
+70,crime,40000,4
+80,NA,40000,4
+10,romance,60000,4
+30,romance,50000,4
+20,mystery,70000,4
+20,romance,60000,4
+60,fantasy,50000,4
+30,comedy,50000,4
+600,NA,30000,4
+100,mystery,30000,4
+30,young adult,50000,4
+90,young adult,40000,4
+30,fantasy,50000,4
+700,NA,40000,4
+50,young adult,40000,4
+40,young adult,50000,4
+0,mystery,50000,4
+20,romance,20000,4
+50,thriller,30000,4
+40,romance,40000,4
+100,mystery,50000,4
+100,horror,50000,4
+40,fantasy,40000,5
+50,mystery,40000,4
+30,romance,60000,4
+30,NA,40000,4
+50,young adult,50000,4
+100,mystery,50000,4
+60,mystery,40000,4
+30,young adult,40000,4
+40,romance,60000,4
+100,horror,50000,4
+400,fantasy,40000,4
+30,drama,40000,4
+30,young adult,60000,4
+10,comedy,40000,4
+80,romance,40000,4
+40,NA,40000,4
+20,fantasy,40000,4
+40,young adult,50000,4
+50,romance,40000,4
+40,drama,30000,4
+50,young adult,60000,4
+50,fantasy,40000,4
+90,mystery,40000,4
+70,mystery,40000,4
+50,fantasy,50000,4
+10,young adult,50000,4
+50,romance,40000,4
+40,NA,40000,4
+60,young adult,40000,4
+60,fantasy,40000,4
+40,mystery,40000,4
+10,fantasy,60000,4
+90,thriller,40000,4
+30,young adult,50000,4
+20,romance,50000,4
+70,thriller,20000,4
+0,mystery,40000,4
+90,mystery,40000,4
+50,fantasy,40000,4
+50,young adult,50000,4
+200,drama,50000,4
+60,fantasy,30000,4
+70,romance,40000,4
+100,romance,40000,4
+20,fantasy,40000,4
+30,fantasy,40000,4
+10,young adult,60000,4
+60,romance,40000,4
+80,fantasy,40000,4
+90,fantasy,40000,4
+30,NA,40000,4
+50,fantasy,40000,4
+60,fantasy,30000,4
+100,mystery,40000,4
+10,fantasy,30000,4
+30,fantasy,60000,4
+70,NA,40000,4
+60,horror,30000,4
+50,fantasy,40000,4
+60,fantasy,40000,4
+50,NA,40000,4
+30,mystery,40000,4
+40,young adult,50000,4
+80,thriller,40000,4
+40,mystery,50000,4
+100,mystery,20000,4
+60,romance,40000,4
+50,romance,40000,4
+30,romance,40000,4
+20,young adult,50000,4
+60,thriller,40000,4
+20,romance,60000,4
+10,fantasy,40000,4
+100,fantasy,40000,4
+50,NA,40000,4
+50,NA,30000,4
+40,romance,60000,4
+40,NA,30000,4
+60,mystery,50000,4
+40,fantasy,50000,4
+50,fantasy,40000,4
+20,fantasy,40000,4
+60,drama,40000,4
+30,young adult,50000,4
+30,young adult,50000,4
+100,fantasy,40000,4
+60,fantasy,40000,4
+70,romance,40000,3
+40,young adult,50000,4
+10,young adult,40000,4
+40,fantasy,40000,4
+20,NA,30000,4
+20,fantasy,40000,4
+50,fantasy,40000,4
+90,thriller,30000,4
+30,fantasy,50000,4
+90,Contemporary,40000,4
+50,NA,40000,4
+70,NA,40000,4
+30,fantasy,50000,4
+100,horror,40000,4
+80,fantasy,40000,4
+60,fantasy,40000,4
+70,fantasy,50000,4
+0,fantasy,60000,4
+20,NA,40000,4
+70,NA,40000,4
+50,young adult,50000,4
+40,romance,40000,4
+30,mystery,40000,4
+80,thriller,30000,4
+70,NA,40000,4
+50,romance,50000,4
+10,fantasy,40000,4
+30,horror,40000,4
+30,fantasy,30000,3
+60,fantasy,40000,4
+30,young adult,50000,4
+80,fantasy,50000,4
+300,mystery,40000,4
+90,sci-fi,40000,4
+20,fantasy,40000,4
+60,fantasy,30000,3
+20,young adult,40000,4
+40,fantasy,40000,3
+100,mystery,40000,4
+40,NA,40000,4
+500,romance,40000,4
+30,sci-fi,30000,4
+70,fantasy,40000,4
+30,mystery,40000,4
+60,NA,30000,4
+70,crime,40000,4
+100,NA,40000,4
+70,NA,40000,4
+40,sci-fi,20000,4
+70,romance,40000,4
+40,romance,50000,4
+30,fantasy,40000,4
+100,horror,40000,4
+40,fantasy,40000,4
+40,thriller,30000,4
+30,sci-fi,30000,4
+200,thriller,40000,4
+30,fantasy,40000,4
+70,mystery,40000,4
+80,fantasy,30000,4
+200,fantasy,30000,4
+80,thriller,40000,4
+20,romance,40000,4
+50,thriller,30000,4
+10,fantasy,40000,4
+30,fantasy,20000,5
+50,romance,30000,4
+60,young adult,50000,4
+70,mystery,40000,3
+30,mystery,40000,4
+20,young adult,50000,4
+40,fantasy,60000,4
+70,romance,30000,4
+100,sci-fi,40000,4
+20,fantasy,30000,4
+20,mystery,30000,4
+90,thriller,40000,4
+20,young adult,50000,4
+0,fantasy,40000,4
+30,romance,50000,4
+70,fantasy,40000,4
+400,drama,40000,4
+40,romance,50000,4
+70,romance,40000,3
+80,mystery,40000,4
+70,NA,30000,4
+40,fantasy,50000,4
+50,romance,50000,4
+20,mystery,30000,4
+90,sci-fi,30000,4
+700,fantasy,40000,4
+60,fantasy,40000,4
+40,fantasy,40000,4
+60,NA,20000,4
+30,fantasy,60000,4
+100,comedy,40000,4
+60,NA,30000,4
+100,drama,40000,4
+10,romance,50000,4
+60,young adult,40000,4
+30,sci-fi,40000,4
+30,young adult,40000,4
+30,NA,30000,4
+50,young adult,50000,4
+70,mystery,40000,4
+40,sci-fi,30000,4
+20,NA,40000,4
+90,comedy,40000,3
+100,mystery,40000,4
+30,romance,40000,4
+40,romance,60000,4
+40,fantasy,50000,4
+40,drama,40000,4
+10,comedy,40000,4
+60,romance,30000,4
+70,romance,40000,4
+20,fantasy,40000,4
+20,drama,30000,4
+200,NA,30000,4
+20,young adult,40000,4
+10,fantasy,40000,4
+30,fantasy,60000,4
+20,sci-fi,30000,4
+50,romance,40000,4
+30,NA,30000,4
+50,romance,50000,4
+40,crime,40000,4
+50,young adult,50000,4
+80,mystery,30000,4
+30,young adult,50000,4
+40,romance,40000,4
+40,young adult,40000,4
+100,young adult,40000,3
+100,crime,30000,4
+50,romance,40000,4
+30,fantasy,50000,4
+30,fantasy,30000,4
+100,thriller,40000,4
+50,young adult,50000,4
+50,fantasy,20000,4
+50,romance,40000,4
+70,fantasy,40000,4
+60,romance,30000,4
+50,NA,50000,4
+20,fantasy,50000,4
+20,comedy,30000,4
+50,sci-fi,30000,4
+60,mystery,40000,4
+30,NA,30000,4
+60,fantasy,40000,4
+100,young adult,40000,4
+10,NA,40000,4
+40,thriller,30000,4
+40,fantasy,50000,4
+100,sci-fi,40000,4
+30,fantasy,40000,4
+40,fantasy,60000,4
+30,NA,40000,4
+60,young adult,40000,3
+40,romance,40000,4
+30,fantasy,40000,4
+40,sci-fi,40000,4
+40,romance,40000,4
+20,fantasy,30000,4
+70,romance,30000,4
+80,horror,40000,4
+40,romance,30000,4
+100,mystery,40000,4
+50,sci-fi,40000,4
+80,thriller,30000,4
+30,fantasy,60000,4
+80,young adult,40000,4
+40,drama,40000,4
+50,fantasy,40000,4
+100,sci-fi,40000,4
+50,NA,40000,4
+60,fantasy,30000,4
+200,NA,30000,4
+50,NA,30000,4
+40,NA,30000,4
+0,NA,30000,4
+80,romance,30000,4
+50,fantasy,40000,4
+10,sci-fi,30000,4
+10,romance,40000,4
+50,horror,40000,4
+80,fantasy,40000,4
+20,romance,60000,4
+500,NA,30000,4
+50,comedy,40000,4
+40,young adult,50000,4
+10,romance,30000,4
+70,mystery,30000,3
+30,romance,60000,4
+30,NA,30000,4
+0,horror,40000,4
+60,fantasy,40000,4
+30,romance,70000,4
+60,thriller,40000,4
+70,fantasy,40000,4
+70,thriller,40000,4
+40,sci-fi,30000,4
+60,fantasy,40000,4
+40,fantasy,40000,4
+40,romance,40000,4
+40,NA,30000,4
+30,fantasy,30000,4
+50,mystery,30000,4
+60,young adult,50000,4
+40,young adult,40000,4
+60,NA,30000,4
+40,young adult,50000,4
+30,romance,50000,4
+40,fantasy,40000,4
+20,mystery,30000,4
+40,fantasy,40000,4
+40,romance,50000,4
+70,sci-fi,40000,4
+20,NA,30000,4
+20,fantasy,40000,4
+50,fantasy,50000,4
+100,fantasy,30000,4
+30,romance,50000,4
+60,romance,30000,4
+50,fantasy,40000,3
+0,NA,20000,4
+40,crime,30000,4
+30,romance,40000,4
+90,young adult,40000,3
+50,romance,50000,4
+50,NA,20000,4
+30,romance,40000,4
+700,drama,30000,4
+50,drama,40000,4
+50,fantasy,40000,4
+20,fantasy,50000,4
+10,fantasy,30000,4
+50,fantasy,50000,4
+60,fantasy,40000,4
+0,mystery,30000,4
+60,fantasy,40000,4
+50,fantasy,40000,4
+200,NA,30000,4
+30,fantasy,40000,4
+30,horror,40000,4
+40,mystery,30000,4
+100,young adult,40000,4
+30,young adult,40000,4
+20,young adult,40000,4
+70,NA,30000,4
+40,sci-fi,30000,4
+200,romance,30000,4
+80,thriller,40000,4
+20,NA,40000,4
+800,fantasy,40000,4
+50,mystery,40000,4
+20,young adult,40000,4
+70,thriller,40000,4
+50,fantasy,40000,3
+80,mystery,40000,4
+50,romance,40000,4
+30,NA,40000,4
+50,NA,30000,4
+20,fantasy,40000,4
+0,NA,30000,4
+100,mystery,40000,4
+90,mystery,40000,4
+70,young adult,40000,4
+10,romance,50000,4
+10,romance,20000,4
+30,fantasy,40000,4
+100,mystery,30000,4
+30,NA,30000,4
+0,NA,30000,4
+100,sci-fi,40000,4
+30,mystery,40000,4
+30,romance,30000,4
+20,fantasy,30000,4
+90,fantasy,40000,4
+30,young adult,40000,4
+40,romance,50000,4
+300,drama,40000,4
+30,fantasy,50000,4
+80,fantasy,30000,4
+20,sci-fi,30000,4
+20,fantasy,50000,5
+60,thriller,20000,4
+30,romance,30000,4
+60,sci-fi,30000,4
+30,drama,20000,4
+20,drama,40000,4
+60,mystery,40000,4
+50,thriller,20000,4
+50,drama,20000,4
+20,romance,50000,4
+40,NA,40000,4
+20,young adult,40000,4
+30,romance,50000,4
+40,fantasy,40000,4
+90,romance,40000,4
+10,sci-fi,30000,4
+40,fantasy,40000,4
+40,NA,30000,4
+70,fantasy,30000,4
+70,young adult,50000,4
+50,young adult,40000,4
+30,NA,40000,4
+20,NA,30000,4
+50,thriller,30000,4
+30,fantasy,30000,4
+90,romance,30000,3
+90,NA,30000,4
+40,romance,50000,4
+50,NA,30000,4
+40,young adult,40000,4
+30,mystery,40000,4
+20,romance,50000,4
+20,fantasy,50000,4
+40,fantasy,50000,4
+30,NA,30000,4
+20,young adult,40000,4
+50,fantasy,50000,4
+40,fantasy,30000,4
+50,fantasy,40000,4
+50,young adult,40000,4
+50,thriller,40000,4
+70,fantasy,50000,4
+70,suspense,30000,3
+50,fantasy,50000,4
+70,sci-fi,30000,4
+20,young adult,30000,4
+30,horror,40000,4
+30,drama,30000,4
+10,young adult,60000,4
+70,thriller,40000,4
+60,mystery,40000,4
+70,romance,40000,4
+50,fantasy,30000,4
+40,romance,50000,4
+80,thriller,30000,4
+60,fantasy,40000,4
+70,mystery,30000,4
+40,thriller,30000,4
+30,NA,30000,4
+50,sci-fi,20000,4
+100,fantasy,30000,4
+70,NA,40000,4
+50,thriller,30000,4
+60,crime,30000,4
+60,young adult,40000,4
+60,NA,40000,4
+40,sci-fi,40000,4
+50,mystery,40000,4
+50,NA,30000,4
+40,young adult,40000,4
+800,NA,30000,4
+100,mystery,10000,4
+60,fantasy,30000,4
+80,mystery,30000,4
+50,fantasy,50000,4
+10,romance,30000,4
+30,fantasy,40000,4
+100,romance,40000,4
+40,NA,40000,4
+40,mystery,30000,4
+70,mystery,40000,4
+70,romance,50000,4
+60,thriller,30000,4
+70,fantasy,40000,4
+90,young adult,40000,4
+60,horror,30000,4
+50,thriller,30000,4
+20,NA,40000,4
+40,sci-fi,30000,4
+30,NA,30000,4
+10,young adult,50000,4
+70,romance,30000,4
+40,young adult,40000,3
+20,fantasy,30000,4
+30,drama,30000,4
+30,sci-fi,30000,4
+50,young adult,40000,4
+50,fantasy,40000,4
+50,mystery,40000,4
+40,fantasy,40000,4
+60,fantasy,40000,4
+60,romance,40000,4
+40,romance,40000,4
+40,young adult,50000,4
+100,young adult,40000,4
+40,fantasy,40000,4
+40,fantasy,40000,4
+40,mystery,30000,4
+20,fantasy,20000,5
+80,mystery,30000,4
+30,young adult,40000,4
+20,fantasy,40000,4
+70,mystery,30000,4
+10,fantasy,30000,4
+50,NA,30000,4
+10,young adult,40000,4
+20,comedy,30000,4
+80,fantasy,40000,4
+30,fantasy,30000,4
+30,sci-fi,30000,4
+40,romance,50000,4
+100,fantasy,30000,4
+30,sci-fi,30000,4
+60,romance,30000,4
+0,fantasy,30000,4
+40,fantasy,40000,4
+40,young adult,40000,4
+30,mystery,40000,4
+40,fantasy,50000,4
+50,NA,30000,4
+30,romance,40000,4
+50,mystery,30000,4
+50,horror,30000,4
+40,young adult,40000,4
+20,NA,30000,4
+30,mystery,20000,4
+40,young adult,40000,4
+50,thriller,30000,4
+70,NA,40000,4
+30,mystery,30000,4
+50,fantasy,30000,4
+100,thriller,30000,4
+10,comedy,30000,4
+100,romance,30000,4
+50,romance,30000,4
+20,young adult,40000,4
+30,fantasy,40000,4
+600,sci-fi,30000,4
+50,young adult,40000,4
+40,young adult,30000,4
+200,romance,30000,4
+50,fantasy,30000,4
+80,fantasy,40000,4
+30,fantasy,40000,4
+60,romance,30000,4
+60,drama,30000,4
+30,romance,30000,5
+20,fantasy,50000,4
+40,drama,40000,3
+60,fantasy,40000,4
+50,fantasy,30000,3
+70,NA,30000,4
+60,fantasy,30000,4
+20,NA,30000,4
+50,romance,40000,4
+60,crime,30000,4
+40,young adult,40000,4
+500,romance,40000,4
+50,sci-fi,30000,3
+40,fantasy,40000,4
+40,romance,50000,4
+10,young adult,30000,4
+80,NA,30000,4
+50,NA,30000,4
+30,fantasy,50000,4
+20,NA,30000,4
+40,young adult,40000,4
+40,NA,30000,4
+40,thriller,30000,4
+100,fantasy,40000,4
+70,young adult,30000,4
+90,drama,30000,4
+50,young adult,40000,4
+60,fantasy,30000,4
+70,mystery,40000,4
+30,fantasy,50000,4
+30,romance,30000,4
+40,young adult,40000,4
+0,sci-fi,30000,4
+60,young adult,40000,4
+50,sci-fi,30000,4
+20,fantasy,30000,4
+80,horror,30000,4
+40,young adult,40000,4
+70,crime,30000,4
+30,young adult,40000,4
+60,fantasy,40000,4
+40,young adult,40000,4
+50,young adult,40000,4
+30,young adult,50000,4
+40,mystery,40000,4
+60,suspense,30000,4
+300,fantasy,40000,4
+40,mystery,30000,4
+50,fantasy,30000,4
+30,horror,40000,4
+60,romance,30000,4
+60,thriller,30000,4
+30,young adult,50000,4
+30,young adult,50000,4
+30,fantasy,50000,4
+60,romance,20000,4
+70,fantasy,40000,4
+50,romance,50000,4
+600,romance,30000,4
+60,romance,30000,4
+20,romance,50000,4
+50,thriller,30000,4
+70,sci-fi,30000,4
+50,romance,30000,4
+20,young adult,40000,4
+80,NA,20000,4
+100,crime,30000,4
+40,romance,30000,4
+10,drama,30000,4
+30,sci-fi,30000,4
+10,fantasy,30000,4
+20,romance,40000,4
+60,romance,30000,4
+10,romance,50000,4
+90,mystery,30000,4
+30,fantasy,40000,4
+200,fantasy,30000,4
+40,drama,30000,4
+200,fantasy,40000,4
+700,comedy,30000,4
+40,NA,30000,4
+20,mystery,40000,4
+20,NA,30000,4
+30,comedy,30000,4
+50,NA,30000,4
+90,thriller,30000,4
+0,young adult,30000,5
+50,young adult,40000,4
+30,young adult,30000,4
+40,NA,30000,4
+50,romance,30000,3
+80,mystery,40000,4
+30,fantasy,30000,4
+200,horror,30000,4
+40,young adult,30000,4
+40,young adult,40000,4
+30,romance,50000,4
+80,NA,30000,4
+50,romance,30000,4
+40,thriller,20000,4
+60,fantasy,40000,4
+60,young adult,40000,4
+20,NA,30000,4
+30,fantasy,40000,4
+100,mystery,30000,4
+100,fantasy,30000,4
+50,mystery,30000,4
+40,fairy-tales,40000,4
+30,fantasy,40000,4
+30,mystery,30000,4
+10,fantasy,30000,5
+10,fantasy,30000,4
+20,young adult,50000,4
+0,mystery,30000,4
+50,NA,30000,4
+30,mystery,40000,4
+80,NA,30000,4
+50,NA,30000,4
+100,young adult,40000,4
+70,drama,20000,4
+50,horror,30000,4
+70,mystery,30000,4
+50,romance,30000,4
+50,NA,30000,4
+100,fantasy,40000,4
+90,sci-fi,30000,4
+70,fantasy,30000,4
+20,sci-fi,30000,4
+40,young adult,40000,4
+300,fantasy,40000,4
+40,fantasy,40000,4
+100,NA,30000,4
+10,romance,40000,4
+30,fantasy,40000,5
+60,young adult,40000,4
+40,young adult,40000,4
+200,drama,30000,4
+40,horror,40000,4
+70,fantasy,30000,4
+70,young adult,40000,4
+60,drama,30000,4
+50,NA,20000,4
+20,NA,30000,4
+90,fantasy,30000,4
+10,young adult,30000,5
+50,fantasy,40000,4
+60,romance,30000,4
+80,mystery,30000,4
+40,sci-fi,30000,4
+10,horror,30000,4
+60,mystery,30000,4
+40,fantasy,30000,4
+20,NA,30000,4
+30,fantasy,50000,4
+20,romance,40000,4
+100,mystery,40000,4
+100,NA,30000,4
+50,sci-fi,30000,4
+50,mystery,30000,4
+30,mystery,40000,4
+60,young adult,30000,4
+50,romance,50000,4
+40,young adult,40000,4
+70,fantasy,30000,4
+60,romance,30000,4
+60,fantasy,40000,4
+30,young adult,50000,4
+80,NA,30000,4
+70,crime,20000,4
+100,fantasy,30000,4
+30,mystery,30000,4
+60,NA,30000,4
+100,fantasy,30000,4
+60,horror,30000,4
+60,NA,30000,4
+10,drama,30000,4
+100,horror,30000,4
+20,fantasy,50000,4
+70,fantasy,20000,4
+30,drama,30000,4
+40,crime,30000,4
+70,romance,30000,4
+50,fantasy,30000,4
+200,young adult,50000,4
+300,romance,30000,4
+30,romance,30000,4
+100,drama,30000,3
+20,NA,30000,4
+70,thriller,30000,4
+30,young adult,40000,4
+90,romance,20000,3
+40,fantasy,20000,4
+40,NA,30000,3
+20,romance,50000,4
+20,fantasy,30000,4
+10,NA,30000,4
+70,romance,40000,4
+40,fantasy,30000,4
+70,mystery,20000,4
+0,romance,30000,4
+40,young adult,30000,4
+100,mystery,30000,4
+80,comfort-food,30000,4
+40,young adult,40000,4
+60,mystery,30000,4
+80,thriller,30000,4
+40,young adult,30000,4
+30,young adult,40000,4
+60,fantasy,40000,4
+50,thriller,30000,4
+70,romance,40000,4
+100,horror,30000,4
+20,young adult,40000,4
+70,mystery,30000,4
+30,NA,30000,4
+20,drama,30000,4
+40,fantasy,30000,4
+50,fantasy,30000,4
+50,young adult,50000,4
+30,fantasy,40000,4
+30,sci-fi,30000,4
+50,fantasy,30000,4
+40,romance,30000,4
+50,NA,20000,4
+70,fantasy,40000,4
+60,romance,40000,4
+40,romance,40000,4
+20,young adult,40000,4
+90,young adult,30000,4
+50,NA,20000,4
+30,fantasy,30000,4
+40,romance,40000,4
+40,thriller,30000,4
+20,fantasy,40000,4
+40,romance,40000,4
+20,mystery,30000,4
+30,fantasy,30000,3
+60,romance,30000,3
+90,young adult,30000,4
+80,mystery,40000,4
+100,mystery,30000,4
+20,romance,50000,4
+60,fantasy,40000,4
+20,romance,40000,4
+10,fantasy,40000,4
+40,romance,30000,4
+70,horror,30000,4
+60,sci-fi,30000,4
+30,NA,30000,4
+30,romance,20000,4
+400,fantasy,30000,4
+90,romance,30000,4
+400,romance,30000,4
+70,romance,30000,4
+40,thriller,30000,4
+30,romance,40000,5
+30,drama,30000,4
+20,drama,30000,4
+50,young adult,40000,4
+80,mystery,30000,3
+10,fantasy,30000,5
+40,fantasy,40000,4
+10,NA,20000,4
+80,mystery,30000,4
+40,NA,20000,4
+20,NA,20000,4
+30,fantasy,30000,4
+30,NA,30000,4
+50,young adult,40000,4
+200,mystery,40000,4
+10,fantasy,20000,5
+20,romance,50000,4
+40,fantasy,40000,4
+50,young adult,30000,4
+40,NA,30000,4
+40,mystery,30000,4
+20,young adult,40000,4
+50,fantasy,20000,4
+30,fantasy,40000,5
+70,young adult,30000,4
+80,sci-fi,30000,4
+30,fantasy,40000,4
+20,fantasy,50000,4
+50,sci-fi,30000,4
+60,sci-fi,30000,4
+30,fantasy,30000,4
+40,fantasy,30000,4
+20,NA,20000,4
+30,mystery,30000,3
+50,fantasy,30000,4
+500,romance,30000,4
+800,NA,30000,4
+40,romance,30000,4
+70,romance,30000,4
+30,romance,30000,4
+10,fantasy,40000,4
+20,comedy,30000,4
+30,young adult,50000,4
+50,thriller,30000,4
+40,romance,40000,4
+10,fantasy,30000,5
+60,mystery,30000,3
+40,horror,20000,4
+50,sci-fi,30000,4
+50,fantasy,50000,4
+10,romance,20000,4
+70,mystery,30000,3
+30,fantasy,40000,4
+10,fantasy,30000,5
+70,young adult,40000,4
+80,mystery,30000,4
+50,fantasy,30000,4
+20,fantasy,30000,4
+90,mystery,30000,4
+70,fantasy,30000,4
+30,fantasy,30000,4
+70,young adult,30000,4
+20,drama,30000,4
+40,fantasy,30000,4
+50,NA,30000,4
+10,romance,20000,4
+30,young adult,40000,4
+30,romance,30000,4
+50,fantasy,30000,4
+20,mystery,30000,4
+40,drama,30000,4
+60,romance,20000,4
+70,fantasy,30000,4
+60,comedy,20000,3
+30,romance,40000,4
+50,fantasy,30000,4
+50,romance,30000,4
+40,drama,30000,4
+10,romance,30000,4
+50,fantasy,40000,4
+30,fantasy,30000,4
+40,young adult,30000,4
+40,NA,30000,4
+600,fantasy,40000,4
+20,NA,30000,4
+30,NA,30000,4
+20,fantasy,30000,4
+60,NA,30000,4
+60,fantasy,30000,4
+50,mystery,20000,4
+70,fantasy,30000,4
+40,fantasy,30000,4
+0,crime,20000,4
+40,fantasy,40000,4
+10,fantasy,30000,4
+30,young adult,40000,4
+80,fantasy,30000,4
+40,NA,20000,4
+90,mystery,30000,4
+80,romance,30000,4
+0,comedy,30000,4
+0,fantasy,30000,4
+40,young adult,40000,4
+60,young adult,20000,4
+30,fantasy,30000,4
+40,sci-fi,30000,3
+40,fantasy,40000,4
+30,NA,30000,4
+30,young adult,40000,4
+40,mystery,30000,4
+20,romance,30000,4
+30,NA,20000,4
+40,young adult,40000,4
+40,young adult,30000,4
+30,comedy,30000,4
+50,fantasy,40000,4
+50,horror,30000,4
+20,fantasy,30000,4
+40,NA,30000,4
+30,romance,30000,3
+60,young adult,30000,4
+60,young adult,50000,4
+300,romance,30000,4
+20,fantasy,40000,4
+30,fantasy,30000,4
+100,horror,30000,4
+20,fantasy,30000,4
+50,mystery,30000,4
+50,fantasy,40000,4
+60,romance,30000,4
+70,mystery,30000,4
+30,NA,30000,4
+90,mystery,30000,4
+20,sci-fi,30000,5
+70,fantasy,30000,4
+60,fantasy,30000,4
+40,NA,30000,4
+60,fantasy,30000,4
+40,fantasy,30000,4
+30,young adult,30000,4
+100,mystery,30000,4
+80,thriller,30000,4
+10,horror,30000,4
+50,young adult,30000,4
+30,horror,30000,4
+20,young adult,40000,4
+50,drama,30000,3
+50,horror,30000,4
+70,horror,30000,4
+20,NA,30000,4
+700,romance,20000,4
+20,fantasy,40000,4
+700,drama,30000,4
+100,crime,30000,4
+20,NA,30000,4
+40,romance,40000,4
+100,fantasy,20000,3
+20,romance,50000,4
+30,crime,30000,4
+50,romance,30000,4
+100,drama,30000,4
+70,young adult,40000,4
+30,young adult,40000,4
+30,mystery,20000,4
+30,NA,30000,4
+40,fantasy,30000,4
+100,mystery,30000,4
+30,fantasy,30000,5
+30,fantasy,30000,4
+80,sci-fi,30000,4
+200,fairy-tales,30000,4
+40,romance,20000,4
+20,romance,20000,4
+60,sci-fi,30000,4
+300,NA,30000,4
+30,romance,40000,4
+80,mystery,30000,3
+90,fantasy,30000,4
+20,fantasy,40000,4
+100,thriller,20000,3
+40,romance,30000,4
+20,young adult,40000,4
+60,NA,30000,4
+60,fantasy,40000,4
+20,young adult,30000,4
+70,thriller,30000,3
+50,mystery,20000,4
+40,young adult,30000,4
+300,NA,20000,4
+50,fantasy,30000,4
+30,NA,30000,4
+0,romance,50000,4
+60,NA,30000,4
+20,young adult,40000,4
+20,romance,40000,4
+60,NA,30000,4
+40,comedy,20000,4
+40,horror,30000,4
+90,mystery,30000,4
+30,young adult,20000,4
+20,young adult,40000,4
+60,fantasy,30000,4
+20,young adult,50000,4
+40,romance,40000,4
+10,romance,20000,4
+40,young adult,30000,4
+90,horror,30000,4
+20,fantasy,40000,4
+50,NA,20000,4
+70,crime,30000,3
+0,fantasy,40000,4
+40,fantasy,40000,4
+60,young adult,20000,4
+10,romance,30000,4
+20,NA,30000,4
+40,mystery,30000,4
+30,mystery,30000,4
+200,NA,30000,4
+90,young adult,40000,4
+20,fantasy,40000,4
+50,romance,30000,4
+50,mystery,30000,4
+40,drama,30000,4
+700,horror,30000,4
+30,mystery,30000,4
+400,young adult,40000,4
+40,mystery,20000,4
+50,fantasy,30000,4
+20,fantasy,40000,4
+80,sci-fi,20000,4
+50,mystery,30000,4
+70,mystery,30000,4
+20,drama,30000,4
+50,sci-fi,30000,4
+40,thriller,20000,4
+20,fantasy,30000,4
+40,NA,30000,4
+40,fantasy,20000,4
+40,mystery,30000,4
+80,comedy,30000,4
+70,horror,30000,4
+20,young adult,20000,4
+60,NA,20000,4
+60,horror,30000,4
+400,fantasy,30000,4
+30,fantasy,20000,4
+200,comedy,30000,4
+30,NA,30000,4
+60,young adult,30000,4
+30,young adult,30000,4
+20,NA,30000,4
+60,sci-fi,30000,4
+10,thriller,20000,4
+20,crime,30000,5
+40,fantasy,30000,4
+80,NA,20000,4
+60,mystery,20000,4
+40,NA,30000,4
+20,romance,50000,4
+30,fantasy,40000,4
+40,young adult,30000,4
+10,NA,30000,4
+40,fantasy,30000,4
+20,NA,30000,4
+40,fantasy,30000,4
+90,romance,30000,4
+40,NA,30000,4
+60,romance,20000,4
+10,romance,30000,4
+60,mystery,20000,4
+700,romance,20000,4
+40,fantasy,30000,4
+50,fantasy,40000,4
+100,romance,30000,4
+60,sci-fi,30000,4
+70,horror,30000,4
+30,romance,40000,4
+30,mystery,40000,4
+60,romance,30000,4
+60,mystery,30000,4
+100,young adult,30000,4
+10,horror,30000,4
+20,fantasy,30000,4
+30,fantasy,50000,4
+60,young adult,30000,4
+10,sci-fi,40000,4
+60,young adult,30000,4
+60,young adult,50000,4
+20,romance,40000,4
+20,crime,20000,4
+50,fantasy,30000,4
+50,fantasy,20000,4
+70,thriller,30000,4
+30,fantasy,30000,4
+50,NA,30000,4
+20,fantasy,40000,4
+70,mystery,30000,4
+20,crime,20000,4
+10,fantasy,30000,4
+80,fantasy,20000,4
+50,sci-fi,30000,4
+60,NA,30000,4
+40,NA,30000,4
+10,horror,30000,4
+30,comedy,30000,4
+20,NA,30000,4
+60,fantasy,30000,4
+40,romance,40000,4
+60,drama,30000,3
+400,NA,30000,4
+40,mystery,20000,4
+20,romance,40000,5
+20,comedy,30000,3
+50,young adult,20000,4
+30,romance,40000,4
+20,mystery,30000,4
+80,sci-fi,30000,4
+60,young adult,20000,4
+20,fantasy,30000,4
+50,NA,30000,4
+60,young adult,40000,4
+60,young adult,30000,4
+40,romance,30000,4
+20,comedy,30000,4
+40,NA,30000,4
+30,romance,40000,4
+30,NA,30000,4
+50,sci-fi,30000,4
+60,romance,30000,4
+0,disney,30000,4
+30,romance,40000,4
+80,fantasy,30000,4
+50,fantasy,30000,4
+50,comedy,30000,4
+500,young adult,40000,4
+70,sci-fi,20000,4
+30,NA,20000,4
+90,fantasy,20000,4
+400,romance,30000,4
+70,NA,20000,4
+100,comedy,20000,4
+20,NA,30000,4
+40,romance,40000,4
+50,young adult,20000,4
+60,fantasy,20000,4
+30,fantasy,40000,4
+700,crime,30000,4
+100,fantasy,30000,4
+20,fantasy,30000,4
+30,comedy,20000,4
+30,comedy,20000,4
+10,comedy,30000,4
+80,sci-fi,20000,4
+40,fantasy,30000,4
+10,fantasy,20000,4
+30,NA,20000,4
+30,NA,20000,4
+80,romance,30000,4
+10,NA,30000,4
+30,romance,40000,4
+60,NA,20000,4
+50,romance,30000,4
+40,fantasy,40000,4
+50,mystery,30000,4
+60,young adult,30000,4
+40,fantasy,30000,4
+40,romance,20000,4
+40,fantasy,40000,4
+20,young adult,40000,4
+20,comedy,30000,4
+70,mystery,30000,4
+80,thriller,20000,4
+60,mystery,30000,4
+60,mystery,30000,4
+70,thriller,20000,3
+10,mystery,30000,4
+30,NA,20000,4
+40,young adult,40000,4
+40,fantasy,30000,4
+10,comedy,30000,5
+10,fantasy,30000,4
+40,sci-fi,30000,4
+30,romance,30000,4
+30,romance,30000,4
+10,fantasy,30000,4
+20,young adult,30000,4
+60,NA,30000,4
+80,thriller,20000,4
+100,drama,30000,4
+40,sci-fi,30000,4
+50,NA,20000,4
+30,NA,30000,4
+100,crime,10000,4
+30,fantasy,40000,4
+10,romance,40000,4
+50,comedy,20000,4
+20,romance,30000,4
+80,young adult,30000,4
+80,mystery,30000,4
+60,fantasy,30000,4
+30,young adult,30000,4
+60,romance,20000,3
+10,disney,30000,4
+70,thriller,20000,4
+30,fantasy,30000,5
+30,NA,20000,4
+30,fantasy,40000,4
+50,young adult,30000,4
+30,young adult,40000,4
+20,romance,40000,4
+20,NA,20000,4
+70,NA,20000,4
+30,sci-fi,20000,4
+50,thriller,30000,4
+20,sci-fi,30000,4
+30,fantasy,40000,4
+40,NA,20000,4
+30,NA,30000,4
+400,romance,30000,4
+20,fantasy,30000,4
+20,young adult,30000,4
+90,mystery,30000,4
+40,mystery,30000,4
+30,NA,30000,4
+40,NA,30000,4
+10,NA,20000,4
+60,NA,30000,4
+40,young adult,40000,4
+80,thriller,30000,4
+200,NA,20000,4
+10,thriller,20000,4
+20,drama,10000,4
+40,NA,30000,4
+30,mystery,20000,4
+20,NA,30000,4
+60,NA,30000,4
+80,NA,20000,4
+60,fantasy,20000,4
+60,fantasy,30000,4
+300,drama,30000,4
+600,drama,30000,4
+70,romance,30000,4
+50,fantasy,40000,4
+40,fantasy,40000,4
+90,mystery,30000,4
+20,romance,40000,4
+60,NA,20000,4
+90,romance,30000,4
+70,thriller,20000,4
+40,romance,30000,4
+40,young adult,30000,4
+60,fantasy,30000,4
+60,mystery,30000,4
+40,young adult,20000,4
+100,romance,30000,4
+10,horror,30000,4
+300,NA,20000,4
+30,young adult,30000,4
+100,thriller,20000,4
+400,NA,20000,4
+20,young adult,30000,4
+50,romance,20000,4
+30,young adult,40000,4
+50,NA,30000,3
+20,fantasy,30000,4
+20,young adult,20000,4
+30,fantasy,30000,4
+30,fantasy,30000,4
+40,romance,30000,4
+70,romance,20000,4
+50,fantasy,30000,4
+40,romance,40000,4
+40,disney,30000,4
+20,NA,30000,4
+10,horror,30000,4
+10,fantasy,30000,5
+50,fantasy,40000,4
+40,fantasy,30000,4
+30,NA,30000,4
+50,mystery,30000,4
+40,fantasy,30000,4
+60,mystery,30000,4
+60,mystery,30000,4
+20,romance,30000,4
+40,romance,20000,4
+20,romance,30000,4
+10,young adult,40000,4
+20,NA,20000,4
+100,mystery,20000,4
+10,fantasy,20000,5
+100,sci-fi,30000,4
+50,horror,20000,4
+20,NA,20000,4
+0,fantasy,30000,4
+30,romance,20000,4
+50,fantasy,30000,4
+20,fantasy,30000,4
+50,young adult,30000,4
+40,sci-fi,40000,4
+30,fantasy,30000,4
+40,romance,30000,4
+40,young adult,30000,4
+10,fantasy,20000,5
+80,thriller,30000,4
+40,young adult,30000,4
+20,romance,30000,4
+80,thriller,20000,4
+60,mystery,30000,4
+30,young adult,40000,4
+30,mystery,20000,4
+20,young adult,30000,4
+50,thriller,20000,4
+70,NA,20000,4
+40,thriller,20000,4
+30,drama,30000,4
+40,crime,20000,4
+60,sci-fi,20000,4
+30,young adult,30000,4
+10,romance,20000,4
+80,drama,20000,3
+30,young adult,40000,4
+60,romance,20000,4
+80,sci-fi,30000,4
+10,young adult,30000,4
+20,fantasy,30000,4
+30,romance,40000,4
+50,mystery,30000,4
+90,romance,20000,4
+50,horror,30000,4
+70,horror,30000,4
+60,mystery,30000,4
+80,horror,30000,4
+80,mystery,30000,4
+0,horror,30000,4
+40,horror,30000,4
+30,NA,20000,4
+40,young adult,30000,4
+20,drama,30000,4
+50,fantasy,20000,4
+20,fantasy,40000,4
+50,NA,20000,4
+30,young adult,30000,4
+10,horror,30000,4
+70,fantasy,30000,4
+20,fantasy,40000,4
+40,sci-fi,30000,4
+80,NA,20000,4
+20,comedy,30000,4
+50,mystery,20000,4
+80,mystery,40000,4
+20,fantasy,30000,4
+70,fantasy,30000,4
+30,mystery,20000,4
+80,drama,20000,4
+60,mystery,30000,4
+30,young adult,30000,4
+40,young adult,20000,4
+40,fantasy,40000,4
+60,fantasy,30000,4
+10,comedy,30000,4
+40,fantasy,30000,4
+70,fantasy,30000,4
+30,romance,40000,4
+50,romance,30000,4
+10,NA,20000,4
+50,thriller,20000,4
+10,young adult,30000,4
+40,thriller,20000,4
+40,crime,30000,4
+40,mystery,20000,4
+30,young adult,30000,4
+30,mystery,20000,4
+50,young adult,20000,4
+20,fantasy,30000,4
+90,mystery,20000,4
+70,thriller,20000,4
+20,young adult,40000,4
+300,NA,30000,4
+10,romance,30000,4
+30,romance,30000,4
+80,thriller,30000,4
+70,fantasy,30000,4
+40,romance,40000,4
+30,young adult,40000,4
+30,romance,30000,4
+30,young adult,30000,4
+30,romance,40000,4
+20,young adult,30000,4
+70,romance,30000,4
+50,mystery,20000,4
+40,NA,20000,4
+500,NA,20000,4
+60,comedy,20000,4
+100,mystery,30000,4
+50,young adult,30000,4
+30,drama,20000,4
+50,romance,30000,4
+30,fantasy,40000,4
+20,fantasy,40000,4
+90,mystery,30000,4
+20,romance,30000,3
+40,young adult,30000,4
+60,romance,30000,4
+40,NA,20000,4
+40,NA,30000,4
+40,fantasy,30000,4
+60,sci-fi,30000,4
+20,comedy,40000,4
+50,romance,30000,4
+70,drama,30000,4
+30,NA,10000,4
+40,romance,20000,4
+60,drama,30000,4
+50,romance,30000,4
+20,young adult,30000,4
+60,NA,20000,4
+20,mystery,20000,4
+60,NA,20000,4
+50,fantasy,30000,4
+10,NA,20000,4
+60,young adult,30000,4
+30,romance,40000,4
+200,fantasy,20000,4
+200,young adult,40000,4
+30,NA,20000,4
+70,mystery,30000,4
+200,NA,30000,4
+10,romance,30000,4
+50,romance,40000,4
+40,fantasy,30000,4
+50,young adult,20000,4
+30,romance,30000,4
+100,drama,20000,4
+40,mystery,20000,4
+30,sci-fi,30000,4
+60,drama,30000,4
+20,horror,20000,4
+40,fantasy,30000,4
+20,young adult,30000,4
+100,romance,20000,4
+50,horror,30000,4
+30,fantasy,30000,4
+80,NA,20000,4
+60,thriller,20000,4
+30,romance,30000,4
+40,romance,20000,4
+100,drama,20000,4
+50,NA,20000,4
+400,NA,20000,4
+10,NA,20000,4
+30,young adult,30000,4
+30,comedy,30000,4
+200,NA,30000,4
+50,romance,30000,4
+20,young adult,30000,4
+80,horror,30000,4
+40,fantasy,30000,4
+60,NA,20000,4
+70,suspense,20000,4
+80,fantasy,20000,4
+40,crime,20000,4
+20,young adult,40000,4
+10,fantasy,30000,4
+80,thriller,20000,4
+50,NA,20000,4
+40,mystery,30000,4
+400,NA,20000,4
+70,crime,20000,4
+60,NA,20000,4
+30,drama,30000,4
+20,crime,20000,4
+50,drama,20000,4
+30,romance,20000,4
+30,young adult,40000,4
+70,mystery,30000,4
+50,mystery,30000,4
+20,crime,20000,4
+30,romance,20000,4
+10,drama,20000,4
+80,horror,20000,4
+90,mystery,30000,4
+70,NA,20000,4
+10,fantasy,30000,4
+40,fantasy,30000,4
+30,young adult,30000,4
+20,romance,20000,4
+10,NA,20000,4
+40,thriller,20000,4
+50,fantasy,30000,4
+20,young adult,40000,4
+50,mystery,30000,4
+10,fantasy,20000,4
+90,sci-fi,30000,4
+80,mystery,20000,3
+30,romance,40000,4
+10,fantasy,20000,4
+100,mystery,20000,4
+60,young adult,30000,4
+50,romance,40000,4
+20,romance,20000,4
+30,NA,20000,4
+10,mystery,20000,4
+50,fantasy,30000,4
+20,fantasy,20000,4
+40,fantasy,40000,4
+30,young adult,30000,4
+30,young adult,30000,4
+20,romance,20000,4
+30,crime,20000,4
+100,fantasy,10000,4
+40,drama,30000,4
+70,romance,30000,4
+30,fantasy,30000,4
+40,fantasy,30000,4
+40,horror,20000,4
+40,young adult,30000,4
+600,drama,30000,4
+200,NA,20000,4
+50,romance,20000,4
+80,fantasy,20000,4
+20,young adult,30000,4
+20,romance,40000,4
+60,romance,20000,3
+20,fantasy,30000,4
+30,mystery,30000,4
+10,fantasy,30000,4
+30,NA,20000,4
+100,young adult,30000,4
+200,sci-fi,20000,4
+50,fantasy,30000,4
+80,fantasy,20000,4
+60,NA,20000,4
+40,fantasy,20000,4
+60,NA,20000,3
+40,young adult,30000,4
+50,mystery,30000,4
+10,romance,40000,4
+20,young adult,30000,4
+100,mystery,30000,4
+40,sci-fi,20000,4
+70,mystery,30000,4
+20,young adult,40000,4
+50,drama,20000,4
+30,romance,30000,4
+30,fantasy,30000,4
+10,romance,30000,4
+20,young adult,30000,4
+50,sci-fi,30000,4
+0,NA,20000,4
+50,young adult,30000,4
+30,young adult,20000,4
+0,young adult,20000,4
+20,comedy,20000,3
+70,thriller,20000,4
+0,horror,20000,4
+50,young adult,30000,4
+10,young adult,20000,4
+30,fantasy,30000,4
+10,romance,20000,3
+10,comedy,20000,4
+30,sci-fi,30000,4
+50,mystery,20000,4
+20,sci-fi,30000,4
+50,NA,20000,4
+40,romance,20000,3
+60,young adult,30000,4
+0,disney,30000,4
+0,NA,20000,4
+40,crime,20000,4
+30,thriller,20000,4
+60,mystery,20000,3
+30,drama,20000,4
+50,NA,30000,4
+60,young adult,30000,4
+20,young adult,30000,4
+50,mystery,20000,4
+20,fantasy,20000,4
+70,romance,30000,4
+40,mystery,30000,4
+100,mystery,20000,4
+30,fantasy,30000,4
+70,fantasy,30000,4
+200,NA,20000,4
+90,drama,20000,4
+30,romance,30000,4
+30,fantasy,20000,4
+40,young adult,40000,4
+20,romance,40000,4
+40,horror,20000,4
+30,comedy,20000,4
+30,NA,20000,4
+50,young adult,20000,3
+40,romance,40000,4
+50,romance,30000,4
+80,romance,30000,4
+80,horror,30000,4
+30,romance,20000,4
+40,young adult,20000,4
+60,romance,20000,4
+50,NA,20000,4
+100,drama,30000,4
+20,young adult,30000,4
+40,young adult,30000,4
+30,young adult,30000,4
+70,mystery,30000,4
+20,young adult,30000,4
+30,romance,20000,3
+20,NA,20000,4
+50,NA,20000,3
+50,fantasy,20000,4
+20,romance,30000,4
+70,sci-fi,20000,4
+500,drama,20000,4
+40,romance,30000,4
+700,NA,20000,4
+0,fantasy,20000,5
+40,romance,30000,4
+30,mystery,20000,4
+40,mystery,30000,4
+70,mystery,20000,4
+50,NA,20000,4
+40,NA,20000,4
+40,NA,20000,4
+90,fantasy,20000,4
+90,NA,20000,4
+70,NA,20000,4
+70,romance,30000,4
+20,mystery,10000,4
+10,romance,30000,4
+60,horror,20000,4
+20,fantasy,30000,4
+10,young adult,30000,4
+100,mystery,30000,4
+10,mystery,30000,4
+30,romance,20000,4
+80,drama,20000,3
+70,fantasy,30000,4
+50,romance,20000,4
+40,mystery,20000,4
+20,young adult,40000,4
+10,NA,20000,4
+30,comedy,20000,4
+50,fantasy,30000,4
+40,young adult,20000,4
+30,crime,20000,4
+70,fantasy,20000,4
+30,young adult,40000,4
+10,young adult,30000,4
+20,mystery,20000,4
+30,young adult,30000,4
+50,romance,20000,4
+20,NA,20000,4
+30,romance,30000,4
+300,drama,20000,4
+30,mystery,20000,4
+30,young adult,20000,4
+100,drama,20000,4
+20,NA,20000,4
+30,fantasy,20000,4
+20,comedy,20000,4
+30,young adult,40000,4
+50,NA,20000,4
+30,young adult,40000,4
+30,mystery,30000,4
+100,fantasy,20000,4
+10,fantasy,20000,4
+30,NA,20000,4
+50,young adult,20000,4
+20,drama,20000,3
+20,young adult,30000,4
+70,young adult,30000,4
+40,fantasy,30000,4
+40,thriller,30000,4
+10,NA,20000,4
+40,young adult,40000,4
+70,drama,20000,4
+60,romance,30000,4
+30,young adult,20000,4
+20,mystery,40000,4
+10,fantasy,20000,4
+20,comedy,30000,3
+10,fantasy,20000,4
+10,comedy,30000,4
+50,sci-fi,20000,4
+10,fantasy,30000,4
+300,fantasy,20000,4
+20,fantasy,20000,4
+10,romance,40000,4
+10,NA,20000,4
+20,horror,20000,4
+50,young adult,30000,4
+80,NA,20000,4
+70,fantasy,30000,4
+200,NA,20000,4
+20,fantasy,30000,4
+20,fantasy,30000,4
+10,young adult,30000,4
+100,NA,20000,4
+10,romance,40000,4
+50,fantasy,20000,4
+40,fantasy,30000,4
+10,fantasy,20000,4
+80,mystery,20000,4
+40,young adult,30000,4
+50,fantasy,30000,4
+300,drama,20000,4
+0,disney,20000,4
+20,mystery,20000,4
+50,young adult,30000,4
+40,thriller,20000,4
+50,romance,30000,4
+20,NA,20000,4
+80,mystery,20000,4
+50,fantasy,20000,4
+30,fantasy,20000,4
+100,sci-fi,20000,4
+30,romance,30000,4
+400,romance,30000,4
+70,crime,20000,4
+60,NA,20000,4
+300,comedy,20000,4
+30,young adult,30000,4
+10,romance,40000,4
+30,NA,20000,4
+40,young adult,30000,4
+40,romance,30000,4
+20,horror,20000,4
+10,fantasy,20000,5
+40,fantasy,30000,4
+30,fantasy,30000,4
+40,young adult,30000,4
+0,suspense,20000,4
+60,young adult,30000,4
+20,fantasy,20000,4
+50,comedy,20000,4
+30,thriller,20000,4
+20,romance,40000,4
+50,romance,20000,4
+300,drama,20000,4
+50,disney,20000,4
+50,fantasy,20000,4
+100,crime,20000,4
+0,young adult,20000,4
+70,fantasy,20000,4
+40,NA,20000,4
+60,mystery,30000,4
+30,romance,20000,4
+50,fantasy,30000,4
+30,young adult,30000,4
+40,fantasy,20000,4
+20,fantasy,30000,4
+70,romance,30000,4
+100,NA,20000,4
+10,NA,30000,4
+400,NA,20000,4
+30,drama,20000,4
+30,drama,20000,3
+50,sci-fi,20000,4
+20,young adult,20000,4
+100,thriller,20000,4
+40,thriller,10000,4
+90,NA,20000,4
+20,NA,20000,4
+300,fantasy,30000,4
+20,drama,20000,4
+60,fantasy,30000,4
+70,horror,20000,4
+300,young adult,30000,4
+60,romance,40000,4
+40,fantasy,20000,4
+40,romance,30000,4
+50,suspense,20000,3
+60,romance,20000,3
+60,drama,20000,4
+20,NA,20000,4
+30,romance,20000,4
+40,young adult,30000,4
+40,fantasy,20000,4
+200,mystery,30000,4
+10,fantasy,20000,4
+20,NA,20000,4
+40,fantasy,30000,4
+90,mystery,20000,4
+50,mystery,20000,4
+70,young adult,30000,4
+0,fantasy,20000,4
+30,fantasy,30000,4
+10,romance,30000,4
+10,NA,20000,4
+10,comedy,20000,4
+50,fantasy,30000,4
+20,fantasy,30000,4
+30,fantasy,30000,4
+30,drama,20000,4
+70,romance,30000,4
+30,young adult,20000,4
+70,fantasy,20000,4
+20,fantasy,30000,4
+20,romance,40000,4
+30,drama,20000,4
+20,young adult,30000,4
+30,fantasy,30000,4
+30,comedy,20000,4
+20,fantasy,30000,3
+40,young adult,20000,4
+50,horror,20000,4
+30,romance,20000,4
+30,sci-fi,20000,4
+60,romance,20000,3
+10,young adult,30000,4
+40,romance,40000,4
+40,horror,20000,4
+90,sci-fi,20000,4
+30,drama,20000,4
+30,young adult,30000,4
+100,NA,20000,4
+40,NA,20000,4
+300,NA,20000,4
+10,fantasy,30000,4
+30,fantasy,20000,4
+50,mystery,20000,4
+40,fantasy,20000,4
+80,romance,20000,4
+100,romance,20000,4
+40,fantasy,30000,4
+30,fantasy,40000,4
+70,NA,20000,4
+40,horror,20000,4
+40,young adult,30000,4
+30,fantasy,30000,4
+80,young adult,30000,4
+20,young adult,20000,4
+40,young adult,20000,4
+200,romance,20000,4
+80,mystery,20000,4
+20,young adult,30000,4
+30,sci-fi,20000,4
+80,thriller,20000,4
+50,NA,20000,3
+30,young adult,30000,4
+30,NA,20000,4
+70,crime,20000,4
+40,romance,20000,4
+30,romance,20000,4
+20,drama,20000,4
+50,NA,20000,4
+10,romance,40000,4
+40,NA,20000,4
+40,NA,10000,4
+30,romance,20000,4
+50,comedy,20000,4
+50,NA,20000,4
+50,sci-fi,20000,4
+40,young adult,30000,4
+20,romance,30000,5
+30,NA,20000,4
+10,fairy-tales,30000,4
+40,mystery,20000,4
+30,fantasy,20000,4
+70,thriller,20000,4
+70,mystery,20000,4
+50,young adult,40000,4
+30,mystery,10000,4
+50,comedy,20000,3
+50,drama,20000,4
+20,fantasy,30000,4
+50,horror,20000,4
+80,fantasy,20000,4
+10,NA,20000,4
+50,romance,20000,4
+20,young adult,20000,4
+60,drama,20000,4
+40,young adult,30000,4
+40,NA,20000,4
+90,fantasy,20000,4
+20,fantasy,30000,4
+40,NA,20000,4
+80,NA,10000,4
+600,horror,20000,3
+40,comedy,20000,4
+50,mystery,20000,4
+70,romance,20000,4
+70,young adult,20000,4
+30,young adult,20000,4
+50,romance,30000,4
+20,young adult,20000,4
+30,fantasy,30000,4
+10,young adult,30000,4
+10,fantasy,20000,5
+30,NA,20000,4
+20,young adult,20000,4
+60,mystery,30000,4
+10,comedy,20000,4
+20,fantasy,20000,4
+50,romance,30000,4
+50,NA,20000,4
+20,comedy,20000,4
+80,fantasy,30000,4
+30,mystery,20000,4
+70,crime,20000,4
+90,horror,20000,3
+80,mystery,30000,4
+20,young adult,30000,4
+40,fantasy,30000,4
+50,mystery,20000,4
+10,drama,20000,3
+70,fantasy,20000,4
+50,thriller,20000,4
+70,romance,20000,4
+30,romance,20000,3
+20,horror,20000,4
+30,romance,30000,4
+40,fantasy,20000,4
+600,romance,20000,4
+20,young adult,20000,4
+60,crime,20000,4
+100,NA,20000,4
+30,NA,20000,4
+40,fantasy,30000,4
+100,fantasy,20000,4
+20,romance,40000,4
+30,young adult,30000,4
+50,mystery,20000,4
+10,romance,40000,4
+20,fantasy,30000,4
+20,romance,30000,4
+20,comedy,20000,4
+80,mystery,30000,4
+40,NA,20000,4
+30,fantasy,30000,4
+40,young adult,20000,4
+60,young adult,30000,4
+10,young adult,20000,4
+30,fantasy,20000,4
+50,fantasy,20000,4
+40,fantasy,30000,4
+20,sci-fi,20000,4
+60,NA,20000,4
+20,mystery,20000,4
+90,young adult,20000,4
+70,NA,20000,4
+20,romance,40000,4
+40,young adult,20000,4
+90,fantasy,20000,4
+20,young adult,20000,4
+20,young adult,30000,4
+30,fantasy,20000,4
+70,fantasy,30000,4
+200,NA,20000,4
+40,NA,20000,4
+30,NA,20000,4
+30,romance,40000,4
+10,young adult,30000,4
+80,mystery,20000,4
+30,romance,20000,4
+20,comedy,20000,5
+10,fantasy,20000,4
+80,NA,20000,4
+70,NA,20000,4
+20,fantasy,20000,4
+10,NA,10000,3
+50,crime,20000,4
+30,drama,20000,4
+40,young adult,30000,4
+30,crime,20000,4
+10,sci-fi,20000,4
+30,comedy,20000,4
+10,mystery,20000,4
+40,romance,20000,4
+40,fantasy,20000,4
+30,thriller,20000,4
+40,fantasy,30000,4
+40,NA,20000,4
+80,romance,20000,4
+400,romance,20000,4
+400,NA,20000,4
+30,romance,30000,4
+70,mystery,30000,4
+10,sci-fi,20000,4
+80,mystery,20000,4
+80,mystery,20000,4
+40,comedy,20000,4
+20,comedy,20000,4
+80,thriller,20000,4
+60,romance,20000,4
+60,fantasy,20000,4
+100,sci-fi,20000,4
+40,fantasy,20000,4
+70,horror,20000,4
+10,NA,20000,4
+40,fantasy,20000,4
+70,drama,20000,4
+10,fantasy,20000,4
+20,fantasy,30000,4
+30,thriller,20000,4
+80,horror,20000,4
+50,young adult,20000,4
+20,NA,20000,4
+50,horror,20000,4
+40,fantasy,20000,4
+30,fantasy,20000,4
+100,romance,20000,4
+50,romance,20000,4
+50,fantasy,30000,4
+50,young adult,20000,4
+50,NA,30000,4
+200,drama,30000,4
+60,mystery,20000,4
+20,horror,20000,4
+10,young adult,20000,4
+40,fantasy,20000,4
+40,fantasy,20000,4
+50,drama,20000,4
+30,NA,20000,4
+80,mystery,20000,4
+30,romance,20000,4
+30,fantasy,20000,4
+30,drama,20000,4
+30,mystery,20000,4
+60,fantasy,30000,4
+10,sci-fi,20000,4
+40,romance,20000,4
+50,romance,20000,3
+50,NA,20000,4
+20,young adult,30000,4
+10,drama,20000,4
+20,young adult,30000,4
+20,romance,20000,3
+10,romance,40000,4
+30,NA,20000,4
+30,fantasy,20000,4
+50,romance,10000,4
+40,romance,20000,4
+30,fantasy,20000,4
+50,young adult,30000,4
+50,young adult,30000,4
+20,sci-fi,20000,4
+20,fantasy,20000,4
+20,comedy,30000,4
+30,fantasy,20000,4
+50,horror,20000,4
+30,fantasy,30000,4
+30,fantasy,30000,4
+60,sci-fi,20000,3
+20,drama,20000,4
+30,sci-fi,20000,4
+90,mystery,20000,4
+30,young adult,30000,4
+40,mystery,20000,4
+80,mystery,20000,4
+10,romance,20000,4
+600,horror,20000,3
+20,NA,20000,4
+40,mystery,20000,4
+20,young adult,20000,4
+400,NA,20000,4
+60,young adult,20000,4
+20,fantasy,30000,4
+30,romance,20000,4
+20,NA,30000,4
+100,romance,20000,4
+20,fantasy,20000,4
+50,romance,30000,4
+100,drama,20000,4
+50,NA,10000,4
+60,fantasy,20000,4
+60,mystery,20000,4
+30,romance,20000,3
+50,romance,30000,4
+20,young adult,20000,4
+40,horror,20000,4
+50,drama,20000,3
+60,mystery,20000,4
+40,mystery,20000,4
+30,mystery,10000,4
+50,thriller,20000,4
+60,romance,30000,4
+30,NA,20000,4
+40,sci-fi,20000,4
+0,horror,20000,4
+20,young adult,20000,4
+40,fantasy,30000,4
+20,mystery,10000,4
+40,mystery,20000,4
+70,thriller,20000,4
+100,comedy,10000,3
+50,mystery,20000,3
+80,mystery,30000,4
+30,romance,20000,4
+30,fantasy,20000,4
+70,mystery,20000,3
+200,fantasy,20000,4
+50,drama,20000,4
+90,mystery,20000,4
+20,romance,30000,4
+100,comedy,20000,4
+40,mystery,20000,4
+70,NA,20000,4
+50,fantasy,20000,4
+20,NA,20000,4
+50,fantasy,30000,4
+300,young adult,30000,4
+20,fantasy,30000,4
+50,mystery,20000,4
+20,young adult,30000,4
+20,fantasy,20000,4
+60,fantasy,30000,4
+20,fantasy,20000,4
+10,romance,30000,4
+100,romance,20000,5
+40,sci-fi,20000,4
+10,young adult,30000,4
+50,fantasy,30000,4
+50,young adult,20000,4
+30,young adult,30000,4
+10,NA,20000,4
+10,sci-fi,20000,4
+20,romance,40000,4
+20,NA,20000,4
+40,NA,20000,4
+30,fantasy,20000,4
+70,romance,20000,4
+30,young adult,20000,4
+40,comedy,20000,4
+50,young adult,30000,4
+50,fantasy,20000,4
+200,NA,20000,4
+70,mystery,20000,4
+20,sci-fi,20000,4
+40,young adult,20000,4
+10,drama,20000,4
+20,romance,20000,4
+70,horror,20000,4
+30,romance,30000,4
+70,romance,30000,4
+50,thriller,20000,4
+100,thriller,20000,4
+50,fantasy,30000,4
+500,NA,20000,4
+60,crime,20000,3
+30,comedy,20000,4
+10,romance,20000,4
+30,fantasy,20000,4
+50,NA,20000,4
+50,young adult,20000,4
+50,romance,30000,4
+20,comedy,20000,4
+70,NA,20000,4
+60,drama,20000,4
+300,young adult,30000,4
+40,NA,20000,4
+70,mystery,20000,4
+40,horror,20000,4
+70,NA,20000,4
+50,mystery,20000,4
+50,NA,20000,4
+20,young adult,30000,4
+10,comedy,20000,4
+30,NA,20000,4
+0,fantasy,20000,5
+20,fantasy,20000,4
+30,young adult,30000,4
+100,fantasy,10000,4
+30,fantasy,30000,4
+60,horror,20000,4
+60,drama,20000,4
+30,NA,20000,4
+30,romance,20000,4
+30,fantasy,30000,4
+40,mystery,20000,4
+50,fantasy,20000,4
+30,NA,20000,4
+40,comedy,20000,4
+30,mystery,20000,4
+20,mystery,20000,4
+40,sci-fi,20000,4
+400,NA,20000,4
+200,mystery,30000,4
+40,fantasy,20000,4
+30,romance,30000,4
+50,fantasy,20000,4
+20,romance,20000,4
+400,NA,20000,4
+20,mystery,10000,4
+30,NA,20000,4
+10,mystery,20000,4
+30,romance,30000,4
+30,romance,30000,4
+20,young adult,20000,4
+30,NA,20000,4
+10,romance,30000,4
+30,romance,20000,4
+10,fantasy,20000,4
+80,NA,20000,4
+20,fantasy,20000,4
+600,romance,10000,4
+30,romance,20000,4
+50,NA,20000,4
+50,NA,20000,4
+20,young adult,20000,4
+30,young adult,20000,4
+10,romance,20000,4
+70,fantasy,20000,4
+70,thriller,20000,4
+70,mystery,30000,4
+500,NA,20000,4
+50,young adult,20000,4
+10,NA,20000,4
+20,young adult,30000,4
+40,NA,20000,4
+10,romance,30000,4
+40,NA,20000,4
+90,sci-fi,20000,4
+80,drama,10000,4
+30,young adult,20000,4
+50,mystery,20000,4
+50,fantasy,30000,4
+20,fantasy,30000,4
+10,fantasy,20000,4
+20,horror,20000,4
+600,NA,20000,5
+70,mystery,20000,4
+90,NA,20000,4
+40,romance,30000,4
+50,fantasy,30000,4
+100,sci-fi,20000,4
+70,romance,20000,3
+10,NA,20000,4
+40,sci-fi,10000,4
+10,romance,20000,4
+40,fantasy,20000,4
+40,horror,20000,4
+40,sci-fi,20000,4
+60,fantasy,30000,4
+10,young adult,20000,4
+70,mystery,20000,4
+40,horror,20000,4
+10,NA,20000,4
+70,thriller,20000,4
+70,fantasy,20000,4
+20,fantasy,20000,4
+50,young adult,20000,4
+50,romance,30000,4
+20,mystery,20000,4
+50,NA,20000,4
+30,romance,20000,4
+30,romance,30000,4
+30,fantasy,20000,4
+10,romance,30000,4
+10,fantasy,10000,4
+10,thriller,20000,4
+90,NA,20000,4
+60,mystery,20000,4
+20,young adult,20000,4
+50,young adult,30000,4
+20,romance,30000,4
+20,young adult,30000,4
+40,romance,20000,4
+30,young adult,30000,4
+50,romance,20000,4
+30,young adult,30000,4
+10,NA,20000,4
+40,NA,20000,4
+20,NA,10000,4
+50,thriller,20000,4
+200,horror,20000,4
+60,horror,20000,4
+50,fantasy,20000,4
+20,thriller,20000,4
+30,young adult,30000,4
+30,fantasy,20000,4
+60,young adult,20000,4
+20,romance,40000,4
+40,young adult,20000,4
+10,romance,10000,4
+30,comedy,20000,4
+40,mystery,20000,4
+40,mystery,20000,4
+20,romance,20000,4
+50,thriller,20000,4
+40,romance,20000,4
+60,mystery,20000,4
+40,NA,20000,4
+30,fantasy,30000,4
+50,mystery,20000,4
+30,fantasy,20000,4
+60,romance,30000,4
+10,romance,30000,5
+40,NA,20000,4
+20,young adult,20000,4
+20,comedy,30000,4
+10,thriller,20000,4
+20,mystery,20000,4
+20,crime,20000,4
+50,NA,20000,4
+30,romance,30000,4
+50,mystery,20000,4
+30,horror,20000,4
+60,thriller,20000,4
+20,NA,20000,4
+20,young adult,20000,4
+30,sci-fi,10000,4
+300,romance,10000,4
+30,fantasy,30000,4
+100,NA,20000,5
+10,disney,20000,4
+100,romance,20000,4
+70,romance,30000,4
+40,comedy,10000,4
+30,comedy,20000,4
+10,fantasy,20000,4
+40,thriller,10000,4
+60,mystery,20000,4
+30,fantasy,30000,4
+10,romance,20000,4
+30,NA,10000,4
+300,NA,20000,4
+20,horror,20000,4
+50,fantasy,20000,4
+10,fairy-tales,20000,4
+40,mystery,20000,4
+20,horror,20000,4
+40,NA,20000,4
+50,horror,20000,4
+20,fantasy,30000,4
+40,young adult,20000,4
+40,fantasy,20000,4
+50,mystery,20000,4
+30,NA,20000,4
+50,NA,20000,4
+40,mystery,30000,4
+10,romance,30000,3
+30,fantasy,30000,4
+70,comedy,20000,3
+20,mystery,20000,4
+30,fantasy,30000,4
+80,young adult,20000,4
+30,sci-fi,10000,4
+80,thriller,20000,4
+50,NA,20000,4
+20,young adult,20000,4
+40,romance,20000,4
+50,mystery,20000,4
+30,romance,10000,4
+20,young adult,20000,5
+50,mystery,20000,4
+50,romance,20000,4
+40,fantasy,20000,4
+70,thriller,20000,4
+60,fantasy,20000,4
+40,thriller,20000,4
+30,romance,30000,4
+20,romance,20000,4
+50,drama,20000,4
+10,fantasy,30000,4
+30,fantasy,20000,4
+40,mystery,20000,4
+70,thriller,20000,4
+50,fantasy,20000,4
+70,romance,30000,4
+40,fantasy,20000,4
+30,mystery,20000,4
+40,fantasy,30000,4
+10,fantasy,20000,4
+10,horror,20000,4
+20,NA,20000,4
+60,sci-fi,30000,4
+30,young adult,20000,4
+10,comedy,20000,3
+20,romance,20000,4
+30,young adult,30000,4
+70,horror,20000,4
+10,NA,20000,4
+40,fantasy,20000,4
+60,NA,20000,4
+30,romance,20000,4
+40,fantasy,20000,4
+200,NA,20000,4
+30,romance,30000,4
+10,NA,20000,4
+60,thriller,20000,4
+40,crime,20000,4
+50,young adult,30000,4
+20,crime,20000,4
+20,NA,20000,4
+10,young adult,20000,4
+50,fantasy,20000,4
+20,comedy,20000,3
+50,romance,20000,4
+30,NA,20000,4
+50,mystery,20000,4
+30,romance,20000,4
+20,fantasy,20000,4
+0,thriller,10000,4
+60,thriller,10000,4
+40,fantasy,20000,4
+40,mystery,20000,4
+30,mystery,20000,4
+90,drama,10000,4
+50,mystery,30000,4
+20,NA,30000,4
+30,comedy,20000,4
+50,NA,20000,4
+200,drama,20000,4
+20,fantasy,20000,4
+100,fantasy,20000,4
+30,young adult,30000,4
+20,sci-fi,20000,4
+20,fantasy,20000,4
+10,romance,20000,4
+400,NA,20000,4
+30,NA,20000,4
+100,romance,20000,4
+70,young adult,20000,4
+30,fantasy,30000,4
+50,mystery,20000,4
+40,fantasy,20000,4
+10,romance,20000,4
+50,romance,20000,4
+20,romance,20000,4
+10,romance,20000,3
+30,fantasy,20000,3
+40,fantasy,20000,4
+40,young adult,20000,4
+30,horror,20000,4
+100,NA,20000,4
+20,fantasy,30000,4
+20,fantasy,20000,4
+300,drama,20000,4
+20,romance,30000,4
+10,romance,20000,4
+0,romance,20000,3
+10,NA,20000,4
+50,thriller,20000,4
+40,NA,20000,4
+70,mystery,20000,4
+40,NA,20000,4
+300,NA,20000,4
+70,thriller,20000,4
+30,romance,20000,4
+40,NA,20000,4
+60,mystery,20000,4
+70,mystery,20000,4
+40,fantasy,20000,4
+40,fantasy,20000,4
+20,romance,30000,4
+60,mystery,20000,4
+20,NA,20000,4
+30,young adult,20000,4
+10,romance,40000,4
+100,young adult,20000,4
+50,fantasy,20000,4
+40,romance,20000,4
+40,fantasy,20000,4
+30,horror,20000,4
+40,NA,20000,4
+20,NA,20000,4
+50,young adult,20000,4
+30,fantasy,20000,4
+30,NA,20000,4
+20,young adult,30000,4
+40,young adult,30000,4
+30,mystery,20000,4
+30,young adult,20000,4
+60,drama,20000,4
+0,young adult,20000,4
+20,mystery,20000,4
+50,young adult,20000,4
+200,mystery,20000,4
+70,mystery,30000,4
+100,crime,10000,4
+40,mystery,30000,4
+90,fantasy,20000,4
+40,drama,10000,4
+50,fantasy,20000,4
+50,young adult,30000,4
+50,fantasy,30000,4
+30,romance,20000,4
+40,thriller,20000,4
+0,young adult,20000,4
+80,drama,20000,4
+20,fantasy,20000,4
+40,comedy,20000,4
+60,drama,20000,4
+20,NA,20000,4
+20,young adult,30000,4
+50,thriller,20000,4
+50,romance,20000,4
+40,romance,30000,4
+10,romance,20000,4
+80,mystery,20000,4
+20,young adult,20000,4
+30,fantasy,20000,4
+70,NA,20000,4
+90,young adult,20000,4
+60,NA,20000,4
+40,fantasy,20000,4
+60,sci-fi,20000,4
+100,sci-fi,20000,4
+30,horror,40000,4
+50,NA,20000,4
+70,mystery,20000,4
+30,young adult,20000,3
+50,fantasy,20000,4
+50,mystery,20000,4
+20,NA,20000,4
+100,crime,20000,4
+60,thriller,20000,4
+40,young adult,20000,4
+30,romance,20000,4
+20,NA,20000,3
+500,mystery,20000,4
+50,mystery,20000,4
+40,mystery,20000,4
+40,fantasy,30000,4
+60,fantasy,20000,4
+20,NA,20000,3
+60,drama,20000,4
+10,romance,30000,4
+60,romance,20000,4
+10,romance,30000,4
+30,fantasy,20000,4
+50,sci-fi,20000,4
+30,crime,20000,4
+10,mystery,20000,4
+40,thriller,20000,4
+20,romance,20000,4
+30,young adult,20000,4
+50,young adult,20000,4
+20,fantasy,20000,4
+30,young adult,20000,4
+40,mystery,20000,4
+0,fantasy,20000,4
+20,romance,20000,4
+30,romance,30000,4
+20,horror,20000,4
+50,young adult,20000,4
+600,mystery,20000,4
+200,romance,10000,4
+50,mystery,20000,4
+20,young adult,30000,4
+40,NA,20000,4
+80,mystery,20000,4
+20,NA,20000,4
+80,mystery,20000,4
+20,fantasy,20000,4
+60,sci-fi,20000,4
+100,romance,10000,4
+20,young adult,20000,4
+60,horror,20000,4
+50,mystery,20000,4
+80,fantasy,10000,4
+30,mystery,20000,4
+50,fantasy,20000,4
+80,mystery,20000,4
+30,fantasy,20000,4
+20,romance,30000,4
+40,sci-fi,20000,4
+30,romance,20000,4
+20,fantasy,20000,4
+60,thriller,20000,4
+30,fantasy,30000,4
+30,NA,20000,4
+40,fantasy,20000,4
+10,romance,30000,4
+20,horror,10000,4
+70,drama,20000,4
+50,fantasy,30000,4
+90,young adult,20000,4
+30,young adult,30000,4
+40,comedy,20000,4
+30,comedy,20000,4
+20,fantasy,30000,4
+30,romance,20000,4
+60,romance,20000,4
+70,fantasy,20000,4
+40,fantasy,20000,4
+60,thriller,20000,4
+60,NA,20000,4
+40,mystery,10000,4
+60,romance,30000,4
+70,mystery,20000,4
+60,mystery,20000,4
+10,young adult,20000,4
+10,romance,30000,4
+50,mystery,20000,4
+30,romance,30000,4
+10,sci-fi,20000,4
+50,romance,20000,4
+30,fantasy,30000,4
+50,mystery,30000,4
+30,young adult,20000,4
+10,romance,30000,4
+50,fantasy,20000,4
+30,NA,20000,4
+10,sci-fi,20000,4
+50,fantasy,20000,4
+10,young adult,10000,4
+40,young adult,20000,4
+20,fantasy,10000,4
+20,fantasy,10000,4
+30,drama,20000,4
+50,horror,20000,4
+400,drama,20000,4
+10,young adult,30000,4
+60,mystery,20000,4
+80,sci-fi,20000,4
+20,young adult,20000,4
+50,young adult,30000,4
+50,horror,20000,4
+30,mystery,20000,4
+10,romance,30000,4
+50,young adult,20000,4
+20,young adult,20000,4
+70,thriller,20000,4
+10,romance,20000,4
+40,fantasy,20000,4
+30,horror,20000,4
+30,mystery,20000,4
+30,comedy,20000,5
+0,NA,20000,4
+40,horror,20000,4
+70,crime,20000,4
+0,NA,20000,4
+10,fantasy,20000,4
+70,fantasy,20000,4
+20,NA,20000,4
+60,romance,20000,4
+30,fantasy,20000,4
+40,romance,30000,4
+40,romance,30000,4
+50,romance,20000,4
+20,young adult,30000,4
+50,mystery,10000,4
+10,young adult,30000,4
+40,fantasy,30000,4
+20,crime,20000,4
+20,crime,20000,4
+10,fantasy,20000,4
+40,NA,20000,4
+80,fantasy,20000,4
+40,fantasy,20000,4
+50,mystery,20000,3
+20,fantasy,20000,4
+30,romance,20000,4
+30,NA,20000,4
+20,thriller,20000,4
+30,drama,20000,4
+30,young adult,20000,4
+60,thriller,10000,3
+60,mystery,20000,4
+100,crime,10000,4
+60,mystery,20000,3
+30,fantasy,20000,4
+100,fantasy,10000,4
+20,young adult,20000,4
+10,romance,20000,4
+10,fantasy,20000,4
+40,romance,30000,4
+80,fantasy,10000,4
+10,romance,20000,4
+30,romance,20000,3
+40,romance,20000,4
+50,sci-fi,20000,4
+50,NA,10000,4
+30,sci-fi,10000,4
+70,drama,20000,4
+40,NA,20000,4
+40,fantasy,30000,4
+40,young adult,20000,4
+60,thriller,20000,4
+30,young adult,30000,4
+50,mystery,20000,4
+30,romance,30000,4
+30,fantasy,20000,4
+30,romance,30000,4
+40,young adult,20000,4
+10,NA,20000,4
+80,NA,20000,4
+40,romance,20000,4
+30,young adult,20000,4
+20,romance,30000,4
+50,fantasy,20000,4
+40,NA,20000,4
+10,NA,10000,4
+50,crime,10000,4
+70,romance,20000,4
+20,young adult,30000,4
+40,young adult,20000,4
+30,NA,10000,4
+30,young adult,20000,4
+80,mystery,20000,4
+90,fantasy,20000,4
+30,mystery,20000,4
+10,young adult,20000,4
+30,NA,20000,4
+30,fantasy,30000,4
+30,fantasy,20000,4
+100,crime,10000,4
+50,horror,20000,4
+10,fantasy,20000,4
+60,mystery,20000,3
+0,horror,20000,4
+20,young adult,20000,4
+40,fantasy,30000,4
+70,thriller,30000,4
+60,romance,20000,4
+70,sci-fi,20000,4
+70,mystery,20000,4
+10,romance,30000,4
+300,fantasy,20000,4
+100,mystery,20000,4
+30,fantasy,20000,4
+70,horror,20000,4
+40,romance,20000,3
+40,fantasy,20000,4
+40,fantasy,20000,4
+30,young adult,20000,4
+30,mystery,10000,4
+70,fantasy,20000,4
+80,fantasy,20000,4
+20,horror,20000,4
+60,mystery,20000,4
+40,NA,20000,4
+50,fantasy,30000,4
+40,sci-fi,20000,4
+90,fantasy,10000,3
+20,mystery,20000,4
+30,young adult,20000,4
+60,fantasy,20000,4
+70,young adult,20000,4
+40,romance,30000,4
+40,romance,30000,4
+40,NA,20000,4
+70,sci-fi,20000,4
+100,NA,20000,4
+30,fantasy,20000,4
+40,fantasy,20000,4
+80,sci-fi,20000,4
+10,sci-fi,20000,4
+50,fantasy,20000,4
+10,fantasy,30000,4
+40,NA,20000,4
+40,fantasy,20000,4
+10,NA,20000,4
+70,mystery,20000,4
+20,young adult,20000,4
+10,fantasy,20000,4
+60,mystery,20000,4
+40,sci-fi,20000,4
+60,young adult,20000,4
+80,sci-fi,20000,3
+10,fantasy,20000,5
+40,young adult,30000,4
+40,NA,20000,4
+50,fantasy,20000,4
+70,romance,20000,3
+30,young adult,20000,4
+80,disney,20000,4
+40,fantasy,20000,4
+10,young adult,20000,4
+30,sci-fi,20000,4
+30,young adult,30000,4
+50,romance,20000,4
+20,young adult,20000,4
+10,crime,10000,4
+60,young adult,20000,4
+50,mystery,20000,4
+10,sci-fi,20000,4
+60,sci-fi,20000,4
+0,romance,20000,4
+70,NA,20000,4
+30,fantasy,30000,4
+30,mystery,20000,4
+50,young adult,30000,4
+10,NA,20000,4
+100,romance,10000,4
+40,romance,30000,4
+60,NA,20000,5
+30,NA,20000,4
+0,mystery,10000,4
+60,fantasy,20000,4
+60,sci-fi,20000,4
+40,young adult,30000,4
+10,comedy,20000,4
+300,romance,20000,4
+70,NA,20000,4
+300,horror,30000,4
+30,fantasy,20000,4
+40,young adult,20000,3
+50,drama,20000,4
+10,young adult,20000,4
+50,NA,20000,4
+80,fantasy,20000,4
+10,mystery,20000,4
+30,romance,20000,4
+20,fantasy,20000,4
+50,NA,20000,4
+20,fantasy,30000,4
+20,sci-fi,20000,4
+80,young adult,30000,4
+20,young adult,20000,4
+200,NA,20000,4
+40,fantasy,20000,5
+20,young adult,20000,4
+50,NA,20000,3
+80,mystery,20000,4
+40,fantasy,20000,4
+20,fantasy,30000,4
+70,romance,20000,4
+30,fantasy,20000,4
+10,NA,10000,4
+30,fantasy,20000,4
+20,fantasy,20000,4
+20,fairy-tales,20000,3
+30,NA,20000,4
+70,sci-fi,20000,3
+90,NA,20000,4
+50,NA,20000,4
+20,mystery,10000,4
+70,thriller,20000,4
+50,NA,20000,4
+100,sci-fi,20000,4
+20,romance,30000,4
+30,romance,20000,4
+30,sci-fi,20000,4
+50,fantasy,20000,4
+30,drama,20000,4
+70,romance,20000,4
+20,fantasy,10000,4
+60,fantasy,20000,4
+10,young adult,20000,4
+10,fantasy,10000,4
+30,young adult,20000,4
+600,drama,20000,4
+30,fantasy,20000,4
+20,sci-fi,20000,4
+20,young adult,20000,4
+20,fantasy,20000,4
+50,fantasy,20000,4
+40,romance,20000,4
+20,fantasy,20000,4
+10,young adult,20000,4
+40,NA,20000,4
+20,NA,10000,4
+20,romance,20000,4
+10,romance,10000,4
+10,young adult,20000,4
+10,NA,10000,4
+40,young adult,20000,4
+30,young adult,20000,4
+30,romance,30000,4
+300,young adult,20000,4
+30,suspense,10000,4
+50,drama,20000,4
+90,mystery,10000,4
+30,NA,10000,4
+60,fantasy,20000,4
+30,horror,20000,4
+20,young adult,20000,4
+20,romance,30000,4
+40,mystery,20000,4
+60,mystery,20000,4
+70,fantasy,20000,4
+80,sci-fi,20000,4
+50,NA,10000,4
+30,romance,20000,4
+40,young adult,20000,4
+80,young adult,20000,3
+20,fantasy,30000,4
+10,young adult,20000,4
+10,young adult,10000,4
+50,romance,20000,4
+30,romance,20000,4
+40,thriller,20000,4
+20,comedy,10000,4
+60,NA,20000,4
+20,fantasy,30000,4
+40,horror,10000,4
+30,mystery,20000,4
+30,NA,10000,4
+30,young adult,30000,4
+30,young adult,30000,4
+60,young adult,30000,4
+50,young adult,20000,4
+30,fantasy,20000,4
+60,young adult,10000,4
+40,fantasy,10000,4
+20,NA,20000,4
+30,NA,20000,4
+60,young adult,20000,4
+30,fantasy,20000,4
+30,mystery,30000,4
+50,young adult,20000,4
+60,mystery,20000,4
+10,fantasy,20000,4
+20,romance,30000,4
+30,fantasy,20000,4
+200,mystery,20000,4
+50,sci-fi,20000,4
+40,horror,20000,4
+10,mystery,20000,4
+20,mystery,20000,4
+10,comedy,20000,4
+30,fantasy,30000,4
+60,mystery,20000,4
+10,romance,30000,4
+60,drama,10000,4
+60,fantasy,20000,4
+20,mystery,20000,4
+30,romance,20000,4
+20,crime,20000,4
+20,mystery,10000,4
+10,comedy,20000,4
+40,thriller,20000,4
+60,romance,20000,4
+20,fantasy,20000,4
+70,thriller,20000,4
+60,mystery,20000,4
+50,NA,20000,4
+10,romance,10000,4
+10,NA,20000,4
+30,young adult,20000,4
+30,fantasy,30000,4
+30,romance,20000,4
+30,mystery,20000,4
+30,fantasy,20000,4
+40,NA,20000,4
+40,sci-fi,20000,4
+30,young adult,30000,4
+600,drama,20000,4
+20,young adult,20000,4
+10,young adult,20000,4
+20,romance,10000,4
+20,young adult,20000,4
+30,NA,20000,4
+20,romance,30000,4
+40,romance,30000,4
+70,mystery,20000,4
+10,NA,20000,4
+70,thriller,20000,4
+100,drama,10000,4
+40,young adult,20000,4
+30,romance,20000,4
+40,fantasy,20000,4
+30,romance,30000,4
+80,drama,20000,3
+40,mystery,10000,4
+50,thriller,20000,4
+40,fantasy,30000,4
+20,fantasy,20000,4
+40,romance,20000,4
+30,mystery,10000,4
+60,sci-fi,20000,4
+60,thriller,20000,4
+60,fantasy,20000,4
+20,romance,30000,4
+300,young adult,30000,4
+60,mystery,20000,3
+10,horror,20000,4
+0,horror,20000,4
+30,NA,10000,4
+40,romance,20000,4
+30,romance,20000,4
+30,young adult,20000,4
+40,sci-fi,10000,4
+20,fantasy,20000,4
+30,horror,20000,4
+30,NA,20000,4
+40,fantasy,30000,4
+20,comedy,20000,5
+400,horror,20000,4
+30,fantasy,20000,4
+50,young adult,20000,4
+10,romance,30000,4
+40,mystery,20000,4
+10,sci-fi,20000,4
+20,romance,20000,4
+60,mystery,20000,4
+40,young adult,20000,4
+10,fantasy,20000,4
+50,sci-fi,20000,4
+20,comedy,20000,4
+40,NA,20000,4
+30,romance,30000,4
+50,mystery,20000,3
+500,romance,20000,4
+30,young adult,20000,4
+20,fantasy,20000,4
+30,fantasy,20000,4
+50,romance,20000,4
+40,fantasy,20000,4
+60,romance,20000,4
+20,comedy,20000,4
+10,NA,20000,4
+20,horror,20000,4
+20,NA,10000,4
+60,thriller,20000,4
+10,romance,30000,4
+30,fantasy,30000,4
+70,NA,10000,4
+30,romance,30000,4
+0,horror,20000,4
+30,horror,20000,4
+20,romance,10000,4
+30,drama,20000,4
+50,crime,20000,4
+50,drama,20000,4
+20,mystery,20000,4
+70,romance,20000,4
+30,mystery,20000,4
+40,young adult,20000,4
+10,young adult,20000,4
+10,crime,20000,4
+90,mystery,20000,4
+20,comedy,20000,4
+90,romance,10000,4
+60,drama,20000,4
+50,sci-fi,20000,4
+40,romance,20000,4
+40,fantasy,20000,4
+20,crime,20000,4
+10,romance,20000,4
+20,young adult,20000,4
+300,NA,10000,4
+20,romance,30000,4
+80,mystery,20000,4
+30,NA,20000,4
+40,mystery,20000,4
+60,mystery,20000,4
+30,NA,20000,4
+10,romance,30000,4
+20,fantasy,20000,4
+40,romance,20000,4
+40,NA,10000,4
+20,romance,20000,4
+30,romance,20000,4
+50,mystery,10000,4
+10,romance,30000,4
+40,young adult,20000,4
+10,fantasy,20000,4
+50,mystery,20000,4
+60,thriller,20000,4
+30,mystery,20000,4
+10,NA,20000,4
+50,young adult,20000,4
+30,romance,30000,4
+20,young adult,20000,4
+80,fantasy,20000,4
+40,young adult,20000,4
+20,NA,20000,4
+10,NA,20000,4
+200,mystery,20000,4
+20,sci-fi,20000,4
+30,romance,20000,4
+50,mystery,20000,4
+40,mystery,10000,4
+50,NA,10000,4
+50,fantasy,20000,4
+30,fantasy,20000,4
+20,thriller,20000,4
+20,horror,20000,4
+40,NA,10000,4
+50,sci-fi,20000,4
+50,romance,30000,4
+100,mystery,20000,4
+10,mystery,20000,4
+30,mystery,20000,4
+50,fantasy,20000,4
+30,NA,20000,4
+10,fantasy,20000,4
+40,fantasy,20000,4
+20,sci-fi,20000,4
+20,fantasy,20000,4
+60,romance,10000,4
+20,young adult,20000,4
+50,young adult,10000,4
+30,romance,20000,4
+50,mystery,10000,4
+20,comedy,20000,4
+50,romance,10000,4
+40,fantasy,20000,4
+50,romance,20000,4
+20,fantasy,30000,4
+10,comedy,20000,4
+200,drama,10000,4
+90,drama,10000,4
+20,young adult,20000,4
+50,NA,10000,4
+50,drama,20000,4
+100,crime,20000,4
+90,thriller,20000,4
+0,romance,10000,3
+30,fantasy,20000,4
+30,young adult,20000,4
+40,romance,10000,3
+20,romance,30000,4
+20,NA,10000,4
+30,young adult,20000,4
+40,NA,20000,4
+40,sci-fi,20000,4
+50,thriller,20000,4
+30,NA,20000,4
+30,young adult,20000,3
+30,romance,30000,4
+30,fantasy,20000,4
+60,young adult,20000,4
+30,crime,10000,4
+10,young adult,20000,4
+30,comedy,20000,4
+40,mystery,20000,4
+40,romance,20000,4
+60,romance,20000,4
+10,young adult,20000,4
+80,horror,10000,4
+20,fantasy,20000,4
+40,fantasy,20000,4
+70,young adult,20000,4
+30,mystery,20000,4
+20,fantasy,20000,4
+20,romance,20000,4
+20,drama,20000,4
+40,romance,20000,4
+60,romance,20000,4
+40,romance,20000,4
+40,fantasy,20000,4
+100,thriller,20000,4
+30,fantasy,30000,4
+0,NA,20000,4
+10,romance,10000,4
+300,horror,20000,4
+50,fantasy,20000,4
+40,romance,30000,4
+40,thriller,20000,4
+80,romance,20000,3
+10,fantasy,20000,4
+30,sci-fi,10000,4
+20,fantasy,20000,5
+30,fantasy,30000,4
+20,young adult,20000,4
+90,mystery,20000,4
+40,fantasy,30000,4
+40,NA,20000,4
+20,thriller,10000,4
+80,horror,20000,4
+60,fantasy,20000,4
+60,NA,20000,4
+60,thriller,20000,4
+10,NA,20000,4
+10,romance,30000,4
+20,horror,20000,4
+80,mystery,20000,4
+60,mystery,20000,4
+70,NA,10000,4
+30,horror,20000,4
+90,romance,10000,4
+70,horror,20000,4
+40,mystery,20000,3
+50,mystery,20000,4
+0,romance,10000,4
+20,NA,10000,4
+10,romance,20000,4
+100,mystery,20000,4
+30,sci-fi,20000,4
+100,sci-fi,10000,4
+40,NA,10000,4
+50,drama,20000,4
+30,NA,20000,4
+20,NA,20000,4
+0,comedy,10000,4
+10,fantasy,10000,4
+10,romance,20000,4
+30,fantasy,20000,4
+80,romance,10000,4
+10,fantasy,20000,4
+40,young adult,20000,4
+40,NA,10000,4
+80,mystery,20000,4
+40,mystery,20000,4
+30,fantasy,20000,4
+80,mystery,20000,4
+10,drama,20000,4
+20,young adult,20000,4
+50,NA,20000,4
+30,NA,10000,4
+20,mystery,20000,4
+30,young adult,10000,4
+40,NA,10000,4
+40,young adult,20000,4
+20,young adult,20000,4
+80,romance,10000,4
+10,fantasy,20000,4
+30,fantasy,20000,4
+30,fantasy,30000,4
+20,fantasy,20000,4
+50,romance,20000,3
+60,mystery,10000,4
+30,NA,20000,4
+10,romance,30000,4
+100,fantasy,10000,4
+10,drama,20000,4
+40,romance,10000,4
+60,mystery,20000,4
+60,mystery,20000,4
+0,mystery,20000,4
+70,mystery,20000,4
+700,fantasy,10000,4
+60,NA,10000,4
+20,romance,30000,4
+40,mystery,20000,4
+30,romance,20000,4
+70,mystery,20000,4
+20,fantasy,20000,4
+30,sci-fi,20000,4
+30,thriller,10000,4
+300,drama,10000,4
+0,NA,20000,4
+30,fantasy,30000,4
+10,sci-fi,10000,4
+20,mystery,10000,4
+30,romance,10000,4
+10,fantasy,20000,5
+20,fantasy,20000,4
+20,fantasy,20000,4
+10,romance,20000,4
+100,romance,10000,4
+20,romance,20000,4
+1000,drama,20000,4
+30,romance,30000,4
+30,fantasy,20000,4
+10,young adult,30000,4
+30,young adult,20000,4
+200,mystery,20000,4
+40,young adult,10000,4
+60,young adult,20000,4
+40,romance,30000,4
+30,fantasy,20000,4
+10,NA,20000,4
+50,NA,10000,4
+40,romance,10000,4
+20,fantasy,20000,4
+20,romance,20000,4
+10,NA,10000,4
+600,mystery,20000,4
+50,romance,20000,4
+40,NA,10000,4
+20,fantasy,20000,4
+10,fantasy,20000,4
+60,thriller,20000,4
+50,fantasy,20000,4
+10,fantasy,20000,4
+10,fantasy,20000,4
+30,fantasy,20000,4
+60,romance,10000,4
+50,NA,10000,4
+20,fantasy,20000,4
+40,fantasy,20000,4
+30,NA,20000,4
+50,romance,20000,4
+20,young adult,20000,4
+10,romance,20000,4
+60,romance,20000,4
+20,young adult,20000,3
+30,mystery,10000,4
+20,romance,20000,4
+30,fantasy,20000,4
+50,mystery,20000,4
+40,mystery,20000,4
+20,romance,30000,4
+40,fantasy,20000,4
+10,fantasy,20000,4
+50,romance,20000,4
+40,young adult,20000,4
+20,sci-fi,10000,4
+0,romance,20000,4
+70,horror,20000,4
+30,romance,20000,4
+50,mystery,20000,4
+70,drama,20000,4
+400,romance,20000,4
+80,comedy,20000,4
+30,drama,20000,4
+20,romance,20000,4
+60,mystery,10000,4
+40,fantasy,20000,4
+20,young adult,20000,4
+60,romance,20000,4
+200,romance,20000,4
+20,romance,10000,4
+40,romance,20000,4
+40,romance,20000,3
+200,NA,10000,5
+70,thriller,20000,4
+40,sci-fi,20000,4
+20,romance,20000,4
+20,fantasy,20000,4
+60,mystery,20000,4
+30,mystery,10000,4
+30,mystery,20000,4
+40,horror,20000,4
+400,romance,20000,4
+40,romance,10000,4
+10,drama,20000,4
+60,mystery,20000,4
+30,comedy,10000,4
+50,horror,20000,4
+60,NA,20000,4
+10,comedy,20000,4
+30,young adult,20000,4
+400,fantasy,10000,4
+50,thriller,20000,4
+30,comedy,10000,4
+10,young adult,20000,4
+20,NA,20000,4
+40,horror,20000,4
+30,fantasy,20000,4
+40,fantasy,10000,4
+30,sci-fi,10000,4
+20,young adult,20000,4
+30,fantasy,20000,4
+60,mystery,20000,4
+10,romance,10000,4
+20,horror,10000,4
+40,NA,20000,4
+20,fantasy,10000,4
+30,fantasy,20000,4
+80,young adult,10000,4
+20,young adult,20000,4
+30,fantasy,20000,4
+200,comedy,10000,4
+40,fantasy,20000,4
+20,romance,20000,4
+30,young adult,20000,4
+0,mystery,20000,4
+50,mystery,20000,4
+40,young adult,10000,4
+60,thriller,20000,4
+20,romance,20000,4
+20,fantasy,10000,4
+400,young adult,20000,4
+20,thriller,10000,3
+10,young adult,20000,4
+40,thriller,20000,4
+20,horror,20000,4
+20,drama,10000,4
+60,NA,20000,4
+10,sci-fi,10000,4
+20,mystery,20000,4
+20,young adult,20000,4
+60,sci-fi,20000,4
+100,romance,10000,4
+40,mystery,20000,4
+20,young adult,30000,4
+10,fantasy,10000,4
+20,romance,10000,3
+200,young adult,20000,4
+10,fantasy,30000,4
+10,NA,10000,4
+30,young adult,20000,4
+30,NA,10000,4
+20,fantasy,20000,4
+50,horror,10000,4
+40,NA,10000,4
+50,NA,10000,4
+10,young adult,20000,4
+10,romance,20000,4
+20,romance,20000,4
+10,romance,30000,4
+20,fantasy,20000,4
+20,fantasy,20000,4
+20,romance,20000,4
+30,fantasy,20000,4
+40,fantasy,20000,4
+50,NA,10000,4
+30,fantasy,20000,4
+20,fantasy,20000,4
+30,fantasy,20000,4
+50,comedy,10000,4
+30,young adult,10000,4
+30,sci-fi,20000,4
+50,mystery,20000,4
+30,sci-fi,10000,4
+30,young adult,20000,4
+60,mystery,20000,4
+10,drama,20000,4
+40,romance,10000,4
+40,romance,20000,4
+20,NA,20000,4
+40,romance,20000,4
+40,romance,20000,4
+30,drama,10000,4
+90,mystery,20000,4
+20,romance,30000,4
+30,fantasy,20000,5
+40,romance,20000,4
+60,romance,20000,4
+30,drama,10000,4
+40,NA,10000,4
+50,crime,10000,4
+20,young adult,20000,4
+40,romance,20000,4
+30,drama,20000,3
+70,NA,10000,4
+40,NA,10000,4
+30,NA,20000,4
+60,fantasy,20000,4
+70,mystery,10000,3
+70,crime,10000,4
+20,romance,30000,4
+20,NA,10000,4
+20,romance,20000,4
+30,fantasy,30000,4
+30,drama,20000,4
+50,romance,20000,4
+30,young adult,20000,4
+0,young adult,20000,4
+60,fantasy,20000,4
+30,sci-fi,10000,4
+20,young adult,20000,4
+30,NA,20000,4
+70,fantasy,10000,4
+30,mystery,20000,4
+30,NA,10000,4
+60,young adult,20000,4
+30,NA,10000,4
+40,crime,20000,4
+30,NA,10000,4
+60,romance,30000,4
+20,mystery,10000,4
+50,thriller,10000,4
+100,fantasy,10000,4
+30,NA,30000,4
+30,romance,20000,4
+50,horror,20000,4
+20,sci-fi,20000,4
+10,romance,20000,4
+70,fantasy,10000,4
+10,fantasy,20000,4
+200,mystery,20000,4
+80,fantasy,20000,4
+30,fantasy,20000,4
+10,romance,20000,4
+20,sci-fi,10000,3
+10,fantasy,20000,4
+20,fantasy,20000,4
+30,sci-fi,10000,3
+30,young adult,20000,4
+200,mystery,20000,4
+10,NA,20000,3
+90,NA,10000,5
+30,romance,10000,4
+30,romance,20000,4
+10,fairy-tales,20000,4
+50,fantasy,30000,4
+50,romance,10000,4
+30,NA,20000,4
+40,romance,20000,3
+90,fantasy,20000,4
+30,romance,20000,4
+10,romance,20000,4
+20,romance,30000,4
+200,NA,10000,4
+40,fantasy,20000,4
+10,romance,30000,4
+500,romance,20000,3
+20,NA,10000,4
+10,fantasy,20000,4
+20,NA,10000,4
+20,fantasy,20000,4
+30,mystery,20000,4
+0,comfort-food,20000,4
+10,young adult,20000,4
+30,NA,20000,4
+60,thriller,10000,4
+30,romance,10000,3
+40,young adult,20000,4
+10,comedy,20000,4
+40,mystery,20000,4
+10,fantasy,20000,5
+300,drama,20000,4
+100,fantasy,10000,4
+30,romance,20000,4
+50,young adult,20000,4
+80,sci-fi,20000,4
+20,young adult,20000,4
+80,romance,10000,4
+30,sci-fi,20000,4
+20,romance,20000,4
+80,romance,20000,4
+40,mystery,20000,4
+70,NA,10000,4
+40,mystery,20000,4
+40,fantasy,20000,4
+50,mystery,20000,4
+30,fantasy,20000,4
+10,fantasy,20000,4
+20,romance,10000,4
+50,mystery,20000,4
+30,romance,10000,4
+50,mystery,10000,4
+10,fantasy,20000,5
+10,romance,10000,4
+20,fantasy,20000,4
+0,fantasy,20000,4
+10,romance,30000,4
+70,mystery,20000,4
+30,crime,20000,4
+70,mystery,20000,4
+40,NA,20000,4
+40,sci-fi,20000,4
+60,mystery,20000,4
+20,sci-fi,20000,4
+60,mystery,20000,4
+60,mystery,10000,4
+10,horror,20000,4
+70,NA,10000,4
+60,NA,10000,4
+30,mystery,10000,4
+100,romance,0,4
+30,mystery,20000,4
+40,romance,20000,4
+40,mystery,20000,4
+20,young adult,20000,4
+50,sci-fi,10000,4
+100,thriller,10000,4
+40,NA,20000,4
+30,sci-fi,10000,4
+10,comedy,10000,4
+20,horror,20000,4
+30,mystery,20000,4
+300,NA,20000,4
+60,mystery,20000,4
+50,fantasy,20000,4
+20,romance,20000,4
+40,romance,20000,4
+10,young adult,20000,4
+60,fantasy,10000,4
+60,young adult,20000,4
+70,drama,20000,4
+50,young adult,20000,4
+30,fantasy,20000,4
+50,comedy,10000,4
+30,mystery,20000,4
+10,horror,20000,4
+400,mystery,20000,4
+50,sci-fi,20000,4
+70,fantasy,20000,4
+600,comedy,20000,4
+40,NA,10000,3
+60,thriller,20000,4
+20,romance,20000,4
+90,comedy,20000,4
+300,NA,10000,4
+20,horror,20000,4
+40,fantasy,20000,4
+10,drama,10000,3
+30,sci-fi,20000,4
+70,thriller,10000,4
+80,young adult,20000,4
+20,NA,10000,4
+20,romance,20000,4
+60,NA,10000,4
+10,romance,30000,4
+10,thriller,20000,4
+40,sci-fi,10000,4
+20,romance,30000,4
+30,young adult,20000,4
+50,romance,20000,4
+100,mystery,20000,4
+200,mystery,20000,4
+70,thriller,10000,4
+10,young adult,10000,5
+100,mystery,10000,3
+70,fantasy,20000,3
+20,fantasy,10000,4
+40,fantasy,10000,4
+40,sci-fi,10000,4
+50,NA,10000,4
+10,young adult,20000,4
+20,romance,10000,4
+10,young adult,20000,4
+300,NA,10000,4
+20,young adult,20000,4
+40,fantasy,20000,4
+20,fantasy,10000,5
+60,horror,10000,4
+70,young adult,10000,4
+20,mystery,10000,4
+60,mystery,10000,4
+40,fantasy,20000,4
+60,crime,10000,4
+30,fantasy,20000,4
+10,sci-fi,20000,4
+50,mystery,20000,4
+50,thriller,10000,4
+10,young adult,20000,4
+40,NA,10000,4
+40,NA,20000,4
+50,NA,20000,4
+40,crime,10000,4
+10,fantasy,20000,4
+30,comedy,20000,4
+30,fantasy,10000,4
+50,comedy,10000,4
+40,young adult,20000,4
+20,fantasy,20000,4
+80,sci-fi,10000,4
+30,NA,10000,4
+30,sci-fi,10000,4
+20,fantasy,10000,4
+30,fantasy,30000,4
+20,comedy,10000,4
+40,fantasy,20000,4
+50,NA,10000,4
+70,NA,10000,4
+90,crime,10000,4
+20,fantasy,20000,4
+60,romance,20000,4
+10,fantasy,20000,4
+20,young adult,20000,4
+30,drama,20000,4
+100,romance,10000,4
+20,young adult,30000,4
+70,romance,20000,4
+10,romance,20000,4
+30,romance,20000,4
+20,young adult,20000,4
+30,romance,20000,4
+80,NA,10000,4
+60,NA,10000,4
+20,NA,10000,4
+20,horror,10000,4
+60,thriller,10000,4
+70,mystery,20000,4
+100,mystery,10000,4
+40,young adult,20000,4
+40,horror,20000,4
+60,spy,10000,4
+40,fantasy,20000,4
+40,drama,10000,4
+30,fantasy,20000,4
+50,NA,10000,4
+30,romance,30000,4
+30,NA,10000,4
+40,drama,10000,4
+10,romance,20000,4
+10,romance,20000,4
+100,NA,10000,4
+20,fantasy,20000,4
+30,romance,20000,4
+30,mystery,10000,4
+10,fantasy,20000,4
+10,fantasy,20000,4
+10,romance,10000,4
+50,drama,20000,4
+50,romance,20000,3
+30,young adult,20000,4
+500,romance,20000,4
+10,romance,30000,4
+70,mystery,20000,4
+10,NA,20000,4
+70,thriller,10000,4
+30,fantasy,20000,4
+70,young adult,20000,4
+20,fantasy,10000,4
+30,young adult,20000,4
+20,young adult,10000,4
+50,romance,20000,4
+60,sci-fi,10000,4
+400,NA,10000,4
+40,crime,10000,4
+40,sci-fi,20000,4
+30,horror,20000,4
+70,comedy,10000,4
+50,mystery,20000,4
+70,mystery,10000,4
+70,thriller,10000,4
+50,mystery,20000,4
+300,NA,20000,4
+20,NA,10000,4
+40,romance,20000,4
+80,drama,10000,4
+40,fantasy,20000,4
+30,fantasy,10000,4
+30,young adult,20000,4
+40,thriller,20000,4
+40,fantasy,20000,4
+60,mystery,20000,4
+300,NA,20000,4
+50,thriller,10000,4
+10,romance,20000,4
+40,sci-fi,20000,4
+100,fantasy,20000,4
+40,romance,20000,4
+30,romance,20000,4
+50,mystery,20000,4
+20,fantasy,20000,4
+30,fantasy,20000,4
+40,comedy,20000,4
+40,thriller,10000,4
+30,fantasy,20000,4
+30,comedy,10000,4
+60,mystery,20000,4
+30,fantasy,20000,4
+100,drama,10000,4
+20,drama,10000,4
+50,fantasy,10000,4
+20,thriller,10000,4
+20,mystery,10000,4
+100,mystery,20000,4
+10,romance,10000,4
+20,comedy,20000,5
+10,romance,10000,4
+0,NA,20000,4
+70,mystery,10000,3
+10,romance,30000,4
+20,young adult,20000,4
+10,romance,10000,4
+30,fantasy,20000,4
+50,sci-fi,20000,4
+20,romance,20000,4
+50,fantasy,20000,4
+60,romance,20000,4
+10,comedy,20000,4
+20,fantasy,20000,4
+60,romance,20000,4
+70,mystery,10000,4
+50,thriller,10000,4
+10,romance,20000,4
+50,horror,10000,4
+20,fantasy,10000,4
+20,drama,10000,4
+80,horror,10000,4
+60,romance,20000,4
+30,NA,10000,4
+30,sci-fi,10000,4
+0,young adult,20000,4
+10,young adult,20000,4
+70,drama,10000,4
+20,young adult,10000,4
+50,young adult,20000,4
+100,comedy,10000,4
+50,young adult,10000,4
+30,young adult,10000,3
+20,NA,20000,4
+40,fantasy,20000,4
+30,fantasy,20000,4
+30,NA,10000,4
+70,thriller,10000,4
+10,NA,10000,4
+40,romance,10000,4
+60,young adult,20000,4
+10,young adult,10000,4
+30,NA,20000,4
+20,mystery,10000,4
+40,comedy,10000,4
+20,fantasy,10000,4
+10,romance,20000,4
+30,NA,20000,4
+20,romance,10000,4
+10,fairy-tales,20000,4
+10,romance,30000,4
+40,drama,10000,4
+10,NA,20000,4
+0,romance,20000,4
+30,romance,30000,4
+500,drama,20000,4
+40,sci-fi,10000,4
+20,fantasy,20000,4
+30,fantasy,10000,4
+60,fantasy,20000,4
+70,mystery,20000,4
+20,fantasy,20000,4
+20,romance,30000,4
+30,NA,10000,4
+40,young adult,20000,4
+20,fantasy,20000,4
+0,mystery,20000,4
+10,drama,20000,4
+30,sci-fi,10000,4
+0,mystery,10000,3
+20,young adult,20000,4
+10,young adult,20000,4
+60,romance,20000,4
+20,romance,10000,4
+10,drama,20000,4
+80,thriller,10000,4
+50,sci-fi,10000,4
+50,NA,10000,4
+10,drama,10000,4
+50,mystery,10000,4
+40,fantasy,20000,4
+20,sci-fi,20000,4
+90,thriller,10000,4
+50,NA,10000,4
+30,fantasy,20000,4
+30,romance,10000,4
+30,comedy,10000,4
+30,romance,10000,4
+10,fantasy,20000,4
+50,NA,20000,4
+70,drama,20000,4
+100,NA,20000,4
+100,fantasy,20000,4
+10,NA,10000,4
+70,romance,20000,4
+30,romance,20000,4
+50,romance,10000,4
+20,fantasy,20000,4
+20,young adult,20000,4
+20,NA,20000,4
+10,romance,20000,4
+40,horror,10000,4
+30,young adult,20000,4
+30,NA,10000,4
+10,young adult,20000,4
+20,romance,10000,4
+30,young adult,20000,4
+20,NA,10000,4
+30,fantasy,20000,4
+10,romance,10000,4
+20,romance,10000,3
+40,comedy,10000,4
+30,romance,20000,4
+40,fantasy,20000,4
+10,young adult,20000,4
+20,mystery,20000,3
+20,romance,20000,4
+20,drama,20000,4
+20,mystery,10000,4
+20,drama,20000,4
+40,sci-fi,20000,4
+40,NA,10000,4
+40,mystery,10000,4
+40,NA,10000,4
+30,mystery,20000,4
+20,young adult,30000,4
+30,fantasy,20000,4
+20,comedy,20000,4
+20,fantasy,20000,4
+10,romance,10000,4
+30,romance,20000,4
+50,mystery,20000,4
+40,fantasy,10000,4
+10,fantasy,20000,4
+60,mystery,10000,4
+20,comedy,10000,4
+200,mystery,20000,4
+30,young adult,20000,4
+40,fantasy,10000,4
+100,romance,20000,4
+70,romance,20000,4
+40,horror,10000,4
+20,horror,20000,4
+70,sci-fi,10000,3
+60,mystery,10000,4
+10,fantasy,10000,4
+30,romance,20000,4
+20,fantasy,20000,4
+20,young adult,20000,4
+100,mystery,10000,4
+30,sci-fi,10000,4
+10,NA,10000,4
+40,mystery,20000,4
+40,mystery,10000,4
+30,young adult,20000,4
+40,mystery,10000,4
+600,NA,10000,4
+10,romance,20000,4
+10,fantasy,20000,4
+20,fantasy,20000,4
+40,romance,20000,4
+40,mystery,20000,4
+10,young adult,20000,4
+70,horror,20000,4
+60,mystery,10000,4
+30,mystery,20000,4
+30,drama,20000,4
+40,fantasy,20000,4
+40,fantasy,20000,4
+10,fantasy,20000,4
+50,horror,20000,4
+40,romance,20000,4
+40,fantasy,10000,4
+40,romance,20000,4
+10,NA,10000,4
+30,romance,20000,4
+40,NA,10000,4
+50,romance,20000,3
+20,young adult,20000,4
+40,NA,10000,4
+30,mystery,20000,4
+20,young adult,20000,4
+20,fantasy,20000,4
+50,romance,20000,3
+400,romance,10000,4
+20,fantasy,20000,4
+30,horror,10000,4
+10,young adult,20000,4
+10,horror,10000,4
+40,sci-fi,20000,4
+30,comedy,10000,4
+30,romance,10000,4
+40,mystery,20000,4
+10,mystery,20000,4
+20,young adult,20000,4
+40,NA,10000,4
+20,young adult,10000,4
+60,romance,20000,3
+40,NA,10000,4
+20,fantasy,20000,4
+30,mystery,20000,4
+30,NA,10000,4
+40,fantasy,20000,4
+30,NA,10000,4
+30,NA,10000,4
+30,mystery,10000,4
+60,NA,10000,4
+20,fantasy,10000,4
+30,romance,10000,4
+40,fantasy,20000,3
+40,mystery,20000,4
+40,fantasy,10000,4
+30,young adult,20000,4
+40,NA,20000,4
+20,mystery,10000,3
+50,mystery,20000,4
+10,NA,10000,4
+40,mystery,10000,4
+50,NA,10000,4
+70,thriller,20000,4
+20,comedy,20000,5
+40,NA,10000,4
+10,horror,10000,4
+70,fantasy,10000,4
+50,mystery,10000,4
+70,fantasy,20000,4
+20,fantasy,20000,4
+20,fantasy,20000,4
+20,fantasy,20000,4
+60,NA,10000,4
+50,NA,10000,4
+50,fantasy,20000,4
+50,fantasy,20000,4
+60,NA,10000,4
+30,NA,10000,4
+10,horror,20000,4
+300,romance,10000,4
+30,NA,10000,4
+50,mystery,20000,4
+10,fantasy,10000,4
+20,NA,10000,4
+30,NA,10000,4
+30,fantasy,10000,4
+100,NA,10000,4
+30,young adult,20000,4
+50,NA,10000,4
+10,NA,20000,4
+30,mystery,20000,4
+50,NA,10000,4
+20,mystery,10000,4
+10,fantasy,10000,4
+30,young adult,20000,3
+20,young adult,20000,4
+70,romance,10000,4
+10,NA,10000,4
+30,mystery,20000,4
+30,fantasy,20000,4
+40,drama,20000,4
+20,fantasy,10000,4
+30,romance,10000,4
+30,fantasy,20000,4
+300,NA,10000,4
+40,NA,10000,4
+10,young adult,20000,4
+60,NA,10000,3
+10,comedy,10000,4
+40,mystery,10000,4
+20,NA,10000,4
+30,fantasy,20000,4
+10,romance,30000,4
+10,horror,20000,5
+20,young adult,20000,4
+20,young adult,10000,4
+10,fantasy,20000,4
+30,mystery,10000,4
+10,fantasy,20000,4
+10,NA,10000,4
+30,young adult,20000,4
+50,sci-fi,20000,4
+10,fantasy,10000,4
+50,fantasy,20000,4
+60,fantasy,20000,4
+30,young adult,10000,4
+20,mystery,20000,4
+10,disney,10000,4
+10,romance,20000,4
+60,young adult,20000,4
+10,drama,20000,4
+60,mystery,10000,4
+20,fantasy,10000,4
+30,fantasy,20000,4
+10,NA,10000,4
+20,fantasy,10000,4
+40,horror,20000,4
+30,fantasy,20000,4
+40,romance,20000,4
+90,thriller,10000,4
+30,horror,10000,4
+20,crime,10000,4
+20,young adult,20000,4
+30,thriller,10000,4
+40,fantasy,10000,4
+20,young adult,20000,4
+70,mystery,20000,3
+40,romance,10000,4
+30,crime,10000,4
+0,fantasy,10000,4
+50,young adult,20000,4
+20,young adult,20000,4
+60,fantasy,10000,4
+20,romance,20000,4
+30,fantasy,20000,4
+30,thriller,10000,4
+60,mystery,20000,4
+40,NA,10000,4
+100,fantasy,10000,4
+40,thriller,20000,4
+40,fantasy,10000,4
+500,drama,20000,4
+30,crime,10000,4
+40,mystery,10000,4
+70,mystery,10000,4
+10,fantasy,20000,4
+20,mystery,10000,4
+10,mystery,10000,4
+30,romance,30000,4
+50,fantasy,20000,4
+30,fantasy,20000,4
+10,romance,10000,4
+10,NA,10000,4
+20,young adult,10000,4
+20,mystery,10000,4
+20,romance,10000,4
+10,NA,20000,4
+30,sci-fi,10000,4
+10,young adult,20000,4
+10,romance,20000,4
+30,NA,10000,4
+50,thriller,10000,4
+20,thriller,10000,4
+80,mystery,20000,4
+50,young adult,20000,4
+10,young adult,10000,4
+20,romance,10000,4
+20,fantasy,30000,4
+10,horror,20000,4
+30,young adult,20000,4
+20,young adult,20000,4
+50,romance,10000,3
+30,fantasy,20000,4
+30,fantasy,30000,4
+50,romance,20000,3
+100,drama,10000,4
+50,mystery,20000,4
+20,young adult,20000,4
+30,romance,10000,4
+90,young adult,10000,4
+40,young adult,20000,4
+40,fantasy,20000,4
+20,young adult,20000,4
+40,NA,10000,4
+40,romance,10000,3
+0,fantasy,10000,4
+20,romance,30000,4
+60,mystery,10000,4
+60,romance,30000,4
+70,mystery,20000,4
+40,fantasy,20000,4
+30,fantasy,10000,4
+30,drama,20000,4
+20,comedy,10000,4
+20,young adult,20000,4
+20,comedy,10000,4
+30,mystery,20000,4
+10,comedy,10000,4
+60,NA,10000,4
+50,thriller,10000,4
+10,fantasy,10000,4
+40,young adult,10000,4
+40,young adult,10000,4
+30,fantasy,20000,4
+30,romance,10000,4
+50,horror,10000,4
+10,young adult,20000,4
+100,mystery,10000,4
+70,romance,20000,4
+50,mystery,20000,4
+50,mystery,20000,4
+20,crime,10000,4
+20,fantasy,20000,4
+50,romance,20000,4
+30,mystery,20000,4
+60,horror,10000,3
+20,mystery,10000,4
+30,young adult,10000,4
+10,fantasy,20000,4
+800,drama,0,4
+20,young adult,20000,4
+20,romance,10000,4
+10,young adult,20000,4
+30,fantasy,10000,4
+50,mystery,10000,4
+20,NA,20000,4
+40,horror,10000,3
+30,fantasy,20000,4
+40,sci-fi,10000,4
+30,NA,10000,4
+20,young adult,20000,4
+20,NA,10000,4
+30,young adult,20000,4
+10,thriller,10000,3
+100,romance,10000,4
+100,horror,20000,4
+10,romance,20000,4
+30,thriller,10000,4
+40,young adult,10000,4
+30,fantasy,20000,4
+20,NA,10000,4
+30,young adult,10000,4
+30,romance,20000,4
+50,thriller,10000,4
+20,fantasy,10000,4
+40,sci-fi,10000,4
+20,young adult,10000,4
+40,horror,20000,4
+30,young adult,20000,4
+100,mystery,10000,4
+10,romance,20000,4
+10,NA,10000,4
+30,young adult,10000,4
+30,romance,20000,4
+50,horror,20000,4
+60,fantasy,10000,4
+60,crime,10000,4
+10,romance,10000,4
+20,fantasy,20000,4
+30,fantasy,30000,4
+30,young adult,20000,4
+20,sci-fi,10000,4
+40,young adult,20000,4
+30,fantasy,20000,4
+10,fantasy,20000,4
+80,fantasy,10000,4
+0,romance,10000,4
+70,NA,10000,4
+20,thriller,10000,4
+30,fantasy,10000,4
+20,NA,10000,4
+40,NA,10000,4
+50,crime,20000,4
+20,fantasy,10000,4
+40,fantasy,20000,4
+20,comedy,20000,4
+20,fantasy,10000,4
+50,thriller,10000,4
+30,NA,10000,4
+60,thriller,20000,4
+10,young adult,20000,4
+60,mystery,20000,4
+40,romance,20000,4
+30,drama,10000,4
+80,fantasy,10000,4
+10,young adult,10000,4
+70,romance,10000,4
+0,fantasy,10000,4
+300,romance,10000,4
+30,romance,10000,4
+50,drama,10000,4
+20,fantasy,10000,4
+20,horror,10000,4
+10,fantasy,20000,4
+10,young adult,20000,4
+20,romance,20000,4
+20,fantasy,20000,4
+40,thriller,10000,4
+30,mystery,20000,4
+40,mystery,10000,4
+90,young adult,10000,4
+50,sci-fi,10000,4
+50,mystery,20000,4
+20,young adult,10000,4
+50,fantasy,20000,4
+20,young adult,20000,4
+10,young adult,20000,4
+40,NA,10000,4
+20,romance,20000,4
+70,mystery,10000,4
+30,comedy,10000,4
+20,NA,40000,4
+40,thriller,10000,4
+50,drama,20000,4
+30,mystery,10000,4
+90,crime,10000,4
+30,fantasy,20000,4
+30,romance,20000,4
+0,NA,10000,4
+80,comedy,10000,4
+50,NA,10000,4
+50,mystery,10000,4
+30,comedy,10000,4
+200,NA,10000,4
+10,young adult,20000,4
+40,romance,10000,4
+40,NA,10000,4
+60,romance,10000,4
+50,NA,10000,4
+50,thriller,20000,4
+20,mystery,10000,4
+20,fantasy,20000,4
+20,sci-fi,10000,4
+30,thriller,10000,4
+20,NA,10000,4
+30,NA,10000,4
+30,NA,10000,4
+10,romance,10000,4
+200,fantasy,20000,4
+20,fantasy,10000,4
+20,romance,20000,4
+20,young adult,20000,4
+10,young adult,10000,5
+60,thriller,10000,4
+20,romance,20000,4
+10,young adult,20000,4
+60,mystery,20000,4
+50,thriller,10000,4
+50,mystery,20000,4
+10,young adult,20000,4
+30,mystery,10000,4
+90,young adult,10000,4
+70,suspense,10000,4
+60,young adult,20000,4
+100,mystery,10000,4
+40,comedy,10000,3
+20,young adult,20000,4
+20,comedy,10000,4
+20,comedy,10000,5
+30,comedy,10000,4
+30,NA,10000,4
+60,mystery,20000,4
+40,fantasy,20000,4
+10,young adult,20000,4
+20,fantasy,10000,4
+60,romance,20000,4
+100,NA,10000,4
+20,sci-fi,10000,4
+20,romance,30000,4
+40,mystery,10000,4
+40,mystery,10000,4
+50,romance,10000,4
+50,fantasy,20000,4
+30,mystery,10000,4
+40,NA,10000,4
+20,crime,10000,4
+10,mystery,20000,4
+40,romance,20000,4
+70,romance,20000,4
+60,romance,10000,4
+50,drama,10000,4
+20,NA,10000,4
+30,mystery,20000,3
+40,young adult,20000,4
+20,romance,10000,4
+10,NA,10000,4
+30,romance,20000,4
+10,romance,10000,4
+0,fantasy,10000,4
+50,NA,10000,4
+30,thriller,10000,4
+10,fantasy,20000,4
+20,romance,10000,4
+30,romance,10000,4
+50,fantasy,20000,4
+10,romance,30000,4
+30,suspense,10000,4
+50,thriller,10000,4
+10,NA,10000,5
+30,young adult,20000,4
+10,mystery,10000,4
+60,NA,10000,4
+30,fantasy,30000,4
+40,horror,10000,4
+10,young adult,10000,4
+40,romance,20000,4
+10,NA,20000,4
+30,young adult,20000,4
+20,fantasy,20000,4
+30,romance,30000,4
+50,thriller,10000,4
+30,fantasy,10000,4
+200,NA,10000,4
+30,romance,20000,4
+20,young adult,10000,4
+20,fantasy,20000,4
+30,fantasy,20000,4
+20,romance,20000,4
+40,NA,10000,4
+40,fantasy,20000,4
+10,young adult,10000,4
+70,mystery,10000,4
+10,NA,10000,4
+20,romance,10000,4
+20,romance,10000,4
+10,comedy,10000,4
+80,mystery,10000,4
+10,romance,10000,4
+70,romance,20000,4
+10,NA,10000,4
+40,NA,10000,4
+40,sci-fi,10000,4
+70,NA,10000,4
+0,NA,10000,4
+30,NA,10000,4
+70,drama,10000,4
+30,sci-fi,10000,4
+20,sci-fi,10000,4
+10,romance,30000,4
+50,mystery,10000,4
+30,sci-fi,10000,4
+20,NA,10000,4
+30,horror,20000,4
+20,fantasy,20000,4
+20,sci-fi,20000,4
+10,young adult,20000,4
+10,fantasy,10000,4
+10,fantasy,10000,4
+10,NA,20000,4
+40,mystery,10000,4
+40,fantasy,10000,4
+20,NA,20000,4
+10,fantasy,20000,4
+40,horror,10000,4
+90,romance,10000,4
+30,young adult,20000,4
+30,NA,10000,4
+50,romance,10000,4
+60,sci-fi,10000,3
+10,fantasy,10000,4
+30,NA,10000,4
+30,fantasy,20000,4
+20,fantasy,10000,4
+20,comedy,10000,4
+200,romance,10000,4
+30,mystery,10000,4
+40,thriller,10000,4
+30,sci-fi,10000,4
+10,young adult,20000,4
+200,horror,20000,4
+20,sci-fi,10000,4
+90,fantasy,20000,4
+10,mystery,10000,4
+60,mystery,20000,4
+50,mystery,20000,4
+40,NA,10000,3
+50,romance,10000,4
+50,young adult,10000,4
+30,thriller,10000,4
+60,horror,10000,4
+70,mystery,10000,4
+30,NA,20000,4
+50,fantasy,20000,4
+20,romance,20000,4
+40,romance,10000,4
+60,mystery,10000,4
+40,young adult,10000,4
+30,drama,10000,4
+20,fantasy,10000,4
+30,young adult,20000,4
+20,romance,10000,4
+20,NA,10000,4
+0,NA,10000,4
+20,romance,20000,4
+30,young adult,20000,4
+40,romance,10000,4
+40,romance,20000,4
+50,mystery,20000,4
+40,drama,10000,3
+10,mystery,10000,4
+400,romance,10000,4
+60,fantasy,10000,4
+10,thriller,10000,4
+20,fantasy,20000,4
+20,romance,20000,4
+400,drama,10000,4
+10,fantasy,10000,4
+20,horror,10000,4
+10,romance,10000,4
+10,drama,10000,4
+50,Contemporary,10000,4
+50,horror,20000,4
+50,fantasy,20000,4
+60,fantasy,10000,4
+10,fantasy,20000,4
+10,romance,20000,4
+20,NA,10000,4
+50,young adult,10000,4
+50,mystery,20000,4
+200,romance,10000,4
+20,young adult,20000,4
+50,horror,10000,4
+30,drama,10000,3
+30,thriller,10000,4
+30,fantasy,10000,4
+30,mystery,10000,4
+20,fantasy,20000,4
+40,mystery,10000,4
+20,fantasy,20000,4
+40,romance,10000,4
+70,young adult,10000,4
+30,young adult,20000,4
+20,fantasy,10000,4
+90,young adult,20000,4
+30,romance,10000,4
+10,mystery,10000,4
+90,mystery,10000,4
+10,romance,10000,4
+30,NA,10000,4
+20,fantasy,20000,4
+50,sci-fi,20000,4
+0,romance,10000,4
+10,romance,10000,4
+30,fantasy,20000,4
+40,NA,10000,4
+30,fantasy,10000,4
+40,sci-fi,20000,4
+30,sci-fi,10000,4
+30,horror,10000,4
+50,thriller,10000,4
+50,thriller,10000,4
+20,fantasy,20000,4
+10,romance,20000,4
+50,mystery,10000,4
+20,fantasy,20000,4
+40,sci-fi,10000,4
+40,drama,10000,4
+30,comedy,10000,4
+30,young adult,10000,4
+40,mystery,20000,4
+20,NA,10000,4
+10,young adult,20000,4
+80,NA,10000,4
+10,romance,30000,4
+60,romance,10000,4
+30,romance,10000,4
+50,thriller,10000,4
+30,NA,10000,4
+0,mystery,10000,3
+30,NA,10000,4
+40,horror,10000,4
+50,young adult,10000,4
+20,sci-fi,10000,4
+50,NA,10000,4
+90,crime,10000,4
+30,fantasy,20000,4
+30,sci-fi,10000,4
+50,mystery,20000,4
+60,NA,10000,4
+20,fantasy,20000,4
+30,fantasy,10000,4
+30,mystery,10000,4
+50,romance,20000,4
+30,fantasy,20000,4
+50,mystery,10000,4
+50,romance,20000,4
+10,young adult,20000,4
+50,thriller,10000,4
+50,thriller,10000,4
+40,romance,20000,4
+30,fantasy,20000,4
+20,romance,10000,4
+20,romance,10000,3
+60,romance,20000,4
+50,romance,20000,4
+90,comedy,10000,4
+20,fantasy,20000,4
+20,young adult,10000,4
+200,drama,10000,4
+20,young adult,10000,4
+60,mystery,10000,4
+300,horror,10000,4
+20,mystery,10000,4
+30,drama,10000,4
+80,mystery,10000,4
+60,mystery,10000,4
+10,young adult,20000,4
+30,NA,10000,4
+20,young adult,20000,4
+40,mystery,10000,4
+20,romance,20000,4
+10,comedy,10000,4
+40,comedy,10000,4
+10,mystery,10000,4
+10,young adult,10000,4
+0,young adult,10000,4
+20,mystery,20000,4
+20,romance,10000,4
+20,romance,20000,4
+20,fantasy,20000,4
+20,romance,20000,4
+30,fantasy,10000,4
+80,NA,10000,4
+20,NA,20000,4
+20,NA,10000,4
+20,young adult,10000,4
+20,romance,30000,4
+10,romance,30000,5
+100,fairy-tales,20000,4
+30,NA,10000,4
+40,romance,10000,4
+20,comedy,10000,4
+200,mystery,20000,4
+40,drama,10000,4
+60,drama,10000,4
+90,mystery,10000,4
+500,young adult,10000,4
+30,mystery,10000,4
+40,horror,10000,3
+40,mystery,10000,4
+60,NA,20000,4
+40,fantasy,20000,4
+40,young adult,20000,4
+10,thriller,10000,4
+10,young adult,10000,4
+60,thriller,10000,4
+20,young adult,20000,4
+40,horror,10000,4
+10,romance,20000,4
+30,fantasy,10000,4
+30,fantasy,10000,4
+50,NA,10000,4
+30,drama,10000,4
+20,young adult,20000,4
+20,fantasy,20000,4
+40,NA,10000,4
+80,sci-fi,10000,4
+60,NA,10000,4
+20,drama,10000,4
+20,romance,20000,4
+30,young adult,20000,4
+20,sci-fi,10000,4
+30,fantasy,10000,4
+20,NA,10000,4
+50,mystery,20000,4
+20,romance,20000,4
+100,romance,10000,4
+40,mystery,10000,4
+20,fantasy,10000,4
+40,NA,10000,4
+30,young adult,20000,4
+80,mystery,10000,4
+20,fantasy,10000,4
+10,NA,10000,4
+20,fantasy,20000,4
+80,romance,10000,4
+20,romance,20000,4
+30,fantasy,10000,4
+20,comedy,10000,5
+20,romance,20000,4
+40,thriller,10000,4
+20,comedy,10000,4
+40,fantasy,10000,4
+50,young adult,10000,4
+30,horror,20000,4
+30,NA,10000,3
+10,drama,10000,4
+30,sci-fi,10000,4
+30,NA,10000,4
+30,horror,10000,4
+70,comedy,10000,4
+40,mystery,20000,4
+60,mystery,10000,4
+30,fantasy,10000,4
+60,fantasy,10000,4
+50,fantasy,20000,4
+40,NA,10000,4
+30,fantasy,10000,4
+30,NA,10000,4
+30,comedy,20000,4
+200,NA,10000,4
+50,fantasy,10000,4
+50,NA,10000,4
+300,mystery,20000,4
+50,fantasy,20000,4
+20,young adult,20000,4
+20,young adult,20000,4
+40,mystery,10000,4
+30,mystery,20000,4
+20,mystery,20000,4
+20,fantasy,20000,4
+60,mystery,20000,4
+30,NA,10000,4
+60,comedy,10000,3
+80,crime,10000,4
+10,NA,10000,3
+40,young adult,20000,3
+70,mystery,20000,4
+20,young adult,10000,4
+80,fantasy,10000,4
+10,fantasy,10000,4
+40,fantasy,10000,4
+50,romance,20000,4
+50,drama,10000,4
+10,romance,20000,4
+10,young adult,20000,4
+20,young adult,20000,4
+50,horror,20000,4
+20,fantasy,10000,4
+40,young adult,20000,4
+60,drama,10000,4
+20,mystery,10000,4
+20,romance,10000,4
+20,romance,10000,4
+10,fantasy,10000,4
+10,fantasy,10000,4
+60,thriller,10000,4
+40,young adult,10000,4
+20,mystery,20000,4
+20,fantasy,20000,4
+40,fantasy,10000,4
+10,romance,30000,4
+30,romance,20000,4
+30,fantasy,20000,4
+10,fantasy,10000,4
+20,fantasy,20000,4
+30,romance,10000,4
+80,NA,10000,4
+40,mystery,20000,4
+30,young adult,10000,4
+10,fairy-tales,20000,4
+10,comedy,10000,4
+30,NA,10000,4
+40,drama,20000,4
+40,young adult,10000,4
+30,fairy-tales,20000,4
+40,fantasy,20000,4
+20,NA,10000,4
+30,sci-fi,10000,4
+10,NA,10000,4
+20,fantasy,20000,4
+40,NA,10000,4
+10,fantasy,20000,4
+20,young adult,10000,4
+40,young adult,20000,4
+40,romance,20000,4
+20,fantasy,10000,4
+60,mystery,10000,4
+60,fantasy,20000,4
+60,young adult,20000,4
+60,thriller,10000,4
+60,drama,20000,4
+50,horror,10000,4
+20,young adult,20000,4
+20,NA,10000,4
+70,mystery,20000,4
+30,drama,20000,4
+20,NA,10000,4
+10,romance,10000,4
+10,young adult,20000,4
+20,young adult,20000,4
+10,NA,10000,5
+30,sci-fi,10000,4
+80,drama,10000,4
+20,romance,30000,4
+20,fantasy,20000,5
+40,romance,20000,4
+30,mystery,10000,4
+10,comedy,10000,3
+20,fantasy,60000,5
+40,fantasy,10000,4
+60,NA,10000,4
+20,thriller,10000,4
+10,sci-fi,10000,4
+30,fantasy,10000,4
+40,comedy,10000,4
+50,mystery,10000,4
+20,romance,20000,4
+30,young adult,10000,4
+30,fantasy,20000,4
+70,young adult,10000,4
+0,NA,10000,4
+10,drama,10000,4
+30,young adult,20000,4
+20,romance,10000,4
+30,romance,10000,4
+20,crime,10000,4
+10,fantasy,20000,4
+100,NA,10000,4
+10,fantasy,20000,4
+20,sci-fi,10000,4
+20,comedy,10000,4
+100,NA,10000,4
+40,romance,10000,4
+300,NA,10000,4
+30,romance,10000,4
+20,young adult,20000,3
+20,NA,10000,4
+20,NA,10000,4
+30,fantasy,10000,4
+30,romance,10000,4
+10,fantasy,10000,4
+10,fantasy,10000,4
+10,fairy-tales,10000,4
+60,fantasy,10000,4
+40,young adult,10000,4
+30,sci-fi,10000,4
+20,comedy,10000,4
+20,romance,20000,4
+50,mystery,10000,4
+30,romance,30000,4
+300,comedy,10000,4
+50,fantasy,10000,4
+30,NA,10000,4
+20,NA,10000,4
+20,fantasy,10000,4
+10,young adult,20000,4
+20,fantasy,10000,4
+30,fantasy,20000,4
+40,crime,10000,4
+30,crime,10000,4
+40,mystery,10000,4
+100,NA,10000,4
+60,NA,10000,4
+200,young adult,20000,4
+30,young adult,10000,4
+10,drama,10000,4
+10,romance,20000,4
+10,romance,20000,4
+10,young adult,20000,4
+20,horror,10000,4
+50,mystery,10000,4
+70,romance,10000,4
+30,drama,10000,3
+50,romance,20000,4
+20,fantasy,10000,4
+200,NA,10000,4
+10,romance,20000,4
+20,sci-fi,10000,4
+30,romance,20000,4
+10,fantasy,30000,4
+40,mystery,10000,4
+10,NA,10000,3
+20,young adult,20000,4
+30,young adult,20000,4
+30,young adult,10000,4
+60,romance,10000,3
+20,thriller,10000,4
+10,fantasy,10000,4
+20,romance,10000,4
+400,romance,10000,4
+20,young adult,10000,4
+10,romance,20000,4
+50,mystery,10000,4
+80,thriller,10000,4
+30,fantasy,10000,4
+50,horror,10000,4
+50,thriller,10000,4
+60,mystery,20000,4
+30,young adult,20000,4
+0,horror,10000,4
+0,fantasy,10000,4
+20,mystery,10000,4
+10,suspense,10000,3
+60,romance,10000,4
+50,mystery,10000,4
+20,young adult,10000,4
+80,sci-fi,10000,4
+60,mystery,10000,4
+20,NA,10000,4
+30,fantasy,20000,4
+40,crime,10000,4
+60,fantasy,20000,4
+30,mystery,10000,4
+20,romance,10000,4
+0,romance,10000,4
+200,romance,10000,4
+50,NA,10000,3
+20,thriller,10000,4
+20,romance,10000,4
+20,drama,10000,4
+40,fantasy,10000,4
+40,mystery,10000,4
+60,romance,10000,4
+40,fantasy,20000,4
+10,thriller,10000,4
+70,NA,10000,4
+100,NA,10000,4
+40,romance,10000,4
+20,NA,10000,4
+90,drama,10000,4
+60,NA,10000,4
+70,NA,10000,4
+10,fantasy,20000,4
+200,young adult,10000,4
+20,young adult,20000,4
+10,young adult,20000,4
+10,fantasy,10000,4
+40,crime,10000,4
+30,mystery,10000,4
+50,thriller,10000,4
+20,romance,20000,4
+20,sci-fi,10000,4
+60,mystery,20000,4
+60,fantasy,20000,4
+10,young adult,20000,4
+30,crime,10000,4
+10,romance,10000,4
+40,NA,10000,4
+10,NA,10000,4
+20,fantasy,20000,4
+30,mystery,10000,3
+30,fantasy,10000,4
+10,comedy,10000,4
+20,fantasy,10000,4
+100,fantasy,10000,4
+60,mystery,20000,4
+20,young adult,10000,4
+60,crime,10000,4
+20,romance,10000,4
+40,mystery,10000,4
+20,young adult,10000,4
+10,romance,10000,4
+20,romance,20000,4
+30,romance,20000,4
+20,thriller,10000,4
+20,fantasy,20000,4
+30,romance,20000,4
+10,NA,10000,4
+0,comedy,10000,4
+50,fantasy,10000,4
+10,NA,10000,4
+10,romance,10000,4
+30,romance,10000,4
+30,NA,10000,4
+100,thriller,10000,4
+10,romance,10000,3
+50,young adult,20000,4
+20,NA,10000,4
+20,NA,10000,4
+60,mystery,20000,4
+20,comedy,40000,4
+30,fantasy,10000,4
+20,NA,10000,4
+20,young adult,10000,4
+10,young adult,20000,4
+20,young adult,20000,4
+30,romance,10000,4
+10,NA,10000,4
+50,young adult,20000,4
+60,NA,10000,4
+50,fantasy,30000,4
+40,drama,10000,4
+20,drama,10000,4
+50,romance,10000,4
+10,NA,10000,4
+10,young adult,10000,4
+30,romance,10000,4
+10,drama,10000,4
+40,fantasy,20000,4
+30,NA,10000,4
+90,mystery,10000,4
+50,mystery,10000,4
+40,comedy,10000,4
+40,fantasy,10000,4
+50,mystery,20000,4
+20,fantasy,20000,4
+30,NA,10000,4
+30,fantasy,10000,4
+80,NA,10000,4
+10,fantasy,10000,4
+30,NA,10000,4
+10,romance,10000,4
+20,fantasy,20000,4
+10,fantasy,10000,4
+20,fantasy,10000,4
+40,drama,10000,4
+50,NA,10000,4
+20,young adult,10000,4
+50,sci-fi,20000,4
+10,NA,10000,4
+30,horror,10000,4
+40,NA,10000,4
+40,NA,10000,5
+40,NA,10000,4
+20,young adult,20000,4
+30,fantasy,20000,4
+20,comedy,10000,4
+10,fantasy,20000,4
+30,drama,10000,4
+20,fantasy,20000,4
+40,thriller,10000,4
+90,fantasy,10000,4
+40,sci-fi,10000,4
+30,sci-fi,10000,4
+20,mystery,10000,4
+200,NA,10000,4
+200,mystery,10000,4
+20,mystery,10000,4
+40,mystery,10000,4
+20,romance,10000,4
+30,fantasy,20000,4
+20,NA,10000,4
+20,fantasy,10000,4
+30,sci-fi,10000,4
+20,NA,10000,4
+400,sci-fi,10000,4
+20,young adult,20000,4
+20,fantasy,20000,4
+200,mystery,20000,4
+10,drama,10000,4
+10,fantasy,20000,4
+10,NA,10000,4
+30,NA,10000,4
+50,romance,20000,4
+40,thriller,10000,4
+20,young adult,20000,4
+40,fantasy,10000,4
+30,NA,10000,4
+40,crime,10000,4
+60,drama,10000,4
+70,romance,20000,4
+40,fantasy,20000,4
+50,mystery,20000,4
+20,young adult,10000,4
+200,mystery,20000,4
+10,romance,10000,3
+50,romance,20000,4
+30,sci-fi,10000,4
+90,drama,0,4
+30,fantasy,10000,4
+20,young adult,10000,4
+30,fantasy,20000,4
+40,mystery,10000,4
+40,drama,20000,4
+30,mystery,10000,4
+0,fantasy,10000,4
+0,drama,20000,4
+60,crime,10000,4
+200,mystery,10000,4
+90,romance,10000,4
+30,romance,10000,4
+20,fantasy,20000,4
+30,romance,10000,4
+10,young adult,20000,4
+10,young adult,20000,4
+10,mystery,10000,4
+20,fantasy,20000,4
+200,romance,10000,4
+20,fantasy,10000,4
+20,young adult,10000,4
+30,mystery,10000,3
+20,romance,10000,4
+10,mystery,10000,4
+20,horror,10000,4
+50,romance,10000,4
+20,romance,20000,4
+40,mystery,10000,4
+30,romance,10000,4
+10,romance,20000,4
+10,romance,10000,4
+200,mystery,20000,4
+50,NA,10000,4
+60,romance,10000,4
+10,young adult,10000,4
+30,NA,10000,4
+10,young adult,10000,4
+20,comedy,10000,4
+20,disney,10000,4
+10,NA,10000,4
+20,fantasy,20000,4
+40,romance,10000,4
+40,NA,10000,4
+20,romance,10000,4
+60,romance,10000,4
+60,fantasy,20000,4
+10,young adult,20000,4
+20,romance,10000,4
+20,drama,10000,4
+30,romance,20000,4
+100,romance,10000,4
+20,romance,20000,4
+30,mystery,10000,4
+60,romance,20000,4
+10,romance,20000,4
+20,romance,20000,4
+20,mystery,10000,4
+10,comedy,10000,4
+30,drama,10000,4
+20,sci-fi,10000,4
+10,romance,10000,4
+30,sci-fi,10000,4
+30,young adult,20000,4
+80,romance,10000,4
+20,fantasy,20000,4
+30,romance,20000,4
+40,mystery,10000,4
+20,NA,10000,4
+40,mystery,10000,4
+30,thriller,10000,4
+500,NA,10000,4
+50,thriller,10000,4
+20,young adult,20000,4
+10,romance,10000,4
+30,NA,10000,4
+40,fantasy,10000,4
+20,romance,20000,4
+20,fantasy,20000,4
+20,mystery,10000,4
+40,mystery,10000,4
+60,mystery,10000,4
+80,NA,10000,4
+40,mystery,10000,3
+50,romance,20000,4
+300,fantasy,10000,4
+30,NA,10000,4
+20,drama,10000,4
+50,romance,10000,4
+30,thriller,10000,4
+50,mystery,10000,4
+20,romance,20000,4
+50,romance,10000,4
+20,NA,10000,4
+30,fantasy,10000,4
+200,mystery,20000,4
+30,comedy,10000,4
+20,romance,10000,4
+100,mystery,10000,4
+10,fantasy,20000,4
+20,NA,10000,4
+100,NA,10000,4
+100,NA,10000,4
+20,young adult,10000,4
+50,mystery,10000,4
+70,young adult,20000,4
+0,romance,20000,4
+60,romance,10000,4
+60,NA,10000,4
+20,romance,10000,4
+10,romance,20000,4
+30,horror,10000,4
+30,sci-fi,10000,4
+20,fantasy,10000,4
+20,young adult,10000,4
+60,NA,10000,4
+10,NA,10000,4
+30,NA,10000,4
+20,romance,20000,4
+30,fantasy,10000,4
+30,romance,10000,4
+30,romance,10000,4
+40,fantasy,20000,4
+40,NA,10000,4
+300,NA,10000,4
+30,fantasy,20000,4
+20,horror,10000,4
+10,romance,20000,4
+200,NA,10000,4
+40,young adult,10000,4
+10,fantasy,20000,4
+30,mystery,10000,4
+30,fantasy,10000,4
+30,romance,10000,4
+0,horror,10000,4
+20,mystery,10000,4
+30,fantasy,20000,4
+40,fantasy,10000,4
+80,drama,10000,4
+0,fantasy,10000,4
+30,romance,10000,3
+60,young adult,20000,4
+50,thriller,10000,4
+10,fantasy,20000,4
+40,thriller,10000,3
+20,romance,10000,4
+10,young adult,20000,4
+70,NA,0,4
+40,fantasy,10000,4
+50,young adult,10000,4
+70,young adult,10000,4
+30,fantasy,20000,4
+100,mystery,20000,4
+50,thriller,10000,4
+80,NA,10000,4
+20,fantasy,10000,4
+100,romance,10000,4
+20,horror,10000,4
+30,sci-fi,10000,4
+10,romance,20000,4
+10,fantasy,10000,4
+60,fantasy,10000,4
+30,fantasy,20000,4
+30,romance,10000,4
+20,fantasy,20000,4
+40,mystery,10000,4
+70,thriller,10000,4
+10,NA,10000,4
+40,fantasy,10000,4
+50,thriller,10000,4
+100,drama,10000,4
+20,young adult,10000,4
+40,drama,10000,4
+20,fantasy,10000,4
+50,thriller,10000,4
+10,NA,10000,4
+20,fantasy,10000,4
+10,romance,20000,4
+10,fantasy,10000,4
+200,drama,10000,4
+20,NA,10000,4
+50,young adult,10000,4
+80,thriller,10000,4
+100,sci-fi,10000,4
+50,fantasy,10000,3
+20,NA,10000,4
+20,NA,10000,4
+30,fantasy,20000,4
+10,romance,20000,4
+50,drama,10000,4
+40,young adult,10000,4
+30,fantasy,10000,4
+20,thriller,10000,4
+30,NA,10000,4
+20,fantasy,10000,4
+20,romance,10000,4
+90,mystery,10000,4
+20,NA,10000,4
+20,fantasy,20000,4
+300,romance,10000,4
+10,NA,10000,4
+10,NA,10000,4
+30,NA,10000,4
+20,romance,10000,4
+30,sci-fi,10000,4
+10,horror,10000,5
+40,NA,10000,4
+20,romance,10000,4
+10,romance,20000,4
+70,thriller,10000,3
+40,crime,10000,4
+30,NA,10000,4
+80,romance,10000,4
+10,romance,10000,4
+40,NA,10000,4
+10,romance,20000,4
+20,NA,10000,4
+40,young adult,10000,4
+50,young adult,20000,4
+20,young adult,10000,4
+40,NA,10000,4
+0,fantasy,10000,5
+20,horror,10000,4
+10,mystery,10000,4
+20,fantasy,20000,4
+30,horror,10000,4
+30,fantasy,20000,4
+50,thriller,10000,4
+40,romance,20000,4
+20,fantasy,10000,4
+30,sci-fi,10000,4
+20,fantasy,20000,4
+10,NA,10000,4
+20,fantasy,20000,4
+40,mystery,10000,4
+10,fantasy,20000,4
+40,young adult,10000,4
+20,fairy-tales,10000,4
+10,fantasy,10000,4
+10,mystery,10000,4
+20,NA,10000,4
+10,romance,20000,4
+30,sci-fi,10000,4
+30,young adult,10000,4
+20,fantasy,10000,4
+40,NA,10000,4
+20,mystery,10000,4
+10,drama,10000,4
+20,mystery,10000,4
+50,mystery,20000,4
+20,comedy,10000,4
+80,romance,10000,4
+40,drama,10000,4
+20,young adult,20000,4
+20,comedy,10000,4
+30,NA,10000,4
+30,romance,20000,4
+30,young adult,20000,4
+20,NA,10000,4
+80,sci-fi,10000,4
+10,young adult,10000,4
+70,NA,10000,4
+30,mystery,10000,4
+30,NA,10000,4
+20,young adult,20000,4
+50,fantasy,20000,4
+10,young adult,10000,4
+30,mystery,0,4
+20,horror,10000,4
+50,thriller,10000,4
+20,sci-fi,10000,4
+20,fantasy,20000,4
+10,fantasy,10000,4
+10,romance,20000,4
+0,NA,10000,4
+10,mystery,10000,4
+10,fantasy,20000,4
+30,fantasy,20000,4
+50,mystery,10000,4
+10,NA,10000,4
+30,young adult,10000,4
+30,crime,10000,4
+0,sci-fi,10000,5
+40,NA,10000,4
+100,NA,10000,5
+10,sci-fi,10000,4
+50,horror,10000,4
+50,NA,10000,4
+20,fantasy,20000,4
+300,romance,10000,4
+10,comedy,10000,4
+10,young adult,10000,4
+0,comedy,10000,4
+10,romance,20000,4
+20,fantasy,20000,4
+40,mystery,10000,4
+20,mystery,10000,4
+40,fantasy,20000,4
+50,fantasy,10000,4
+30,romance,10000,4
+80,drama,10000,4
+40,NA,10000,4
+40,crime,10000,4
+60,romance,20000,4
+40,romance,20000,4
+50,romance,10000,4
+20,drama,10000,4
+40,romance,10000,4
+20,romance,20000,4
+100,NA,10000,4
+50,young adult,20000,3
+50,mystery,20000,4
+30,NA,10000,4
+20,mystery,10000,4
+40,NA,10000,4
+20,comedy,10000,3
+20,fantasy,20000,4
+60,romance,10000,4
+30,romance,20000,4
+30,romance,10000,4
+20,fantasy,10000,4
+20,sci-fi,10000,4
+20,NA,10000,4
+20,young adult,10000,4
+200,NA,10000,4
+200,mystery,10000,4
+30,young adult,20000,4
+10,fantasy,10000,4
+40,NA,10000,4
+60,mystery,10000,3
+50,mystery,20000,4
+400,romance,10000,4
+50,NA,10000,4
+10,romance,20000,4
+30,NA,10000,4
+10,romance,20000,4
+70,mystery,10000,4
+10,mystery,10000,4
+10,romance,10000,4
+20,fantasy,20000,4
+30,mystery,10000,4
+50,comedy,10000,3
+50,mystery,20000,4
+200,NA,10000,4
+70,mystery,10000,4
+20,comedy,10000,4
+50,NA,10000,4
+50,drama,10000,4
+50,drama,10000,4
+20,young adult,0,4
+30,NA,10000,4
+80,drama,10000,4
+10,sci-fi,20000,4
+20,romance,10000,4
+50,comedy,10000,4
+20,romance,10000,3
+50,NA,10000,4
+60,thriller,10000,4
+40,NA,10000,4
+50,young adult,10000,4
+20,fantasy,10000,4
+60,mystery,10000,4
+20,young adult,10000,4
+0,romance,10000,4
+50,NA,10000,4
+30,NA,10000,4
+20,sci-fi,10000,4
+30,romance,10000,4
+200,drama,10000,4
+0,fantasy,10000,4
+30,drama,10000,4
+30,romance,20000,4
+10,young adult,10000,4
+50,romance,20000,4
+30,young adult,20000,4
+30,young adult,20000,4
+10,comedy,10000,4
+40,NA,10000,4
+80,NA,10000,4
+10,NA,10000,4
+50,sci-fi,10000,4
+20,romance,10000,4
+20,NA,10000,4
+0,NA,10000,4
+50,comedy,10000,4
+40,young adult,10000,4
+10,fantasy,10000,4
+60,fantasy,10000,4
+40,mystery,10000,4
+10,romance,20000,4
+30,young adult,20000,4
+40,romance,10000,4
+40,NA,10000,4
+20,fantasy,10000,4
+20,mystery,10000,4
+10,crime,10000,4
+20,young adult,10000,4
+30,romance,10000,4
+50,thriller,10000,4
+40,horror,10000,4
+30,NA,10000,4
+40,mystery,10000,4
+30,horror,10000,4
+10,fantasy,20000,4
+60,romance,10000,4
+20,romance,20000,4
+20,horror,10000,4
+10,horror,10000,4
+70,fantasy,10000,4
+0,NA,10000,4
+60,sci-fi,10000,4
+30,young adult,20000,4
+40,NA,10000,4
+30,NA,10000,4
+20,fantasy,20000,4
+10,romance,10000,4
+40,fantasy,10000,4
+20,young adult,10000,4
+10,romance,20000,4
+40,romance,10000,4
+20,romance,10000,4
+50,crime,10000,4
+50,horror,10000,4
+10,drama,10000,4
+70,young adult,10000,4
+10,fantasy,10000,4
+10,crime,10000,4
+20,fantasy,10000,4
+20,young adult,10000,4
+40,thriller,10000,4
+30,mystery,10000,4
+30,fantasy,20000,4
+40,young adult,20000,4
+10,NA,10000,4
+30,fantasy,10000,4
+300,drama,10000,4
+10,young adult,10000,4
+10,fantasy,10000,5
+10,romance,20000,5
+40,young adult,10000,4
+0,horror,10000,4
+50,fantasy,10000,3
+90,fantasy,10000,4
+100,romance,10000,4
+10,fantasy,10000,4
+10,sci-fi,10000,4
+10,thriller,10000,4
+20,young adult,10000,4
+20,romance,10000,4
+30,NA,10000,4
+20,drama,10000,4
+10,mystery,10000,4
+30,horror,10000,3
+30,romance,20000,4
+90,drama,10000,4
+20,sci-fi,10000,4
+10,mystery,10000,4
+10,NA,10000,4
+80,thriller,10000,4
+60,fantasy,10000,4
+40,mystery,10000,4
+30,romance,20000,4
+30,sci-fi,10000,4
+20,romance,10000,4
+10,romance,10000,4
+30,young adult,10000,4
+100,romance,10000,3
+30,fantasy,10000,3
+50,mystery,10000,4
+20,mystery,10000,4
+10,romance,10000,4
+50,thriller,10000,4
+0,NA,10000,4
+40,young adult,20000,4
+10,drama,10000,4
+70,crime,10000,4
+10,young adult,20000,4
+50,fantasy,10000,4
+40,young adult,10000,4
+20,fantasy,20000,4
+10,fantasy,10000,4
+30,fantasy,10000,4
+30,fantasy,10000,4
+30,NA,10000,4
+70,fantasy,10000,4
+400,horror,10000,3
+30,horror,10000,4
+20,young adult,10000,4
+10,fantasy,10000,4
+20,drama,10000,3
+20,comedy,10000,4
+10,NA,10000,4
+20,sci-fi,10000,3
+20,young adult,10000,4
+40,thriller,10000,4
+20,romance,10000,4
+20,fantasy,20000,4
+20,NA,10000,4
+70,fantasy,10000,4
+80,drama,10000,4
+30,sci-fi,10000,4
+10,romance,10000,4
+40,NA,10000,4
+50,romance,10000,4
+10,young adult,10000,4
+20,NA,10000,5
+10,young adult,20000,4
+40,romance,10000,4
+40,fantasy,10000,4
+60,romance,10000,4
+10,sci-fi,10000,5
+80,comedy,10000,4
+90,romance,10000,3
+10,NA,10000,4
+80,fantasy,10000,4
+30,romance,10000,4
+50,fantasy,10000,4
+60,NA,10000,3
+20,young adult,20000,4
+10,young adult,10000,4
+30,mystery,10000,4
+50,thriller,10000,4
+10,romance,10000,4
+10,mystery,10000,4
+30,fantasy,10000,4
+40,young adult,10000,4
+10,romance,20000,4
+10,romance,20000,4
+30,young adult,20000,4
+300,romance,10000,4
+20,fantasy,20000,4
+20,NA,10000,4
+30,mystery,20000,4
+50,romance,10000,4
+10,young adult,10000,5
+40,crime,10000,4
+200,mystery,20000,4
+60,mystery,10000,3
+30,romance,10000,4
+40,young adult,10000,4
+30,romance,20000,4
+10,NA,10000,4
+20,NA,10000,4
+20,sci-fi,10000,4
+70,thriller,10000,4
+30,NA,10000,4
+60,young adult,20000,4
+200,romance,10000,4
+10,romance,10000,4
+30,romance,10000,4
+40,crime,10000,4
+40,drama,10000,4
+30,fantasy,20000,4
+30,NA,10000,4
+200,NA,10000,5
+20,fantasy,10000,4
+10,comedy,10000,4
+30,romance,20000,4
+40,mystery,10000,4
+20,NA,10000,4
+80,fantasy,10000,4
+30,romance,20000,4
+20,fantasy,20000,4
+10,NA,10000,4
+10,fantasy,20000,4
+30,fantasy,20000,4
+40,thriller,10000,4
+10,NA,10000,4
+20,drama,10000,4
+10,fantasy,10000,4
+70,fantasy,10000,4
+40,mystery,20000,4
+40,fantasy,20000,4
+10,romance,20000,4
+60,young adult,10000,4
+50,mystery,10000,4
+30,mystery,10000,3
+50,mystery,20000,4
+10,fantasy,10000,4
+40,mystery,10000,4
+10,young adult,10000,4
+20,fairy-tales,10000,4
+60,romance,10000,4
+300,fantasy,20000,4
+10,thriller,10000,4
+60,mystery,10000,4
+20,fantasy,20000,4
+30,fantasy,10000,4
+30,romance,20000,4
+20,young adult,20000,4
+10,fantasy,10000,4
+40,fantasy,10000,4
+20,fantasy,10000,4
+50,romance,10000,4
+10,fantasy,10000,4
+60,fantasy,10000,4
+300,romance,10000,4
+40,drama,10000,3
+40,mystery,10000,4
+20,young adult,10000,4
+90,mystery,10000,4
+80,thriller,10000,4
+10,romance,10000,4
+10,mystery,10000,4
+50,romance,10000,4
+10,fantasy,10000,4
+20,NA,10000,4
+20,fantasy,20000,4
+30,romance,20000,4
+50,NA,10000,4
+30,young adult,10000,4
+20,sci-fi,10000,4
+10,romance,10000,4
+10,romance,10000,4
+10,sci-fi,10000,4
+100,romance,10000,4
+30,NA,10000,4
+10,romance,10000,4
+20,young adult,10000,4
+20,thriller,0,4
+20,drama,10000,4
+30,mystery,10000,4
+30,sci-fi,10000,4
+30,NA,10000,4
+10,romance,10000,4
+50,mystery,10000,4
+40,fantasy,10000,4
+20,romance,10000,4
+40,crime,10000,4
+20,drama,10000,4
+30,NA,10000,4
+10,drama,10000,4
+50,NA,10000,4
+30,NA,10000,4
+30,mystery,10000,3
+10,fantasy,10000,4
+80,comedy,10000,4
+40,fantasy,10000,4
+60,thriller,10000,4
+30,mystery,10000,3
+40,fantasy,10000,4
+30,fantasy,20000,4
+40,mystery,10000,4
+30,crime,10000,4
+30,romance,10000,4
+10,young adult,10000,4
+20,mystery,10000,4
+50,fantasy,10000,4
+30,young adult,10000,4
+20,NA,10000,4
+40,young adult,20000,4
+20,young adult,10000,4
+20,fantasy,20000,4
+30,crime,10000,4
+70,mystery,10000,3
+40,young adult,10000,4
+50,mystery,10000,4
+10,NA,10000,4
+10,fantasy,10000,4
+80,romance,10000,4
+30,comedy,10000,4
+30,romance,10000,4
+10,crime,10000,4
+10,romance,20000,4
+20,romance,20000,4
+10,NA,10000,4
+80,young adult,10000,4
+30,drama,10000,4
+30,mystery,10000,4
+30,NA,10000,3
+20,romance,20000,4
+40,horror,10000,4
+80,NA,10000,4
+40,fantasy,20000,4
+100,NA,10000,4
+20,romance,10000,4
+300,comedy,10000,4
+40,young adult,10000,4
+10,horror,10000,4
+40,romance,10000,4
+60,NA,10000,4
+20,NA,20000,4
+10,fantasy,20000,4
+10,romance,20000,4
+20,fantasy,10000,4
+30,romance,10000,4
+10,mystery,10000,4
+20,fantasy,10000,4
+40,young adult,10000,4
+0,romance,10000,4
+30,fantasy,10000,4
+10,sci-fi,10000,4
+20,NA,10000,4
+50,fantasy,10000,4
+30,mystery,10000,4
+20,fantasy,20000,4
+50,romance,10000,3
+30,fantasy,20000,4
+40,fantasy,10000,4
+10,fantasy,10000,4
+40,comedy,10000,4
+50,mystery,10000,3
+90,thriller,10000,4
+90,mystery,10000,4
+30,fantasy,10000,4
+20,young adult,10000,4
+60,NA,10000,4
+20,young adult,20000,4
+20,romance,20000,4
+60,fantasy,10000,4
+10,romance,10000,4
+10,romance,20000,4
+10,comedy,10000,4
+40,thriller,10000,4
+20,fantasy,10000,4
+60,thriller,10000,4
+60,sci-fi,10000,4
+20,fantasy,10000,4
+20,romance,20000,4
+80,NA,10000,4
+40,NA,10000,4
+50,romance,10000,4
+300,sci-fi,10000,4
+30,thriller,10000,4
+20,romance,20000,4
+20,thriller,10000,4
+40,young adult,10000,4
+10,NA,10000,4
+40,mystery,20000,4
+40,fantasy,10000,4
+30,young adult,10000,4
+20,comedy,10000,4
+60,NA,10000,4
+50,NA,10000,4
+60,mystery,10000,4
+30,romance,20000,4
+20,mystery,30000,4
+30,thriller,10000,4
+50,mystery,10000,4
+10,young adult,10000,4
+10,fantasy,10000,4
+40,sci-fi,10000,4
+10,young adult,10000,4
+20,fantasy,10000,4
+30,fantasy,10000,4
+10,young adult,10000,4
+20,drama,10000,4
+60,mystery,10000,4
+30,sci-fi,10000,4
+10,mystery,10000,4
+40,romance,10000,4
+20,romance,20000,4
+10,drama,10000,5
+50,fantasy,10000,4
+40,drama,10000,4
+80,drama,10000,4
+10,NA,10000,4
+10,romance,20000,4
+30,young adult,20000,4
+50,suspense,10000,4
+50,fantasy,10000,4
+30,mystery,10000,4
+0,horror,10000,4
+30,sci-fi,10000,4
+10,drama,10000,4
+30,fantasy,20000,4
+40,NA,10000,4
+40,romance,10000,4
+10,fantasy,10000,4
+50,NA,10000,4
+20,young adult,10000,4
+90,romance,10000,4
+40,drama,10000,4
+20,romance,20000,4
+20,fantasy,20000,4
+20,mystery,10000,4
+20,young adult,20000,4
+10,NA,10000,4
+50,romance,10000,4
+30,fantasy,10000,4
+0,romance,10000,3
+20,mystery,10000,4
+20,mystery,10000,4
+50,romance,10000,4
+30,NA,10000,4
+300,mystery,10000,4
+200,NA,10000,4
+30,young adult,10000,4
+30,mystery,10000,4
+20,mystery,10000,4
+30,young adult,20000,4
+20,NA,10000,4
+40,NA,10000,4
+0,romance,10000,4
+10,young adult,10000,4
+30,fantasy,10000,4
+10,romance,20000,4
+30,fantasy,20000,4
+70,NA,10000,4
+20,NA,10000,4
+10,fantasy,10000,4
+20,romance,10000,4
+10,NA,10000,4
+30,sci-fi,10000,4
+30,fantasy,10000,4
+10,NA,10000,4
+20,young adult,20000,4
+10,romance,20000,4
+30,sci-fi,10000,4
+20,romance,20000,4
+40,NA,10000,4
+90,thriller,10000,4
+20,NA,10000,4
+30,young adult,20000,4
+70,romance,10000,4
+20,young adult,20000,4
+200,NA,10000,4
+200,drama,10000,4
+30,romance,10000,3
+40,young adult,10000,4
+30,fantasy,20000,4
+60,NA,10000,4
+10,romance,20000,4
+10,young adult,10000,4
+10,fantasy,10000,4
+10,NA,10000,4
+60,mystery,10000,4
+30,NA,10000,4
+30,fantasy,10000,4
+10,romance,20000,4
+50,comedy,10000,4
+30,romance,10000,4
+20,fantasy,10000,4
+40,young adult,10000,4
+100,NA,10000,4
+10,young adult,10000,3
+10,young adult,10000,4
+30,romance,20000,4
+20,young adult,10000,4
+50,crime,10000,4
+20,young adult,10000,4
+50,sci-fi,10000,4
+100,romance,10000,4
+10,NA,10000,4
+30,fantasy,10000,4
+100,sci-fi,10000,4
+20,romance,10000,4
+30,romance,10000,4
+80,drama,10000,4
+10,horror,10000,4
+50,young adult,10000,4
+70,mystery,10000,4
+50,mystery,20000,4
+20,young adult,10000,4
+30,NA,10000,4
+50,mystery,10000,4
+30,fantasy,10000,4
+50,crime,10000,4
+20,fantasy,10000,4
+20,NA,10000,4
+20,thriller,10000,4
+10,fantasy,10000,4
+30,romance,10000,4
+50,sci-fi,10000,4
+20,mystery,20000,4
+70,young adult,10000,4
+80,mystery,10000,4
+20,fantasy,20000,4
+60,drama,10000,4
+20,romance,10000,4
+20,NA,10000,4
+20,fantasy,10000,4
+50,romance,20000,4
+40,young adult,10000,4
+200,romance,10000,4
+400,NA,10000,4
+20,romance,10000,4
+30,fantasy,10000,4
+20,fantasy,10000,4
+20,romance,10000,5
+500,romance,10000,4
+10,NA,10000,4
+60,mystery,10000,4
+30,young adult,10000,4
+20,young adult,10000,4
+10,fantasy,10000,4
+10,NA,10000,4
+10,young adult,10000,4
+30,NA,10000,4
+30,mystery,10000,4
+20,NA,10000,4
+20,NA,10000,4
+20,mystery,10000,4
+10,mystery,10000,4
+20,young adult,20000,4
+20,fantasy,10000,4
+20,romance,10000,4
+20,fantasy,20000,4
+30,mystery,10000,4
+200,romance,10000,4
+40,mystery,10000,4
+100,young adult,20000,4
+20,fantasy,10000,4
+40,NA,10000,4
+20,sci-fi,10000,4
+10,fantasy,20000,4
+40,mystery,10000,4
+10,young adult,10000,3
+10,comedy,10000,4
+20,romance,10000,4
+20,NA,0,4
+60,NA,10000,4
+20,NA,10000,4
+10,romance,20000,4
+20,NA,10000,4
+0,NA,10000,4
+30,NA,20000,4
+20,young adult,10000,4
+50,mystery,10000,4
+30,fantasy,10000,4
+20,young adult,10000,4
+200,NA,10000,4
+10,horror,10000,4
+10,comedy,10000,4
+0,fantasy,10000,4
+40,mystery,10000,4
+0,NA,10000,4
+60,fantasy,10000,4
+40,NA,10000,4
+10,young adult,10000,4
+50,fantasy,10000,4
+20,romance,20000,4
+10,young adult,20000,4
+30,sci-fi,10000,4
+30,mystery,10000,4
+50,romance,10000,4
+20,young adult,10000,4
+60,romance,10000,4
+40,thriller,10000,4
+30,romance,20000,4
+20,horror,10000,3
+60,thriller,10000,4
+20,NA,10000,4
+200,NA,10000,4
+10,fantasy,10000,4
+10,NA,10000,4
+30,sci-fi,10000,4
+30,young adult,20000,4
+30,mystery,10000,4
+10,crime,10000,4
+70,mystery,10000,4
+10,fantasy,10000,5
+20,romance,20000,4
+50,young adult,10000,4
+30,mystery,10000,4
+10,fantasy,20000,4
+20,mystery,10000,4
+100,mystery,10000,4
+10,NA,10000,4
+40,mystery,10000,4
+20,fantasy,10000,4
+50,fantasy,10000,4
+50,fantasy,10000,4
+40,fantasy,10000,3
+10,NA,10000,4
+30,romance,20000,4
+20,young adult,10000,4
+30,NA,10000,4
+20,young adult,10000,4
+20,young adult,10000,4
+20,sci-fi,10000,4
+10,horror,10000,5
+0,fantasy,10000,4
+30,NA,10000,4
+30,sci-fi,10000,4
+10,fantasy,20000,4
+10,fantasy,10000,4
+20,sci-fi,10000,4
+10,NA,10000,4
+20,sci-fi,10000,4
+40,mystery,10000,4
+20,young adult,10000,4
+20,young adult,10000,4
+30,mystery,10000,4
+30,young adult,20000,4
+30,romance,10000,4
+30,romance,10000,4
+30,comedy,10000,4
+100,crime,10000,4
+20,horror,10000,3
+10,romance,10000,4
+30,thriller,20000,4
+300,horror,10000,4
+60,Contemporary,10000,4
+50,NA,10000,3
+50,romance,10000,4
+20,NA,10000,4
+20,drama,10000,4
+40,fantasy,10000,4
+30,mystery,10000,4
+40,mystery,20000,4
+20,fantasy,20000,4
+10,NA,10000,4
+10,fantasy,10000,4
+60,young adult,10000,4
+0,crime,10000,4
+30,romance,20000,4
+10,crime,10000,4
+400,romance,10000,4
+20,fantasy,10000,4
+30,thriller,10000,4
+30,NA,10000,4
+10,fantasy,10000,4
+40,drama,10000,4
+30,mystery,10000,4
+20,mystery,10000,4
+60,young adult,10000,4
+10,mystery,10000,4
+20,young adult,10000,4
+40,thriller,10000,4
+60,drama,10000,4
+80,drama,10000,4
+20,romance,20000,4
+30,mystery,10000,4
+10,fantasy,10000,4
+30,NA,10000,4
+30,drama,10000,4
+20,mystery,10000,3
+30,comedy,10000,3
+10,fantasy,10000,4
+500,young adult,10000,4
+60,thriller,10000,4
+40,young adult,10000,4
+20,fantasy,10000,4
+50,mystery,10000,4
+20,drama,10000,3
+20,NA,10000,4
+80,young adult,10000,4
+20,young adult,10000,4
+50,drama,10000,3
+40,NA,10000,4
+30,NA,10000,4
+70,NA,10000,4
+50,romance,10000,4
+200,romance,10000,4
+70,sci-fi,10000,4
+10,fantasy,10000,4
+50,young adult,10000,4
+20,fantasy,10000,4
+10,NA,10000,4
+30,NA,10000,4
+10,young adult,20000,4
+50,fantasy,10000,4
+50,thriller,10000,4
+40,NA,10000,4
+30,NA,10000,3
+20,fantasy,10000,4
+70,mystery,10000,4
+20,horror,10000,4
+30,romance,20000,4
+30,mystery,10000,4
+200,drama,10000,4
+50,fantasy,10000,4
+20,romance,20000,4
+20,romance,10000,4
+60,thriller,10000,4
+10,romance,10000,4
+40,sci-fi,10000,4
+20,fantasy,10000,4
+10,mystery,10000,5
+20,romance,20000,4
+10,romance,10000,4
+20,fantasy,10000,4
+60,mystery,10000,4
+20,NA,10000,4
+50,NA,10000,4
+10,romance,10000,4
+30,christian,10000,4
+40,young adult,10000,4
+90,mystery,10000,4
+10,young adult,20000,4
+30,sci-fi,10000,4
+20,fantasy,10000,4
+30,mystery,10000,4
+100,mystery,10000,4
+30,fantasy,10000,4
+100,romance,10000,4
+20,comedy,10000,4
+50,thriller,10000,4
+300,NA,10000,4
+10,romance,10000,4
+30,young adult,10000,4
+40,young adult,10000,4
+20,mystery,10000,4
+10,young adult,10000,4
+10,horror,10000,4
+50,fantasy,10000,4
+20,mystery,10000,4
+30,NA,10000,4
+50,mystery,10000,4
+50,mystery,10000,4
+0,romance,10000,4
+50,NA,10000,4
+70,fantasy,10000,4
+40,NA,10000,4
+30,young adult,10000,4
+50,drama,10000,4
+10,fantasy,20000,4
+30,drama,10000,4
+30,romance,10000,4
+10,romance,10000,4
+40,mystery,10000,4
+60,horror,10000,4
+40,romance,10000,3
+30,fantasy,10000,4
+60,NA,10000,4
+10,NA,10000,4
+20,romance,20000,4
+100,drama,10000,4
+40,mystery,10000,4
+40,NA,10000,4
+30,mystery,10000,4
+10,romance,10000,4
+10,sci-fi,10000,4
+20,fantasy,20000,4
+10,comedy,10000,4
+70,mystery,10000,4
+20,NA,10000,4
+40,fantasy,10000,4
+20,fairy-tales,10000,4
+0,romance,20000,4
+20,mystery,10000,4
+20,NA,10000,4
+20,mystery,10000,4
+60,drama,10000,4
+50,fantasy,10000,4
+10,young adult,10000,4
+40,young adult,20000,4
+20,comedy,10000,4
+40,NA,10000,4
+40,romance,10000,4
+90,thriller,10000,4
+100,mystery,10000,4
+20,fantasy,10000,4
+0,fantasy,20000,4
+40,mystery,10000,4
+10,romance,10000,5
+50,NA,10000,4
+20,fantasy,10000,4
+60,fantasy,10000,4
+80,mystery,10000,4
+40,NA,10000,4
+70,romance,10000,4
+40,mystery,10000,4
+30,romance,10000,4
+80,thriller,10000,4
+60,romance,10000,4
+20,young adult,10000,4
+20,crime,10000,4
+0,mystery,10000,4
+20,young adult,20000,4
+30,young adult,10000,4
+10,fantasy,10000,4
+60,romance,10000,4
+40,comedy,10000,4
+40,thriller,10000,3
+30,young adult,10000,4
+80,fantasy,10000,3
+10,NA,10000,4
+20,NA,10000,4
+40,crime,10000,4
+10,sci-fi,10000,4
+20,drama,10000,4
+10,drama,10000,4
+40,romance,20000,4
+30,mystery,10000,4
+30,fantasy,10000,4
+30,NA,10000,4
+20,fantasy,10000,4
+300,young adult,10000,4
+10,romance,10000,4
+30,NA,10000,4
+0,romance,20000,4
+60,fantasy,10000,4
+50,thriller,10000,4
+50,mystery,10000,4
+500,drama,10000,4
+30,romance,10000,4
+60,mystery,10000,4
+40,romance,10000,4
+20,mystery,10000,4
+30,NA,10000,4
+90,romance,10000,4
+20,NA,10000,4
+30,sci-fi,10000,4
+40,mystery,10000,4
+30,comedy,10000,4
+30,NA,10000,4
+10,fantasy,20000,4
+30,fantasy,0,4
+50,crime,10000,4
+10,fantasy,10000,4
+30,young adult,10000,4
+20,NA,10000,4
+90,fantasy,10000,4
+20,romance,10000,4
+10,romance,20000,4
+10,crime,10000,3
+10,young adult,10000,4
+20,fantasy,10000,4
+60,NA,10000,4
+30,fairy-tales,10000,4
+20,NA,10000,4
+10,young adult,10000,5
+20,fantasy,10000,4
+30,young adult,10000,4
+50,NA,10000,4
+20,comedy,10000,4
+30,fantasy,10000,4
+10,fantasy,10000,4
+30,crime,10000,4
+30,NA,10000,4
+40,young adult,10000,4
+20,crime,10000,4
+20,fantasy,10000,4
+30,mystery,10000,4
+60,romance,10000,4
+30,NA,10000,4
+10,young adult,20000,4
+10,young adult,20000,4
+50,crime,10000,4
+30,sci-fi,10000,4
+40,mystery,10000,4
+90,NA,0,5
+20,NA,10000,4
+10,sci-fi,10000,4
+400,fantasy,10000,4
+50,mystery,10000,4
+30,young adult,10000,4
+10,romance,20000,4
+60,horror,10000,4
+10,thriller,10000,4
+10,romance,20000,4
+40,horror,10000,4
+20,NA,10000,4
+40,fantasy,20000,4
+10,fantasy,10000,4
+40,drama,10000,3
+30,sci-fi,10000,4
+20,young adult,10000,4
+20,NA,10000,4
+20,drama,10000,4
+60,romance,20000,4
+30,romance,20000,4
+10,young adult,10000,4
+10,fairy-tales,10000,4
+30,sci-fi,10000,4
+10,young adult,10000,4
+70,mystery,10000,4
+80,fantasy,10000,4
+30,NA,10000,4
+40,NA,10000,4
+30,comedy,10000,4
+20,comedy,10000,5
+300,crime,10000,4
+40,fantasy,10000,3
+50,mystery,10000,4
+10,fantasy,10000,4
+30,drama,10000,4
+30,thriller,10000,4
+50,thriller,10000,4
+50,horror,10000,3
+60,horror,10000,4
+30,fantasy,10000,4
+20,young adult,10000,4
+30,thriller,10000,4
+10,romance,20000,4
+20,romance,10000,4
+10,young adult,10000,4
+50,mystery,10000,4
+10,fantasy,20000,4
+50,NA,10000,4
+80,mystery,10000,4
+20,NA,10000,4
+80,mystery,10000,4
+20,NA,10000,3
+10,NA,10000,4
+30,horror,10000,4
+20,NA,10000,4
+10,mystery,10000,4
+60,young adult,10000,4
+30,young adult,20000,4
+40,sci-fi,10000,4
+10,young adult,10000,4
+10,fantasy,10000,4
+0,mystery,10000,4
+30,NA,10000,4
+20,romance,20000,4
+10,romance,20000,4
+20,young adult,10000,4
+20,drama,10000,4
+20,fantasy,10000,4
+20,mystery,10000,4
+20,fantasy,10000,3
+50,romance,10000,4
+10,drama,10000,4
+60,mystery,10000,4
+50,horror,10000,4
+10,romance,10000,4
+30,fantasy,10000,5
+10,fantasy,10000,4
+10,romance,10000,4
+20,romance,20000,4
+20,NA,10000,4
+0,fantasy,10000,4
+20,sci-fi,10000,4
+10,romance,20000,4
+20,drama,10000,4
+10,sci-fi,10000,4
+10,NA,10000,4
+20,thriller,10000,4
+20,romance,20000,4
+10,mystery,10000,4
+30,sci-fi,10000,4
+10,horror,10000,4
+10,fantasy,10000,4
+20,romance,20000,4
+30,mystery,10000,4
+10,fantasy,10000,4
+20,NA,10000,4
+10,fantasy,10000,4
+0,drama,10000,4
+10,romance,20000,4
+30,fantasy,10000,4
+40,NA,10000,4
+10,fantasy,10000,4
+20,fantasy,20000,4
+50,mystery,10000,4
+0,horror,10000,4
+40,mystery,10000,4
+60,thriller,10000,3
+40,fantasy,10000,4
+20,fantasy,20000,4
+20,NA,10000,4
+10,NA,10000,4
+20,mystery,10000,4
+30,romance,20000,4
+0,fantasy,20000,4
+70,mystery,10000,4
+20,young adult,10000,4
+30,fantasy,10000,4
+30,fantasy,10000,4
+50,mystery,10000,3
+50,romance,10000,4
+40,fantasy,10000,4
+10,fantasy,20000,4
+10,NA,10000,5
+40,fantasy,10000,4
+70,NA,10000,4
+10,romance,10000,4
+60,fantasy,20000,4
+40,thriller,10000,4
+40,NA,10000,4
+20,NA,10000,4
+20,romance,10000,4
+30,young adult,10000,4
+50,fantasy,10000,4
+0,drama,20000,4
+0,romance,10000,4
+10,mystery,10000,4
+30,fantasy,10000,4
+10,fantasy,10000,4
+10,NA,10000,4
+30,fantasy,10000,4
+20,romance,10000,4
+50,NA,10000,4
+20,fantasy,10000,4
+10,romance,20000,4
+20,young adult,10000,4
+0,romance,20000,4
+10,crime,10000,4
+50,fantasy,10000,4
+20,horror,10000,4
+20,romance,10000,4
+30,young adult,10000,4
+10,NA,10000,3
+10,romance,10000,4
+10,romance,10000,4
+20,young adult,10000,4
+30,crime,10000,4
+20,romance,10000,4
+90,horror,0,4
+50,thriller,10000,4
+200,mystery,10000,4
+50,romance,10000,4
+10,spy,10000,4
+10,romance,10000,4
+0,sci-fi,10000,4
+10,drama,10000,4
+20,fantasy,10000,4
+30,young adult,10000,4
+10,sci-fi,10000,4
+100,drama,10000,4
+20,romance,20000,4
+30,thriller,10000,4
+20,fantasy,10000,4
+50,romance,10000,4
+40,romance,10000,4
+30,fantasy,10000,4
+70,comfort-food,10000,4
+10,fantasy,20000,4
+30,fantasy,20000,4
+10,young adult,10000,4
+20,young adult,20000,4
+30,fantasy,20000,4
+20,fantasy,10000,5
+30,romance,10000,4
+20,romance,10000,4
+50,mystery,10000,4
+20,drama,10000,3
+30,fantasy,10000,4
+30,romance,20000,4
+20,romance,20000,4
+50,drama,10000,4
+20,NA,10000,4
+30,young adult,10000,4
+20,young adult,10000,4
+30,mystery,10000,4
+40,mystery,10000,4
+30,fantasy,10000,4
+30,fantasy,10000,4
+30,drama,10000,4
+30,romance,20000,4
+20,romance,20000,4
+20,romance,10000,4
+20,NA,10000,4
+10,comedy,10000,3
+20,fantasy,10000,4
+20,fantasy,10000,4
+30,romance,20000,3
+10,romance,10000,4
+50,romance,10000,4
+50,romance,10000,3
+30,drama,10000,4
+40,romance,20000,4
+50,crime,10000,4
+40,romance,10000,4
+10,romance,10000,4
+20,fantasy,10000,4
+20,romance,10000,4
+50,romance,10000,4
+70,comedy,10000,4
+20,young adult,10000,4
+50,suspense,10000,4
+10,romance,10000,4
+60,NA,10000,4
+30,thriller,10000,4
+20,fantasy,20000,4
+50,romance,10000,4
+40,romance,10000,4
+30,NA,10000,4
+50,romance,10000,4
+20,young adult,10000,4
+10,fantasy,10000,5
+90,fantasy,10000,4
+30,fantasy,20000,4
+30,romance,10000,4
+100,fantasy,10000,4
+10,fantasy,10000,4
+30,mystery,10000,4
+60,mystery,10000,4
+20,fantasy,10000,4
+60,thriller,10000,4
+20,fantasy,10000,4
+40,romance,20000,4
+50,NA,10000,4
+10,crime,10000,4
+30,NA,10000,4
+40,mystery,10000,4
+20,young adult,10000,4
+20,fantasy,10000,4
+10,young adult,20000,4
+20,fantasy,10000,4
+30,horror,10000,4
+20,romance,10000,4
+20,fantasy,10000,4
+30,romance,10000,4
+60,drama,10000,4
+50,fantasy,10000,4
+30,thriller,10000,4
+20,young adult,20000,4
+20,NA,10000,4
+30,NA,10000,4
+0,romance,10000,4
+20,spy,10000,4
+400,drama,10000,3
+10,mystery,10000,4
+10,romance,10000,4
+50,mystery,10000,4
+10,fantasy,10000,4
+20,fantasy,10000,4
+20,fantasy,10000,4
+20,NA,10000,4
+70,crime,10000,4
+100,spy,10000,4
+30,fantasy,10000,3
+10,sci-fi,10000,4
+80,fantasy,10000,4
+70,mystery,10000,4
+20,sci-fi,10000,4
+20,young adult,10000,4
+20,mystery,10000,4
+10,romance,10000,4
+20,romance,20000,4
+10,romance,10000,4
+30,NA,10000,4
+50,NA,10000,4
+20,thriller,10000,4
+20,NA,10000,4
+20,comedy,10000,4
+30,romance,10000,4
+20,fantasy,10000,4
+20,comedy,10000,4
+70,fantasy,10000,4
+400,young adult,10000,4
+10,romance,20000,4
+20,fantasy,10000,4
+10,romance,20000,4
+30,young adult,20000,4
+30,NA,10000,4
+10,romance,20000,4
+30,NA,10000,4
+90,NA,10000,4
+30,NA,10000,4
+10,crime,10000,4
+50,romance,10000,3
+10,fantasy,10000,4
+20,romance,20000,4
+10,fantasy,20000,4
+10,romance,10000,4
+40,young adult,10000,4
+10,comedy,10000,4
+40,fantasy,10000,4
+30,NA,10000,4
+30,thriller,10000,4
+30,sci-fi,10000,4
+10,mystery,10000,4
+20,thriller,10000,4
+20,NA,10000,4
+200,drama,10000,4
+10,fantasy,10000,4
+10,fantasy,10000,4
+20,romance,20000,4
+50,young adult,10000,4
+30,NA,10000,4
+40,sci-fi,10000,4
+60,mystery,10000,4
+20,romance,10000,4
+20,fantasy,10000,3
+40,NA,10000,4
+30,NA,10000,4
+20,romance,10000,4
+20,thriller,10000,4
+30,comedy,10000,4
+80,NA,10000,4
+200,horror,10000,4
+20,fantasy,10000,4
+20,romance,10000,4
+50,NA,10000,4
+80,NA,10000,4
+500,drama,10000,4
+40,romance,10000,4
+20,romance,10000,4
+20,young adult,10000,4
+20,romance,10000,4
+30,thriller,10000,4
+300,NA,10000,4
+30,mystery,10000,4
+80,sci-fi,10000,4
+0,mystery,10000,4
+10,fantasy,10000,4
+10,romance,10000,4
+100,romance,10000,4
+20,romance,10000,4
+10,romance,10000,5
+70,young adult,10000,4
+10,romance,10000,4
+30,NA,10000,4
+50,NA,10000,4
+40,drama,0,4
+20,young adult,10000,4
+20,romance,10000,4
+0,fantasy,10000,4
+10,young adult,10000,4
+40,mystery,10000,4
+40,fantasy,10000,4
+40,fantasy,10000,4
+10,fantasy,10000,4
+50,thriller,10000,4
+50,fantasy,10000,4
+20,horror,0,4
+40,mystery,10000,4
+10,NA,10000,4
+20,young adult,10000,4
+20,romance,10000,4
+30,young adult,20000,4
+20,young adult,10000,4
+40,romance,20000,4
+0,fantasy,10000,4
+50,NA,10000,4
+0,romance,10000,4
+30,romance,20000,4
+40,NA,10000,4
+30,mystery,10000,4
+20,fantasy,10000,4
+40,fantasy,10000,4
+10,romance,10000,4
+10,young adult,10000,4
+10,comedy,10000,4
+20,young adult,10000,4
+30,young adult,20000,4
+100,romance,10000,4
+30,young adult,10000,3
+40,romance,10000,4
+40,NA,10000,4
+30,young adult,10000,4
+10,romance,20000,4
+20,romance,10000,4
+30,romance,20000,4
+20,drama,10000,4
+50,romance,10000,4
+10,romance,10000,4
+10,young adult,20000,4
+30,fantasy,10000,4
+20,young adult,10000,4
+10,NA,10000,4
+60,fantasy,10000,4
+20,romance,20000,4
+30,fantasy,10000,4
+40,NA,10000,4
+30,romance,10000,4
+20,young adult,10000,4
+30,fantasy,20000,4
+10,young adult,20000,4
+60,mystery,10000,4
+10,crime,10000,4
+40,young adult,10000,4
+10,romance,10000,4
+30,mystery,10000,4
+100,mystery,10000,4
+20,mystery,10000,4
+20,NA,10000,4
+0,fantasy,20000,4
+30,sci-fi,10000,4
+10,young adult,10000,4
+40,young adult,10000,4
+40,mystery,10000,3
+20,fantasy,10000,4
+60,sci-fi,10000,4
+30,romance,10000,4
+200,mystery,10000,4
+10,fantasy,10000,5
+80,young adult,10000,4
+50,mystery,10000,4
+80,mystery,10000,4
+40,romance,10000,4
+30,romance,10000,4
+40,thriller,10000,4
+50,fantasy,10000,4
+50,young adult,10000,4
+20,fantasy,10000,4
+10,mystery,10000,4
+10,romance,10000,4
+30,romance,20000,4
+10,fantasy,10000,4
+10,fantasy,10000,4
+40,NA,10000,4
+20,NA,10000,4
+10,romance,20000,4
+20,mystery,10000,4
+20,horror,10000,4
+10,romance,10000,4
+50,mystery,10000,4
+20,romance,10000,4
+30,thriller,10000,4
+20,sci-fi,10000,4
+40,romance,10000,4
+50,thriller,10000,4
+40,NA,10000,4
+30,fantasy,10000,4
+30,fantasy,10000,4
+30,NA,10000,4
+20,romance,10000,4
+20,mystery,10000,4
+60,fantasy,10000,4
+20,NA,10000,4
+100,thriller,10000,4
+10,sci-fi,10000,4
+10,romance,10000,4
+80,crime,10000,4
+0,romance,10000,3
+20,romance,10000,4
+40,sci-fi,10000,4
+10,romance,20000,4
+20,thriller,10000,4
+20,fantasy,10000,4
+80,mystery,10000,4
+50,crime,10000,4
+30,romance,10000,4
+90,thriller,10000,4
+400,drama,10000,4
+30,young adult,10000,4
+10,crime,20000,4
+20,NA,10000,4
+60,NA,10000,4
+20,young adult,10000,4
+10,romance,10000,4
+20,sci-fi,10000,4
+40,romance,10000,4
+20,fantasy,10000,4
+10,young adult,10000,4
+10,romance,10000,4
+40,mystery,10000,4
+100,mystery,10000,4
+20,sci-fi,10000,5
+20,young adult,10000,4
+300,romance,10000,4
+70,drama,10000,3
+20,romance,20000,4
+40,thriller,10000,4
+200,mystery,10000,4
+10,mystery,10000,4
+10,fantasy,10000,4
+10,young adult,10000,4
+20,fantasy,10000,4
+40,fantasy,10000,4
+10,NA,10000,4
+50,drama,10000,4
+50,mystery,10000,4
+30,mystery,10000,4
+10,romance,10000,4
+80,crime,10000,4
+30,mystery,10000,4
+10,young adult,10000,4
+30,young adult,10000,4
+30,romance,20000,4
+60,romance,10000,4
+10,comedy,10000,4
+10,NA,10000,4
+20,romance,10000,3
+50,fantasy,10000,4
+30,sci-fi,10000,4
+50,young adult,10000,4
+30,young adult,10000,4
+0,young adult,10000,4
+60,fantasy,10000,4
+10,fantasy,10000,4
+40,NA,10000,4
+50,fairy-tales,10000,4
+40,mystery,10000,4
+30,romance,10000,4
+30,young adult,10000,4
+20,mystery,10000,4
+40,romance,10000,3
+0,comedy,10000,4
+60,romance,10000,3
+10,comedy,10000,4
+20,fantasy,10000,4
+40,mystery,10000,4
+40,horror,10000,4
+30,NA,10000,4
+50,young adult,10000,4
+30,thriller,10000,4
+30,spy,10000,4
+30,NA,10000,4
+50,sci-fi,10000,3
+10,romance,10000,4
+20,fantasy,10000,4
+20,sci-fi,10000,4
+30,mystery,10000,4
+20,NA,10000,4
+50,mystery,10000,4
+0,romance,10000,4
+300,young adult,10000,4
+20,fantasy,10000,4
+50,NA,10000,4
+10,romance,20000,4
+20,NA,10000,4
+30,sci-fi,10000,4
+30,fantasy,10000,4
+100,horror,10000,4
+20,sci-fi,0,4
+30,NA,10000,4
+0,romance,20000,4
+60,young adult,10000,4
+10,romance,10000,4
+20,fantasy,10000,4
+40,mystery,10000,4
+0,romance,20000,4
+300,fantasy,10000,4
+30,comedy,10000,4
+10,young adult,10000,4
+50,fantasy,10000,3
+20,fantasy,10000,5
+20,NA,10000,4
+0,NA,10000,4
+20,fantasy,20000,4
+30,NA,10000,4
+10,romance,20000,4
+30,horror,10000,4
+30,sci-fi,10000,4
+100,fantasy,10000,4
+20,fantasy,20000,4
+60,NA,10000,4
+50,young adult,10000,4
+20,romance,10000,4
+20,comedy,10000,5
+20,young adult,10000,4
+40,NA,10000,4
+0,NA,10000,4
+20,sci-fi,10000,4
+10,romance,20000,4
+10,young adult,10000,4
+60,mystery,10000,4
+20,sci-fi,10000,4
+20,NA,10000,4
+30,fantasy,10000,4
+20,fantasy,10000,4
+50,Contemporary,10000,3
+10,romance,10000,4
+30,sci-fi,10000,4
+20,romance,10000,4
+20,young adult,10000,4
+40,romance,20000,4
+20,mystery,10000,4
+50,fantasy,10000,4
+50,NA,10000,4
+40,mystery,10000,3
+10,fantasy,10000,4
+10,comedy,10000,4
+30,young adult,10000,4
+40,mystery,10000,4
+30,romance,20000,4
+10,mystery,10000,4
+40,sci-fi,10000,4
+30,young adult,10000,4
+20,fantasy,20000,4
+10,fantasy,10000,4
+10,young adult,10000,4
+20,mystery,10000,4
+10,fantasy,10000,4
+20,mystery,10000,4
+20,romance,20000,4
+30,NA,10000,4
+10,NA,10000,4
+100,fantasy,10000,4
+30,sci-fi,10000,4
+0,young adult,10000,4
+20,fantasy,10000,4
+0,horror,10000,4
+400,NA,10000,4
+20,mystery,10000,4
+40,thriller,10000,4
+20,NA,10000,4
+10,young adult,10000,4
+20,romance,10000,4
+20,fantasy,20000,4
+30,romance,10000,4
+20,drama,10000,4
+20,NA,10000,4
+40,fantasy,10000,4
+80,young adult,10000,4
+20,NA,10000,4
+20,NA,10000,4
+10,sci-fi,10000,4
+50,mystery,10000,4
+40,thriller,10000,4
+30,NA,10000,4
+40,NA,10000,4
+60,NA,10000,3
+60,young adult,10000,4
+10,young adult,10000,4
+40,mystery,10000,4
+40,fantasy,10000,4
+80,mystery,10000,3
+40,young adult,10000,4
+30,comedy,10000,4
+50,thriller,10000,4
+30,mystery,10000,4
+100,drama,10000,4
+20,fantasy,10000,4
+20,fantasy,10000,4
+50,fantasy,10000,4
+10,mystery,10000,4
+20,crime,10000,4
+200,NA,10000,4
+30,NA,10000,4
+20,comedy,10000,4
+10,romance,20000,4
+30,fantasy,10000,4
+80,fantasy,10000,4
+60,thriller,10000,4
+20,romance,20000,4
+30,mystery,10000,4
+30,sci-fi,10000,4
+40,mystery,10000,4
+10,fantasy,10000,4
+20,fantasy,10000,4
+10,fantasy,20000,4
+30,comedy,10000,4
+70,mystery,10000,4
+50,NA,10000,4
+30,NA,10000,4
+200,NA,10000,4
+40,fantasy,10000,4
+50,horror,10000,3
+30,NA,10000,4
+50,young adult,10000,4
+40,young adult,10000,4
+10,mystery,10000,4
+40,sci-fi,10000,4
+40,mystery,10000,4
+40,fantasy,10000,4
+20,romance,20000,4
+100,NA,10000,4
+30,NA,10000,4
+10,romance,20000,4
+30,young adult,10000,4
+0,horror,10000,4
+40,fantasy,10000,4
+30,thriller,10000,4
+80,mystery,10000,4
+20,fantasy,10000,4
+30,NA,10000,4
+70,drama,10000,4
+20,NA,10000,4
+50,fantasy,10000,3
+10,young adult,20000,4
+10,romance,20000,4
+10,mystery,10000,4
+0,romance,10000,4
+20,fantasy,10000,4
+10,romance,10000,4
+20,fantasy,10000,4
+50,sci-fi,10000,4
+30,NA,10000,4
+20,sci-fi,10000,4
+20,young adult,10000,4
+30,romance,0,4
+20,young adult,10000,4
+10,young adult,10000,4
+10,romance,10000,4
+10,drama,10000,4
+20,young adult,10000,4
+10,young adult,10000,4
+50,horror,10000,4
+50,fantasy,10000,4
+10,fantasy,10000,5
+30,romance,20000,4
+40,drama,10000,4
+20,NA,10000,4
+50,mystery,10000,4
+30,NA,10000,3
+50,romance,10000,4
+90,sci-fi,10000,4
+60,NA,10000,4
+50,comedy,10000,3
+20,sci-fi,10000,4
+40,fantasy,10000,4
+20,young adult,10000,4
+20,NA,10000,4
+60,fantasy,10000,4
+40,romance,10000,4
+20,romance,10000,4
+10,romance,10000,4
+20,mystery,10000,4
+50,NA,10000,4
+20,romance,10000,4
+20,young adult,10000,4
+10,sci-fi,10000,4
+20,comedy,10000,4
+20,sci-fi,10000,4
+20,romance,10000,4
+20,sci-fi,10000,4
+10,young adult,10000,4
+20,horror,10000,4
+40,young adult,10000,4
+40,fantasy,10000,4
+10,young adult,10000,4
+20,romance,10000,4
+10,fantasy,10000,4
+40,mystery,10000,4
+40,mystery,10000,4
+30,sci-fi,10000,4
+30,NA,10000,4
+10,NA,10000,4
+30,young adult,10000,3
+10,young adult,10000,4
+80,fantasy,10000,4
+10,romance,10000,4
+30,romance,10000,4
+10,NA,10000,4
+40,sci-fi,10000,4
+20,comedy,10000,4
+30,romance,10000,4
+80,young adult,10000,4
+60,NA,10000,4
+20,young adult,10000,4
+60,thriller,10000,4
+300,NA,10000,4
+20,NA,10000,4
+20,fantasy,10000,4
+20,young adult,10000,4
+0,horror,10000,4
+20,thriller,10000,4
+50,romance,10000,4
+200,fantasy,10000,4
+30,fantasy,10000,4
+10,fantasy,10000,4
+10,romance,10000,4
+10,sci-fi,10000,4
+30,sci-fi,10000,4
+40,horror,10000,4
+20,romance,10000,5
+20,horror,10000,4
+20,horror,10000,4
+0,romance,10000,4
+70,fantasy,10000,4
+30,drama,10000,4
+10,drama,10000,4
+20,crime,0,4
+50,thriller,10000,4
+20,fantasy,10000,4
+10,romance,10000,4
+20,comedy,10000,4
+80,thriller,10000,4
+50,drama,10000,4
+30,mystery,10000,4
+30,fantasy,10000,4
+30,thriller,10000,4
+30,fantasy,10000,4
+10,fantasy,10000,4
+60,romance,10000,4
+10,fantasy,10000,4
+10,fantasy,10000,4
+40,mystery,10000,4
+40,romance,10000,4
+20,fantasy,10000,5
+10,romance,10000,4
+20,NA,10000,4
+50,NA,10000,4
+70,thriller,10000,4
+20,romance,10000,4
+40,romance,10000,4
+10,young adult,10000,4
+20,sci-fi,10000,4
+10,NA,10000,4
+10,romance,10000,4
+20,romance,20000,4
+50,disney,10000,4
+300,NA,10000,4
+30,mystery,10000,4
+0,fantasy,10000,4
+50,NA,10000,4
+10,NA,10000,4
+30,romance,10000,4
+10,romance,10000,4
+10,NA,10000,4
+10,romance,10000,4
+60,romance,10000,4
+0,romance,10000,4
+20,drama,10000,4
+10,comedy,10000,4
+70,mystery,10000,4
+20,NA,10000,4
+30,NA,10000,4
+20,romance,10000,4
+10,romance,20000,4
+20,young adult,10000,4
+10,fantasy,10000,4
+40,drama,10000,4
+10,mystery,10000,4
+60,romance,10000,4
+10,young adult,10000,5
+40,young adult,10000,4
+10,young adult,10000,4
+20,romance,20000,4
+40,fantasy,10000,4
+20,NA,10000,4
+20,sci-fi,10000,4
+50,fantasy,10000,4
+10,sci-fi,10000,4
+20,fantasy,10000,4
+70,thriller,10000,4
+10,fantasy,10000,4
+30,drama,10000,3
+20,fantasy,20000,4
+50,fantasy,10000,4
+40,NA,10000,4
+20,NA,0,4
+10,sci-fi,10000,4
+30,young adult,10000,4
+80,romance,10000,3
+50,sci-fi,10000,4
+50,NA,10000,4
+20,NA,10000,4
+40,thriller,10000,4
+10,young adult,10000,4
+30,sci-fi,10000,4
+40,romance,20000,4
+30,fantasy,10000,4
+40,mystery,10000,4
+50,romance,10000,4
+10,fantasy,10000,4
+30,NA,10000,4
+10,romance,10000,4
+20,fantasy,10000,4
+50,fantasy,10000,4
+50,NA,10000,4
+50,thriller,10000,4
+20,young adult,10000,4
+20,fantasy,10000,4
+30,mystery,10000,4
+30,drama,10000,4
+50,mystery,10000,4
+10,fantasy,10000,4
+20,NA,10000,4
+10,romance,10000,4
+20,romance,20000,4
+60,horror,10000,4
+20,romance,10000,4
+50,mystery,10000,4
+10,young adult,10000,4
+30,sci-fi,10000,4
+10,romance,20000,4
+40,mystery,10000,4
+20,young adult,10000,4
+10,young adult,10000,4
+30,NA,10000,4
+0,horror,10000,4
+50,mystery,10000,4
+20,mystery,10000,4
+30,sci-fi,10000,4
+10,romance,10000,4
+50,drama,10000,4
+20,romance,10000,4
+30,romance,10000,3
+100,drama,10000,4
+30,young adult,10000,4
+30,NA,10000,4
+40,fantasy,10000,4
+10,NA,10000,4
+20,young adult,10000,4
+40,mystery,10000,4
+40,romance,10000,4
+20,young adult,10000,4
+10,mystery,10000,4
+20,young adult,10000,4
+20,young adult,10000,4
+10,NA,10000,4
+20,fantasy,10000,4
+30,young adult,10000,4
+50,fantasy,10000,4
+30,fantasy,10000,4
+50,romance,10000,4
+0,comedy,10000,4
+30,drama,10000,3
+50,mystery,10000,4
+10,NA,10000,4
+10,NA,10000,4
+10,NA,10000,4
+40,mystery,10000,4
+50,romance,10000,4
+20,young adult,10000,4
+20,fantasy,10000,4
+30,horror,10000,4
+70,drama,10000,4
+20,young adult,10000,4
+10,mystery,10000,4
+30,NA,10000,4
+10,romance,20000,4
+30,NA,10000,4
+20,fantasy,10000,4
+20,fantasy,10000,4
+10,romance,20000,4
+80,fantasy,10000,4
+20,mystery,10000,4
+10,fantasy,10000,4
+20,horror,10000,4
+30,young adult,10000,4
+20,fantasy,10000,4
+40,NA,10000,4
+30,NA,10000,4
+10,sci-fi,10000,4
+30,NA,10000,4
+70,thriller,10000,3
+10,NA,10000,4
+40,fantasy,10000,4
+40,fantasy,10000,4
+30,horror,10000,3
+70,romance,10000,4
+30,NA,10000,4
+70,NA,10000,4
+20,drama,10000,4
+10,romance,10000,4
+30,sci-fi,10000,4
+50,NA,10000,4
+40,young adult,10000,4
+40,fantasy,10000,4
+20,fantasy,10000,4
+60,drama,10000,4
+70,romance,10000,4
+60,thriller,10000,4
+10,romance,10000,4
+60,mystery,10000,4
+20,fantasy,10000,4
+40,NA,10000,4
+20,thriller,10000,4
+20,mystery,10000,4
+30,mystery,10000,4
+40,NA,10000,4
+10,young adult,10000,5
+40,NA,10000,4
+40,fantasy,10000,4
+30,fantasy,10000,4
+30,fantasy,10000,4
+0,fantasy,10000,4
+200,NA,10000,3
+20,fantasy,20000,4
+20,NA,10000,4
+60,NA,10000,4
+10,NA,10000,4
