@@ -1,4 +1,4 @@
-Version-count,Genre_num,No-of-rating,Rating,Class
+Version-count,Genre_id,No-of-rating,Rating,Class
 300,1,4800000,4.5,1
 500,2,4600000,4.5,1
 200,1,3900000,3.5,1
