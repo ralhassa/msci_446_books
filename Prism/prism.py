@@ -3,10 +3,8 @@
 
 import os
 
-#from util2 import Arff2Skl
-import arff, numpy as np
-dataset = arff.load(open('mydataset.arff', 'rb'))
-data = np.array(dataset['data'])
+from util2 import Arff2Skl
+
 
 """
 
@@ -77,14 +75,9 @@ Output format:
 
 class Prism():
 
-    def __init__(self, dataf):
-        
-        dataset = arff.load(open(dataf, 'rb'))
-        self._cv = np.array(dataset['data'])
-
-        
-      #  assert(os.path.exists(dataf))
-       # self._cvt = Arff2Skl(dataf)
+    def __init__(self, dataf):      
+      assert(os.path.exists(dataf))
+      self._cvt = Arff2Skl(dataf)
 
     def fit(self, label=[]):
         data, attributes = (self._cvt.to_dict(),
