@@ -3,7 +3,10 @@
 
 import os
 
-from util2 import Arff2Skl
+#from util2 import Arff2Skl
+import arff, numpy as np
+dataset = arff.load(open('mydataset.arff', 'rb'))
+data = np.array(dataset['data'])
 
 """
 
@@ -15,11 +18,11 @@ Input data:
    convertion of the dataset is done by calling the .to_dict() method.
    By calling this method we translate the dataset from the .arff format:
 
-   age	 spectacle-prescrip   astigmatism   tear-prod-rate  contact-lenses
+   age     spectacle-prescrip   astigmatism   tear-prod-rate  contact-lenses
    --------------------------------------------------------------------------
-   young	myope               no	                  reduced         none
-   young	myope               no      	normal	       soft
-   young	myope               yes     	reduced         none
+   young    myope               no                      reduced         none
+   young    myope               no          normal           soft
+   young    myope               yes         reduced         none
    ...
 
    to our representation that is a list of dictionaries:
@@ -74,9 +77,14 @@ Output format:
 
 class Prism():
 
-    def __init__(self, prism):
-        assert(os.path.exists(prism))
-        self._cvt = Arff2Skl(prism)
+    def __init__(self, dataf):
+        
+        dataset = arff.load(open(dataf, 'rb'))
+        self._cv = np.array(dataset['data'])
+
+        
+      #  assert(os.path.exists(dataf))
+       # self._cvt = Arff2Skl(dataf)
 
     def fit(self, label=[]):
         data, attributes = (self._cvt.to_dict(),
@@ -209,7 +217,7 @@ def printRules(rules,label):
 
 if __name__ == '__main__':
     import sys
-    prism = Prism(sys.argv[1])
+    prism = Prism("data.arff")
     rules, label = prism.fit()
     
     #printRules(rules,label)
